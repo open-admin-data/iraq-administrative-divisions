@@ -1,0 +1,47 @@
+{
+  "id": "IQG13Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "داقوق",
+    "en": "Daquq",
+    "slug": "daquq-iqg13q02"
+  },
+  "code": {
+    "id": "IQG13Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG13",
+    "level": 1,
+    "name": {
+      "local": "كركوك",
+      "en": "Kirkuk",
+      "slug": "kirkuk-iqg13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.995",
+    "lon": "44.171"
+  },
+  "metadata": {},
+  "source": {}
+}

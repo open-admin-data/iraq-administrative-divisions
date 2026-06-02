@@ -1,0 +1,47 @@
+{
+  "id": "IQG05Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحمزة",
+    "en": "Al-Hamza",
+    "slug": "al-hamza-iqg05q03"
+  },
+  "code": {
+    "id": "IQG05Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG05",
+    "level": 1,
+    "name": {
+      "local": "القادسية",
+      "en": "Al-Qadissiya",
+      "slug": "al-qadissiya-iqg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.591",
+    "lon": "44.775"
+  },
+  "metadata": {},
+  "source": {}
+}

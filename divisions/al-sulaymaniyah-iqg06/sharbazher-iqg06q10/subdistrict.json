@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG06Q10N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز شهربازار",
+      "en": "Markaz Sharbazher",
+      "slug": "markaz-sharbazher-iqg06q10n02"
+    },
+    "code": {
+      "id": "IQG06Q10N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q10",
+      "level": 2,
+      "name": {
+        "local": "شهربازار",
+        "en": "Sharbazher",
+        "slug": "sharbazher-iqg06q10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q10",
+        "level": 2,
+        "name": {
+          "local": "شهربازار",
+          "en": "Sharbazher",
+          "slug": "sharbazher-iqg06q10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.681",
+      "lon": "45.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q10N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ماوت",
+      "en": "Mawat",
+      "slug": "mawat-iqg06q10n04"
+    },
+    "code": {
+      "id": "IQG06Q10N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q10",
+      "level": 2,
+      "name": {
+        "local": "شهربازار",
+        "en": "Sharbazher",
+        "slug": "sharbazher-iqg06q10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q10",
+        "level": 2,
+        "name": {
+          "local": "شهربازار",
+          "en": "Sharbazher",
+          "slug": "sharbazher-iqg06q10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.838",
+      "lon": "45.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q10N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سروجك",
+      "en": "Saruchik",
+      "slug": "saruchik-iqg06q10n01"
+    },
+    "code": {
+      "id": "IQG06Q10N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q10",
+      "level": 2,
+      "name": {
+        "local": "شهربازار",
+        "en": "Sharbazher",
+        "slug": "sharbazher-iqg06q10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q10",
+        "level": 2,
+        "name": {
+          "local": "شهربازار",
+          "en": "Sharbazher",
+          "slug": "sharbazher-iqg06q10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.549",
+      "lon": "45.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q10N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سويل",
+      "en": "Siwail",
+      "slug": "siwail-iqg06q10n03"
+    },
+    "code": {
+      "id": "IQG06Q10N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q10",
+      "level": 2,
+      "name": {
+        "local": "شهربازار",
+        "en": "Sharbazher",
+        "slug": "sharbazher-iqg06q10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q10",
+        "level": 2,
+        "name": {
+          "local": "شهربازار",
+          "en": "Sharbazher",
+          "slug": "sharbazher-iqg06q10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.885",
+      "lon": "45.62"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

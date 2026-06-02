@@ -1,0 +1,47 @@
+{
+  "id": "IQG06Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "دوكان",
+    "en": "Dokan",
+    "slug": "dokan-iqg06q04"
+  },
+  "code": {
+    "id": "IQG06Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG06",
+    "level": 1,
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.92",
+    "lon": "45.036"
+  },
+  "metadata": {},
+  "source": {}
+}

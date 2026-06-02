@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG02Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السيبة",
+      "en": "Al-Siba",
+      "slug": "al-siba-iqg02q01n01"
+    },
+    "code": {
+      "id": "IQG02Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q01",
+      "level": 2,
+      "name": {
+        "local": "ابي الخصيب",
+        "en": "Abu Al-Khaseeb",
+        "slug": "abu-al-khaseeb-iqg02q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q01",
+        "level": 2,
+        "name": {
+          "local": "ابي الخصيب",
+          "en": "Abu Al-Khaseeb",
+          "slug": "abu-al-khaseeb-iqg02q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.316",
+      "lon": "48.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز ابي الخصيب",
+      "en": "Markaz Abu Al-Khaseeb",
+      "slug": "markaz-abu-al-khaseeb-iqg02q01n02"
+    },
+    "code": {
+      "id": "IQG02Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q01",
+      "level": 2,
+      "name": {
+        "local": "ابي الخصيب",
+        "en": "Abu Al-Khaseeb",
+        "slug": "abu-al-khaseeb-iqg02q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q01",
+        "level": 2,
+        "name": {
+          "local": "ابي الخصيب",
+          "en": "Abu Al-Khaseeb",
+          "slug": "abu-al-khaseeb-iqg02q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.408",
+      "lon": "47.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

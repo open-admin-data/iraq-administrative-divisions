@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG03Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الخضر",
+      "en": "Markaz Al-Khidhir",
+      "slug": "markaz-al-khidhir-iqg03q01n01"
+    },
+    "code": {
+      "id": "IQG03Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q01",
+      "level": 2,
+      "name": {
+        "local": "الخضر",
+        "en": "Al-Khidhir",
+        "slug": "al-khidhir-iqg03q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q01",
+        "level": 2,
+        "name": {
+          "local": "الخضر",
+          "en": "Al-Khidhir",
+          "slug": "al-khidhir-iqg03q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.261",
+      "lon": "45.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

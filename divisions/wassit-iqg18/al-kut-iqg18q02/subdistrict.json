@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG18Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الكوت",
+      "en": "Markaz Al-Kut",
+      "slug": "markaz-al-kut-iqg18q02n03"
+    },
+    "code": {
+      "id": "IQG18Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q02",
+      "level": 2,
+      "name": {
+        "local": "الكوت",
+        "en": "Al-Kut",
+        "slug": "al-kut-iqg18q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q02",
+        "level": 2,
+        "name": {
+          "local": "الكوت",
+          "en": "Al-Kut",
+          "slug": "al-kut-iqg18q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.645",
+      "lon": "45.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شيخ سعد",
+      "en": "Shaekh Saad",
+      "slug": "shaekh-saad-iqg18q02n02"
+    },
+    "code": {
+      "id": "IQG18Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q02",
+      "level": 2,
+      "name": {
+        "local": "الكوت",
+        "en": "Al-Kut",
+        "slug": "al-kut-iqg18q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q02",
+        "level": 2,
+        "name": {
+          "local": "الكوت",
+          "en": "Al-Kut",
+          "slug": "al-kut-iqg18q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.664",
+      "lon": "46.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "واسط",
+      "en": "Wasit",
+      "slug": "wasit-iqg18q02n01"
+    },
+    "code": {
+      "id": "IQG18Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q02",
+      "level": 2,
+      "name": {
+        "local": "الكوت",
+        "en": "Al-Kut",
+        "slug": "al-kut-iqg18q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q02",
+        "level": 2,
+        "name": {
+          "local": "الكوت",
+          "en": "Al-Kut",
+          "slug": "al-kut-iqg18q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.311",
+      "lon": "46.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

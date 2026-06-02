@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG16Q04N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الدجيل",
+      "en": "Al-Dujeel",
+      "slug": "al-dujeel-iqg16q04n04"
+    },
+    "code": {
+      "id": "IQG16Q04N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q04",
+      "level": 2,
+      "name": {
+        "local": "بلد",
+        "en": "Balad",
+        "slug": "balad-iqg16q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q04",
+        "level": 2,
+        "name": {
+          "local": "بلد",
+          "en": "Balad",
+          "slug": "balad-iqg16q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.796",
+      "lon": "43.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الضلوعية",
+      "en": "Al-Duloeyah",
+      "slug": "al-duloeyah-iqg16q04n03"
+    },
+    "code": {
+      "id": "IQG16Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q04",
+      "level": 2,
+      "name": {
+        "local": "بلد",
+        "en": "Balad",
+        "slug": "balad-iqg16q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q04",
+        "level": 2,
+        "name": {
+          "local": "بلد",
+          "en": "Balad",
+          "slug": "balad-iqg16q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.111",
+      "lon": "44.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الاسحاقي",
+      "en": "Al-Esshaqi",
+      "slug": "al-esshaqi-iqg16q04n02"
+    },
+    "code": {
+      "id": "IQG16Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q04",
+      "level": 2,
+      "name": {
+        "local": "بلد",
+        "en": "Balad",
+        "slug": "balad-iqg16q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q04",
+        "level": 2,
+        "name": {
+          "local": "بلد",
+          "en": "Balad",
+          "slug": "balad-iqg16q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.959",
+      "lon": "43.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "يثرب",
+      "en": "Yathreb",
+      "slug": "yathreb-iqg16q04n01"
+    },
+    "code": {
+      "id": "IQG16Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q04",
+      "level": 2,
+      "name": {
+        "local": "بلد",
+        "en": "Balad",
+        "slug": "balad-iqg16q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q04",
+        "level": 2,
+        "name": {
+          "local": "بلد",
+          "en": "Balad",
+          "slug": "balad-iqg16q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.945",
+      "lon": "44.346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

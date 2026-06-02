@@ -1,0 +1,47 @@
+{
+  "id": "IQG08Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الكرخ",
+    "en": "Al-Karkh",
+    "slug": "al-karkh-iqg08q03"
+  },
+  "code": {
+    "id": "IQG08Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG08",
+    "level": 1,
+    "name": {
+      "local": "بغداد",
+      "en": "Baghdad",
+      "slug": "baghdad-iqg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.179",
+    "lon": "44.471"
+  },
+  "metadata": {},
+  "source": {}
+}

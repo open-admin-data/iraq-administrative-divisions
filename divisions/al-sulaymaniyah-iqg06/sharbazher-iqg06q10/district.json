@@ -1,0 +1,47 @@
+{
+  "id": "IQG06Q10",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهربازار",
+    "en": "Sharbazher",
+    "slug": "sharbazher-iqg06q10"
+  },
+  "code": {
+    "id": "IQG06Q10",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG06",
+    "level": 1,
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.703",
+    "lon": "45.628"
+  },
+  "metadata": {},
+  "source": {}
+}

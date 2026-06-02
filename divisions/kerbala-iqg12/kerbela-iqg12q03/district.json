@@ -1,0 +1,47 @@
+{
+  "id": "IQG12Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "كربلاء",
+    "en": "Kerbela",
+    "slug": "kerbela-iqg12q03"
+  },
+  "code": {
+    "id": "IQG12Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG12",
+    "level": 1,
+    "name": {
+      "local": "كربلاء",
+      "en": "Kerbala",
+      "slug": "kerbala-iqg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG12",
+      "level": 1,
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbala",
+        "slug": "kerbala-iqg12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.497",
+    "lon": "43.906"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG18Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جصان",
+      "en": "Jassan",
+      "slug": "jassan-iqg18q05n02"
+    },
+    "code": {
+      "id": "IQG18Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q05",
+      "level": 2,
+      "name": {
+        "local": "بدرة",
+        "en": "Badra",
+        "slug": "badra-iqg18q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q05",
+        "level": 2,
+        "name": {
+          "local": "بدرة",
+          "en": "Badra",
+          "slug": "badra-iqg18q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.88",
+      "lon": "45.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بدرة",
+      "en": "Markaz Badra",
+      "slug": "markaz-badra-iqg18q05n01"
+    },
+    "code": {
+      "id": "IQG18Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q05",
+      "level": 2,
+      "name": {
+        "local": "بدرة",
+        "en": "Badra",
+        "slug": "badra-iqg18q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q05",
+        "level": 2,
+        "name": {
+          "local": "بدرة",
+          "en": "Badra",
+          "slug": "badra-iqg18q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.191",
+      "lon": "45.943"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

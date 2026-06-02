@@ -1,0 +1,47 @@
+{
+  "id": "IQG07Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الهاشمية",
+    "en": "Al-Hashimiya",
+    "slug": "al-hashimiya-iqg07q01"
+  },
+  "code": {
+    "id": "IQG07Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG07",
+    "level": 1,
+    "name": {
+      "local": "بابل",
+      "en": "Babil",
+      "slug": "babil-iqg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG07",
+      "level": 1,
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.381",
+    "lon": "44.824"
+  },
+  "metadata": {},
+  "source": {}
+}

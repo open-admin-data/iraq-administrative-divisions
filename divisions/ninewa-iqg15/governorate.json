@@ -1,0 +1,34 @@
+{
+  "id": "IQG15",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "نينوى",
+    "en": "Ninewa",
+    "slug": "ninewa-iqg15"
+  },
+  "code": {
+    "id": "IQG15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "subdistrict": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.994",
+    "lon": "42.362"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/ninewa-iqg15/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

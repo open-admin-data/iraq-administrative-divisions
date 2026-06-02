@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG10Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الوجيهية",
+      "en": "Al-Wajihia",
+      "slug": "al-wajihia-iqg10q02n01"
+    },
+    "code": {
+      "id": "IQG10Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q02",
+      "level": 2,
+      "name": {
+        "local": "المقدادية",
+        "en": "Al-Muqdadiya",
+        "slug": "al-muqdadiya-iqg10q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q02",
+        "level": 2,
+        "name": {
+          "local": "المقدادية",
+          "en": "Al-Muqdadiya",
+          "slug": "al-muqdadiya-iqg10q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.787",
+      "lon": "44.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المقدادية",
+      "en": "Markaz Al-Muqdadiya",
+      "slug": "markaz-al-muqdadiya-iqg10q02n02"
+    },
+    "code": {
+      "id": "IQG10Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q02",
+      "level": 2,
+      "name": {
+        "local": "المقدادية",
+        "en": "Al-Muqdadiya",
+        "slug": "al-muqdadiya-iqg10q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q02",
+        "level": 2,
+        "name": {
+          "local": "المقدادية",
+          "en": "Al-Muqdadiya",
+          "slug": "al-muqdadiya-iqg10q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.96",
+      "lon": "45.012"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

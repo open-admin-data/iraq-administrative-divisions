@@ -1,0 +1,472 @@
+[
+  {
+    "id": "IQG06Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06q01"
+    },
+    "code": {
+      "id": "IQG06Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.442",
+      "lon": "45.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "جمجمال",
+      "en": "Chamchamal",
+      "slug": "chamchamal-iqg06q02"
+    },
+    "code": {
+      "id": "IQG06Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.415",
+      "lon": "45.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "دربندخان",
+      "en": "Derbendikhan",
+      "slug": "derbendikhan-iqg06q03"
+    },
+    "code": {
+      "id": "IQG06Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.186",
+      "lon": "45.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "دوكان",
+      "en": "Dokan",
+      "slug": "dokan-iqg06q04"
+    },
+    "code": {
+      "id": "IQG06Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.92",
+      "lon": "45.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "حلبجة",
+      "en": "Halabcha",
+      "slug": "halabcha-iqg06q05"
+    },
+    "code": {
+      "id": "IQG06Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.187",
+      "lon": "46.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كلار",
+      "en": "Kalar",
+      "slug": "kalar-iqg06q06"
+    },
+    "code": {
+      "id": "IQG06Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.84",
+      "lon": "45.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بنجوين",
+      "en": "Panjwin",
+      "slug": "panjwin-iqg06q07"
+    },
+    "code": {
+      "id": "IQG06Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.648",
+      "lon": "45.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q08",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بشدر",
+      "en": "Pshdar",
+      "slug": "pshdar-iqg06q08"
+    },
+    "code": {
+      "id": "IQG06Q08",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.265",
+      "lon": "45.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q09",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "رانية",
+      "en": "Rania",
+      "slug": "rania-iqg06q09"
+    },
+    "code": {
+      "id": "IQG06Q09",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.167",
+      "lon": "44.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q10",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهربازار",
+      "en": "Sharbazher",
+      "slug": "sharbazher-iqg06q10"
+    },
+    "code": {
+      "id": "IQG06Q10",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.703",
+      "lon": "45.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

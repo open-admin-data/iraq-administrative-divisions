@@ -1,0 +1,190 @@
+[
+  {
+    "id": "IQG05Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عفك",
+      "en": "Afaq",
+      "slug": "afaq-iqg05q01"
+    },
+    "code": {
+      "id": "IQG05Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.02",
+      "lon": "45.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الديوانية",
+      "en": "Al-Diwaniya",
+      "slug": "al-diwaniya-iqg05q02"
+    },
+    "code": {
+      "id": "IQG05Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.02",
+      "lon": "44.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحمزة",
+      "en": "Al-Hamza",
+      "slug": "al-hamza-iqg05q03"
+    },
+    "code": {
+      "id": "IQG05Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.591",
+      "lon": "44.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشامية",
+      "en": "Al-Shamiya",
+      "slug": "al-shamiya-iqg05q04"
+    },
+    "code": {
+      "id": "IQG05Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.868",
+      "lon": "44.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

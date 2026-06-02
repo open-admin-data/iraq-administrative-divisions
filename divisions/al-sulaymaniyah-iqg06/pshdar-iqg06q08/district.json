@@ -1,0 +1,47 @@
+{
+  "id": "IQG06Q08",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بشدر",
+    "en": "Pshdar",
+    "slug": "pshdar-iqg06q08"
+  },
+  "code": {
+    "id": "IQG06Q08",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG06",
+    "level": 1,
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.265",
+    "lon": "45.102"
+  },
+  "metadata": {},
+  "source": {}
+}

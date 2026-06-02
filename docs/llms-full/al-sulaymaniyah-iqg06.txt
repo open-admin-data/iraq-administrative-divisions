@@ -1,0 +1,175 @@
+# Al-Sulaymaniyah — Iraq Administrative Divisions
+
+> 10 districts, 29 sub-districts
+> Code: IQG06
+> Coordinates: 35.532, 45.377
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### السليمانية (Al-Sulaymaniyah)
+
+Code: IQG06Q01, Coordinates: 35.442, 45.421
+Sub-districts: 3
+
+#### بازيان (Bazian)
+
+Code: IQG06Q01N01, Coordinates: 35.566, 45.14
+
+#### قره داغ (Qaradagh)
+
+Code: IQG06Q01N02, Coordinates: 35.336, 45.475
+
+#### سرجنار (Sarchnar)
+
+Code: IQG06Q01N03, Coordinates: 35.598, 45.346
+
+### جمجمال (Chamchamal)
+
+Code: IQG06Q02, Coordinates: 35.415, 45.001
+Sub-districts: 4
+
+#### ئاغجة لةر (Agjalare)
+
+Code: IQG06Q02N01, Coordinates: 35.742, 44.857
+
+#### سنكاو (Cenkaw)
+
+Code: IQG06Q02N04, Coordinates: 35.246, 45.197
+
+#### قادر كرم (Kadr Karam)
+
+Code: IQG06Q02N03, Coordinates: 35.19, 44.887
+
+#### مركز جمجمال (Markaz Chamchamal)
+
+Code: IQG06Q02N02, Coordinates: 35.495, 44.941
+
+### دربندخان (Derbendikhan)
+
+Code: IQG06Q03, Coordinates: 35.186, 45.713
+Sub-districts: 1
+
+#### مركز دربندخان (Markaz Derbendikhan)
+
+Code: IQG06Q03N01, Coordinates: 35.186, 45.713
+
+### دوكان (Dokan)
+
+Code: IQG06Q04, Coordinates: 35.92, 45.036
+Sub-districts: 2
+
+#### جنارين (Gnareen)
+
+Code: IQG06Q04N01, Coordinates: 36.027, 44.898
+
+#### سورداش (Sourdash)
+
+Code: IQG06Q04N02, Coordinates: 35.821, 45.124
+
+### حلبجة (Halabcha)
+
+Code: IQG06Q05, Coordinates: 35.187, 46.022
+Sub-districts: 4
+
+#### بيارة (Beyara)
+
+Code: IQG06Q05N01, Coordinates: 35.191, 46.131
+
+#### خورمال (Khourmal)
+
+Code: IQG06Q05N02, Coordinates: 35.36, 46.024
+
+#### مركز حلبجة (Markaz Halabja)
+
+Code: IQG06Q05N03, Coordinates: 35.106, 45.95
+
+#### شهرزور (Shahrazur)
+
+Code: IQG06Q05N04, Coordinates: 35.355, 45.831
+
+### كلار (Kalar)
+
+Code: IQG06Q06, Coordinates: 34.84, 45.327
+Sub-districts: 3
+
+#### بيباز (Bebaz)
+
+Code: IQG06Q06N02, Coordinates: 34.959, 45.485
+
+#### مركز كلار (Markaz Kalar)
+
+Code: IQG06Q06N01, Coordinates: 34.676, 45.357
+
+#### تيلاكو (Tilako)
+
+Code: IQG06Q06N03, Coordinates: 34.881, 45.167
+
+### بنجوين (Panjwin)
+
+Code: IQG06Q07, Coordinates: 35.648, 45.931
+Sub-districts: 2
+
+#### كرمك (Karmak)
+
+Code: IQG06Q07N01, Coordinates: 35.766, 46.065
+
+#### مركز بنجوين (Markaz Panjwin)
+
+Code: IQG06Q07N02, Coordinates: 35.563, 45.922
+
+### بشدر (Pshdar)
+
+Code: IQG06Q08, Coordinates: 36.265, 45.102
+Sub-districts: 3
+
+#### هيرو (Hero)
+
+Code: IQG06Q08N01, Coordinates: 36.089, 45.291
+
+#### مركز بشدر (Markaz Pshdar)
+
+Code: IQG06Q08N03, Coordinates: 36.2, 45.2
+
+#### ناودشت (Nawdasht)
+
+Code: IQG06Q08N02, Coordinates: 36.348, 45.053
+
+### رانية (Rania)
+
+Code: IQG06Q09, Coordinates: 36.167, 44.917
+Sub-districts: 3
+
+#### بتوانه (Bitwana)
+
+Code: IQG06Q09N03, Coordinates: 36.341, 44.653
+
+#### مركز رانية (Markaz Rania)
+
+Code: IQG06Q09N02, Coordinates: 36.262, 44.839
+
+#### ميركه (Mirka)
+
+Code: IQG06Q09N01, Coordinates: 36.048, 45.132
+
+### شهربازار (Sharbazher)
+
+Code: IQG06Q10, Coordinates: 35.703, 45.628
+Sub-districts: 4
+
+#### مركز شهربازار (Markaz Sharbazher)
+
+Code: IQG06Q10N02, Coordinates: 35.681, 45.611
+
+#### ماوت (Mawat)
+
+Code: IQG06Q10N04, Coordinates: 35.838, 45.4
+
+#### سروجك (Saruchik)
+
+Code: IQG06Q10N01, Coordinates: 35.549, 45.734
+
+#### سويل (Siwail)
+
+Code: IQG06Q10N03, Coordinates: 35.885, 45.62
+

@@ -1,0 +1,47 @@
+{
+  "id": "IQG12Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "عين التمر",
+    "en": "Ain Al-Tamur",
+    "slug": "ain-al-tamur-iqg12q01"
+  },
+  "code": {
+    "id": "IQG12Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG12",
+    "level": 1,
+    "name": {
+      "local": "كربلاء",
+      "en": "Kerbala",
+      "slug": "kerbala-iqg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG12",
+      "level": 1,
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbala",
+        "slug": "kerbala-iqg12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.483",
+    "lon": "43.533"
+  },
+  "metadata": {},
+  "source": {}
+}

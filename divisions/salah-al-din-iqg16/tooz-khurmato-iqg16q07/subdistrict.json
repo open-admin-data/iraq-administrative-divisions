@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG16Q07N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "آمرلي",
+      "en": "Ameraly",
+      "slug": "ameraly-iqg16q07n01"
+    },
+    "code": {
+      "id": "IQG16Q07N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q07",
+      "level": 2,
+      "name": {
+        "local": "طوز خورماتو",
+        "en": "Tooz Khurmato",
+        "slug": "tooz-khurmato-iqg16q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q07",
+        "level": 2,
+        "name": {
+          "local": "طوز خورماتو",
+          "en": "Tooz Khurmato",
+          "slug": "tooz-khurmato-iqg16q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.677",
+      "lon": "44.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q07N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز طوز خورماتو",
+      "en": "Markaz Tooz Khurmato",
+      "slug": "markaz-tooz-khurmato-iqg16q07n02"
+    },
+    "code": {
+      "id": "IQG16Q07N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q07",
+      "level": 2,
+      "name": {
+        "local": "طوز خورماتو",
+        "en": "Tooz Khurmato",
+        "slug": "tooz-khurmato-iqg16q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q07",
+        "level": 2,
+        "name": {
+          "local": "طوز خورماتو",
+          "en": "Tooz Khurmato",
+          "slug": "tooz-khurmato-iqg16q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.932",
+      "lon": "44.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q07N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سليمان بيك",
+      "en": "Sulaiman Baig",
+      "slug": "sulaiman-baig-iqg16q07n03"
+    },
+    "code": {
+      "id": "IQG16Q07N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q07",
+      "level": 2,
+      "name": {
+        "local": "طوز خورماتو",
+        "en": "Tooz Khurmato",
+        "slug": "tooz-khurmato-iqg16q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q07",
+        "level": 2,
+        "name": {
+          "local": "طوز خورماتو",
+          "en": "Tooz Khurmato",
+          "slug": "tooz-khurmato-iqg16q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.774",
+      "lon": "44.712"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

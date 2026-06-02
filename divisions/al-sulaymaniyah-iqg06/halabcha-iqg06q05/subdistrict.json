@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG06Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بيارة",
+      "en": "Beyara",
+      "slug": "beyara-iqg06q05n01"
+    },
+    "code": {
+      "id": "IQG06Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q05",
+      "level": 2,
+      "name": {
+        "local": "حلبجة",
+        "en": "Halabcha",
+        "slug": "halabcha-iqg06q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q05",
+        "level": 2,
+        "name": {
+          "local": "حلبجة",
+          "en": "Halabcha",
+          "slug": "halabcha-iqg06q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.191",
+      "lon": "46.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خورمال",
+      "en": "Khourmal",
+      "slug": "khourmal-iqg06q05n02"
+    },
+    "code": {
+      "id": "IQG06Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q05",
+      "level": 2,
+      "name": {
+        "local": "حلبجة",
+        "en": "Halabcha",
+        "slug": "halabcha-iqg06q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q05",
+        "level": 2,
+        "name": {
+          "local": "حلبجة",
+          "en": "Halabcha",
+          "slug": "halabcha-iqg06q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.36",
+      "lon": "46.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز حلبجة",
+      "en": "Markaz Halabja",
+      "slug": "markaz-halabja-iqg06q05n03"
+    },
+    "code": {
+      "id": "IQG06Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q05",
+      "level": 2,
+      "name": {
+        "local": "حلبجة",
+        "en": "Halabcha",
+        "slug": "halabcha-iqg06q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q05",
+        "level": 2,
+        "name": {
+          "local": "حلبجة",
+          "en": "Halabcha",
+          "slug": "halabcha-iqg06q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.106",
+      "lon": "45.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شهرزور",
+      "en": "Shahrazur",
+      "slug": "shahrazur-iqg06q05n04"
+    },
+    "code": {
+      "id": "IQG06Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q05",
+      "level": 2,
+      "name": {
+        "local": "حلبجة",
+        "en": "Halabcha",
+        "slug": "halabcha-iqg06q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q05",
+        "level": 2,
+        "name": {
+          "local": "حلبجة",
+          "en": "Halabcha",
+          "slug": "halabcha-iqg06q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.355",
+      "lon": "45.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

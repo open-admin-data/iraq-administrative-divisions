@@ -1,0 +1,47 @@
+{
+  "id": "IQG09Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "العمادية",
+    "en": "Al-Amadiya",
+    "slug": "al-amadiya-iqg09q01"
+  },
+  "code": {
+    "id": "IQG09Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG09",
+    "level": 1,
+    "name": {
+      "local": "دهوك",
+      "en": "Duhok",
+      "slug": "duhok-iqg09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG09",
+      "level": 1,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.091",
+    "lon": "43.579"
+  },
+  "metadata": {},
+  "source": {}
+}

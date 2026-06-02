@@ -1,0 +1,284 @@
+[
+  {
+    "id": "IQG14Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "العمارة",
+      "en": "Al-Amara",
+      "slug": "al-amara-iqg14q01"
+    },
+    "code": {
+      "id": "IQG14Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.107",
+      "lon": "47.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الكحلاء",
+      "en": "Al-Kahla",
+      "slug": "al-kahla-iqg14q03"
+    },
+    "code": {
+      "id": "IQG14Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.764",
+      "lon": "47.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الميمونة",
+      "en": "Al-Maimouna",
+      "slug": "al-maimouna-iqg14q04"
+    },
+    "code": {
+      "id": "IQG14Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.472",
+      "lon": "46.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المجر الكبير",
+      "en": "Al-Mejar Al-Kabir",
+      "slug": "al-mejar-al-kabir-iqg14q05"
+    },
+    "code": {
+      "id": "IQG14Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.432",
+      "lon": "47.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "علي الغربي",
+      "en": "Ali Al-Gharbi",
+      "slug": "ali-al-gharbi-iqg14q02"
+    },
+    "code": {
+      "id": "IQG14Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.419",
+      "lon": "46.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلعة صالح",
+      "en": "Qalat Saleh",
+      "slug": "qalat-saleh-iqg14q06"
+    },
+    "code": {
+      "id": "IQG14Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.479",
+      "lon": "47.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

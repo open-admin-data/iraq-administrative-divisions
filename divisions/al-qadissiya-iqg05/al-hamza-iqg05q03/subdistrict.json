@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG05Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السدير",
+      "en": "Al-Sadeer",
+      "slug": "al-sadeer-iqg05q03n01"
+    },
+    "code": {
+      "id": "IQG05Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمزة",
+        "en": "Al-Hamza",
+        "slug": "al-hamza-iqg05q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمزة",
+          "en": "Al-Hamza",
+          "slug": "al-hamza-iqg05q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.798",
+      "lon": "45.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشنافية",
+      "en": "Al-Shinafiya",
+      "slug": "al-shinafiya-iqg05q03n02"
+    },
+    "code": {
+      "id": "IQG05Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمزة",
+        "en": "Al-Hamza",
+        "slug": "al-hamza-iqg05q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمزة",
+          "en": "Al-Hamza",
+          "slug": "al-hamza-iqg05q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.492",
+      "lon": "44.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الحمزة",
+      "en": "Markaz Al-Hamza",
+      "slug": "markaz-al-hamza-iqg05q03n03"
+    },
+    "code": {
+      "id": "IQG05Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمزة",
+        "en": "Al-Hamza",
+        "slug": "al-hamza-iqg05q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمزة",
+          "en": "Al-Hamza",
+          "slug": "al-hamza-iqg05q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.586",
+      "lon": "44.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

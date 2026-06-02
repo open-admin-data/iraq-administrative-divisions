@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG04Q01,الكوفة,Al-Kufa,al-kufa-iqg04q01,IQG04Q01,2,32.07,44.449
+IQG04Q02,المناذرة,Al-Manathera,al-manathera-iqg04q02,IQG04Q02,1,31.774,44.472
+IQG04Q03,النجف,Al-Najaf,al-najaf-iqg04q03,IQG04Q03,3,31.101,43.364

@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG15Q02,البعاج,Al-Baaj,al-baaj-iqg15q02,IQG15Q02,2,35.693,41.7
+IQG15Q03,الحمدانية,Al-Hamdaniya,al-hamdaniya-iqg15q03,IQG15Q03,3,36.191,43.409
+IQG15Q04,الحضر,Al-Hatra,al-hatra-iqg15q04,IQG15Q04,1,35.589,42.505
+IQG15Q05,الموصل,Al-Mosul,al-mosul-iqg15q05,IQG15Q05,4,36.102,42.951
+IQG15Q06,الشيخان,Al-Shikhan,al-shikhan-iqg15q06,IQG15Q06,3,36.699,43.415
+IQG15Q01,عقرة,Aqra,aqra-iqg15q01,IQG15Q01,5,36.667,43.946
+IQG15Q07,سنجار,Sinjar,sinjar-iqg15q07,IQG15Q07,3,36.336,42.014
+IQG15Q08,تلعفر,Telafar,telafar-iqg15q08,IQG15Q08,4,36.525,42.348
+IQG15Q09,تلكيف,Tilkaef,tilkaef-iqg15q09,IQG15Q09,3,36.574,42.992

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG01Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحقلانية",
+      "en": "Al-Haqlaniya",
+      "slug": "al-haqlaniya-iqg01q06n01"
+    },
+    "code": {
+      "id": "IQG01Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q06",
+      "level": 2,
+      "name": {
+        "local": "حديثة",
+        "en": "Haditha",
+        "slug": "haditha-iqg01q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q06",
+        "level": 2,
+        "name": {
+          "local": "حديثة",
+          "en": "Haditha",
+          "slug": "haditha-iqg01q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.069",
+      "lon": "42.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بروانه",
+      "en": "Barwana",
+      "slug": "barwana-iqg01q06n02"
+    },
+    "code": {
+      "id": "IQG01Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q06",
+      "level": 2,
+      "name": {
+        "local": "حديثة",
+        "en": "Haditha",
+        "slug": "haditha-iqg01q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q06",
+        "level": 2,
+        "name": {
+          "local": "حديثة",
+          "en": "Haditha",
+          "slug": "haditha-iqg01q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.324",
+      "lon": "42.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

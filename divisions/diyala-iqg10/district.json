@@ -1,0 +1,284 @@
+[
+  {
+    "id": "IQG10Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الخالص",
+      "en": "Al-Khalis",
+      "slug": "al-khalis-iqg10q01"
+    },
+    "code": {
+      "id": "IQG10Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.085",
+      "lon": "44.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المقدادية",
+      "en": "Al-Muqdadiya",
+      "slug": "al-muqdadiya-iqg10q02"
+    },
+    "code": {
+      "id": "IQG10Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.881",
+      "lon": "44.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "مندلي",
+      "en": "Baladruz",
+      "slug": "baladruz-iqg10q03"
+    },
+    "code": {
+      "id": "IQG10Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.56",
+      "lon": "45.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بعقوبة",
+      "en": "Baquba",
+      "slug": "baquba-iqg10q04"
+    },
+    "code": {
+      "id": "IQG10Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.647",
+      "lon": "44.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "خانقين",
+      "en": "Khanaqin",
+      "slug": "khanaqin-iqg10q05"
+    },
+    "code": {
+      "id": "IQG10Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.52",
+      "lon": "45.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كفري",
+      "en": "Kifri",
+      "slug": "kifri-iqg10q06"
+    },
+    "code": {
+      "id": "IQG10Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.561",
+      "lon": "44.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG11Q06N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ديرة حرير",
+      "en": "Harir",
+      "slug": "harir-iqg11q06n03"
+    },
+    "code": {
+      "id": "IQG11Q06N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q06",
+      "level": 2,
+      "name": {
+        "local": "شقلاوة",
+        "en": "Shaqlawa",
+        "slug": "shaqlawa-iqg11q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q06",
+        "level": 2,
+        "name": {
+          "local": "شقلاوة",
+          "en": "Shaqlawa",
+          "slug": "shaqlawa-iqg11q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.553",
+      "lon": "44.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خوشناو",
+      "en": "Khoshnaw",
+      "slug": "khoshnaw-iqg11q06n01"
+    },
+    "code": {
+      "id": "IQG11Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q06",
+      "level": 2,
+      "name": {
+        "local": "شقلاوة",
+        "en": "Shaqlawa",
+        "slug": "shaqlawa-iqg11q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q06",
+        "level": 2,
+        "name": {
+          "local": "شقلاوة",
+          "en": "Shaqlawa",
+          "slug": "shaqlawa-iqg11q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.361",
+      "lon": "44.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg11q06n02"
+    },
+    "code": {
+      "id": "IQG11Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q06",
+      "level": 2,
+      "name": {
+        "local": "شقلاوة",
+        "en": "Shaqlawa",
+        "slug": "shaqlawa-iqg11q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q06",
+        "level": 2,
+        "name": {
+          "local": "شقلاوة",
+          "en": "Shaqlawa",
+          "slug": "shaqlawa-iqg11q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.404",
+      "lon": "44.091"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

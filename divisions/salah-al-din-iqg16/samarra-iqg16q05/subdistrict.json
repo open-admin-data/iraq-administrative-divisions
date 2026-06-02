@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG16Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المعتصم",
+      "en": "Al-Muotasim",
+      "slug": "al-muotasim-iqg16q05n01"
+    },
+    "code": {
+      "id": "IQG16Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q05",
+      "level": 2,
+      "name": {
+        "local": "سامراء",
+        "en": "Samarra",
+        "slug": "samarra-iqg16q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q05",
+        "level": 2,
+        "name": {
+          "local": "سامراء",
+          "en": "Samarra",
+          "slug": "samarra-iqg16q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.128",
+      "lon": "44.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الثرثار",
+      "en": "Al-Tharthar",
+      "slug": "al-tharthar-iqg16q05n02"
+    },
+    "code": {
+      "id": "IQG16Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q05",
+      "level": 2,
+      "name": {
+        "local": "سامراء",
+        "en": "Samarra",
+        "slug": "samarra-iqg16q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q05",
+        "level": 2,
+        "name": {
+          "local": "سامراء",
+          "en": "Samarra",
+          "slug": "samarra-iqg16q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.159",
+      "lon": "43.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دجلة",
+      "en": "Dijla",
+      "slug": "dijla-iqg16q05n04"
+    },
+    "code": {
+      "id": "IQG16Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q05",
+      "level": 2,
+      "name": {
+        "local": "سامراء",
+        "en": "Samarra",
+        "slug": "samarra-iqg16q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q05",
+        "level": 2,
+        "name": {
+          "local": "سامراء",
+          "en": "Samarra",
+          "slug": "samarra-iqg16q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.44",
+      "lon": "43.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز سامراء",
+      "en": "Markaz Samarra",
+      "slug": "markaz-samarra-iqg16q05n03"
+    },
+    "code": {
+      "id": "IQG16Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q05",
+      "level": 2,
+      "name": {
+        "local": "سامراء",
+        "en": "Samarra",
+        "slug": "samarra-iqg16q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q05",
+        "level": 2,
+        "name": {
+          "local": "سامراء",
+          "en": "Samarra",
+          "slug": "samarra-iqg16q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.275",
+      "lon": "44.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

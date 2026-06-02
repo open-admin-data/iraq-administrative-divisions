@@ -1,0 +1,47 @@
+{
+  "id": "IQG05Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشامية",
+    "en": "Al-Shamiya",
+    "slug": "al-shamiya-iqg05q04"
+  },
+  "code": {
+    "id": "IQG05Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG05",
+    "level": 1,
+    "name": {
+      "local": "القادسية",
+      "en": "Al-Qadissiya",
+      "slug": "al-qadissiya-iqg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.868",
+    "lon": "44.629"
+  },
+  "metadata": {},
+  "source": {}
+}

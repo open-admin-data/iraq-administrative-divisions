@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG01Q01,الفلوجة,Al-Falluja,al-falluja-iqg01q01,IQG01Q01,3,33.19,43.685
+IQG01Q02,القائم,Al-Kaim,al-kaim-iqg01q02,IQG01Q02,3,34.435,41.207
+IQG01Q03,الرمادي,Al-Ramadi,al-ramadi-iqg01q03,IQG01Q03,3,33.237,42.987
+IQG01Q04,الرطبة,Al-Rutba,al-rutba-iqg01q04,IQG01Q04,3,32.559,41.158
+IQG01Q05,عنه,Ana,ana-iqg01q05,IQG01Q05,2,34.323,41.922
+IQG01Q06,حديثة,Haditha,haditha-iqg01q06,IQG01Q06,2,34.237,42.408
+IQG01Q07,هيت,Heet,heet-iqg01q07,IQG01Q07,4,33.822,42.678

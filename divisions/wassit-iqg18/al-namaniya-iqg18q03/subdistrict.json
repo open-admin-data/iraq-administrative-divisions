@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG18Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الاحرار",
+      "en": "Al-Ahrar",
+      "slug": "al-ahrar-iqg18q03n01"
+    },
+    "code": {
+      "id": "IQG18Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q03",
+      "level": 2,
+      "name": {
+        "local": "النعمانية",
+        "en": "Al-Namaniya",
+        "slug": "al-namaniya-iqg18q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q03",
+        "level": 2,
+        "name": {
+          "local": "النعمانية",
+          "en": "Al-Namaniya",
+          "slug": "al-namaniya-iqg18q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.332",
+      "lon": "45.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز النعمانية",
+      "en": "Markaz Al-Noamaniya",
+      "slug": "markaz-al-noamaniya-iqg18q03n02"
+    },
+    "code": {
+      "id": "IQG18Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q03",
+      "level": 2,
+      "name": {
+        "local": "النعمانية",
+        "en": "Al-Namaniya",
+        "slug": "al-namaniya-iqg18q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q03",
+        "level": 2,
+        "name": {
+          "local": "النعمانية",
+          "en": "Al-Namaniya",
+          "slug": "al-namaniya-iqg18q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.551",
+      "lon": "45.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

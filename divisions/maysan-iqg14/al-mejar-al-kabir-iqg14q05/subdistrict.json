@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG14Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العدل",
+      "en": "Al-Adel",
+      "slug": "al-adel-iqg14q05n02"
+    },
+    "code": {
+      "id": "IQG14Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q05",
+      "level": 2,
+      "name": {
+        "local": "المجر الكبير",
+        "en": "Al-Mejar Al-Kabir",
+        "slug": "al-mejar-al-kabir-iqg14q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q05",
+        "level": 2,
+        "name": {
+          "local": "المجر الكبير",
+          "en": "Al-Mejar Al-Kabir",
+          "slug": "al-mejar-al-kabir-iqg14q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.435",
+      "lon": "47.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العزير",
+      "en": "Al-Aziz",
+      "slug": "al-aziz-iqg14q05n01"
+    },
+    "code": {
+      "id": "IQG14Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q05",
+      "level": 2,
+      "name": {
+        "local": "المجر الكبير",
+        "en": "Al-Mejar Al-Kabir",
+        "slug": "al-mejar-al-kabir-iqg14q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q05",
+        "level": 2,
+        "name": {
+          "local": "المجر الكبير",
+          "en": "Al-Mejar Al-Kabir",
+          "slug": "al-mejar-al-kabir-iqg14q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.407",
+      "lon": "47.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

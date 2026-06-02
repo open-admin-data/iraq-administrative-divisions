@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG02Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الزبير",
+      "en": "Markaz Al-Zubair",
+      "slug": "markaz-al-zubair-iqg02q06n01"
+    },
+    "code": {
+      "id": "IQG02Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q06",
+      "level": 2,
+      "name": {
+        "local": "الزبير",
+        "en": "Al-Zubair",
+        "slug": "al-zubair-iqg02q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q06",
+        "level": 2,
+        "name": {
+          "local": "الزبير",
+          "en": "Al-Zubair",
+          "slug": "al-zubair-iqg02q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.444",
+      "lon": "47.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سفوان",
+      "en": "Safwan",
+      "slug": "safwan-iqg02q06n02"
+    },
+    "code": {
+      "id": "IQG02Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q06",
+      "level": 2,
+      "name": {
+        "local": "الزبير",
+        "en": "Al-Zubair",
+        "slug": "al-zubair-iqg02q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q06",
+        "level": 2,
+        "name": {
+          "local": "الزبير",
+          "en": "Al-Zubair",
+          "slug": "al-zubair-iqg02q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.891",
+      "lon": "46.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q06N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ام قصر",
+      "en": "Um Qasr",
+      "slug": "um-qasr-iqg02q06n03"
+    },
+    "code": {
+      "id": "IQG02Q06N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q06",
+      "level": 2,
+      "name": {
+        "local": "الزبير",
+        "en": "Al-Zubair",
+        "slug": "al-zubair-iqg02q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q06",
+        "level": 2,
+        "name": {
+          "local": "الزبير",
+          "en": "Al-Zubair",
+          "slug": "al-zubair-iqg02q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.162",
+      "lon": "47.844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

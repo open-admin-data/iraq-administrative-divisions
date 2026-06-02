@@ -1,0 +1,5364 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/iq/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/iraq-administrative-divisions",
+  "data": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      },
+      "code": {
+        "id": "IQG01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "subdistrict": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.178",
+        "lon": "41.398"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-anbar-iqg01/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG01Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الفلوجة",
+        "en": "Al-Falluja",
+        "slug": "al-falluja-iqg01q01"
+      },
+      "code": {
+        "id": "IQG01Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.19",
+        "lon": "43.685"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "القائم",
+        "en": "Al-Kaim",
+        "slug": "al-kaim-iqg01q02"
+      },
+      "code": {
+        "id": "IQG01Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.435",
+        "lon": "41.207"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الرمادي",
+        "en": "Al-Ramadi",
+        "slug": "al-ramadi-iqg01q03"
+      },
+      "code": {
+        "id": "IQG01Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.237",
+        "lon": "42.987"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الرطبة",
+        "en": "Al-Rutba",
+        "slug": "al-rutba-iqg01q04"
+      },
+      "code": {
+        "id": "IQG01Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.559",
+        "lon": "41.158"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "عنه",
+        "en": "Ana",
+        "slug": "ana-iqg01q05"
+      },
+      "code": {
+        "id": "IQG01Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.323",
+        "lon": "41.922"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "حديثة",
+        "en": "Haditha",
+        "slug": "haditha-iqg01q06"
+      },
+      "code": {
+        "id": "IQG01Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.237",
+        "lon": "42.408"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG01Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "هيت",
+        "en": "Heet",
+        "slug": "heet-iqg01q07"
+      },
+      "code": {
+        "id": "IQG01Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG01",
+          "level": 1,
+          "name": {
+            "local": "الانبار",
+            "en": "Al-Anbar",
+            "slug": "al-anbar-iqg01"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.822",
+        "lon": "42.678"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      },
+      "code": {
+        "id": "IQG02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "subdistrict": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.208",
+        "lon": "47.502"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-basrah-iqg02/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG02Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "ابي الخصيب",
+        "en": "Abu Al-Khaseeb",
+        "slug": "abu-al-khaseeb-iqg02q01"
+      },
+      "code": {
+        "id": "IQG02Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.336",
+        "lon": "47.993"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02q02"
+      },
+      "code": {
+        "id": "IQG02Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.555",
+        "lon": "47.606"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الفاو",
+        "en": "Al-Faw",
+        "slug": "al-faw-iqg02q03"
+      },
+      "code": {
+        "id": "IQG02Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.046",
+        "lon": "48.202"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المدينة",
+        "en": "Al-Midaina",
+        "slug": "al-midaina-iqg02q04"
+      },
+      "code": {
+        "id": "IQG02Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.982",
+        "lon": "47.246"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "القرنة",
+        "en": "Al-Qurna",
+        "slug": "al-qurna-iqg02q05"
+      },
+      "code": {
+        "id": "IQG02Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.943",
+        "lon": "47.442"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الزبير",
+        "en": "Al-Zubair",
+        "slug": "al-zubair-iqg02q06"
+      },
+      "code": {
+        "id": "IQG02Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.902",
+        "lon": "46.865"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG02Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "شط العرب",
+        "en": "Shat Al-Arab",
+        "slug": "shat-al-arab-iqg02q07"
+      },
+      "code": {
+        "id": "IQG02Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG02",
+          "level": 1,
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.723",
+        "lon": "47.892"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG03",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "المثنى",
+        "en": "Al-Muthanna",
+        "slug": "al-muthanna-iqg03"
+      },
+      "code": {
+        "id": "IQG03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "subdistrict": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.405",
+        "lon": "45.36"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-muthanna-iqg03/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG03Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الخضر",
+        "en": "Al-Khidhir",
+        "slug": "al-khidhir-iqg03q01"
+      },
+      "code": {
+        "id": "IQG03Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG03",
+          "level": 1,
+          "name": {
+            "local": "المثنى",
+            "en": "Al-Muthanna",
+            "slug": "al-muthanna-iqg03"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.261",
+        "lon": "45.652"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG03Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      },
+      "code": {
+        "id": "IQG03Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG03",
+          "level": 1,
+          "name": {
+            "local": "المثنى",
+            "en": "Al-Muthanna",
+            "slug": "al-muthanna-iqg03"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.502",
+        "lon": "45.371"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG03Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "السلمان",
+        "en": "Al-Salman",
+        "slug": "al-salman-iqg03q03"
+      },
+      "code": {
+        "id": "IQG03Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG03",
+          "level": 1,
+          "name": {
+            "local": "المثنى",
+            "en": "Al-Muthanna",
+            "slug": "al-muthanna-iqg03"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.251",
+        "lon": "45.348"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG03Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "السماوة",
+        "en": "Al-Samawa",
+        "slug": "al-samawa-iqg03q04"
+      },
+      "code": {
+        "id": "IQG03Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG03",
+          "level": 1,
+          "name": {
+            "local": "المثنى",
+            "en": "Al-Muthanna",
+            "slug": "al-muthanna-iqg03"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.217",
+        "lon": "45.301"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG04",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04"
+      },
+      "code": {
+        "id": "IQG04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "subdistrict": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.101",
+        "lon": "43.364"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-najaf-iqg04/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG04Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الكوفة",
+        "en": "Al-Kufa",
+        "slug": "al-kufa-iqg04q01"
+      },
+      "code": {
+        "id": "IQG04Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG04",
+          "level": 1,
+          "name": {
+            "local": "النجف",
+            "en": "Al-Najaf",
+            "slug": "al-najaf-iqg04"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.07",
+        "lon": "44.449"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG04Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المناذرة",
+        "en": "Al-Manathera",
+        "slug": "al-manathera-iqg04q02"
+      },
+      "code": {
+        "id": "IQG04Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG04",
+          "level": 1,
+          "name": {
+            "local": "النجف",
+            "en": "Al-Najaf",
+            "slug": "al-najaf-iqg04"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.774",
+        "lon": "44.472"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG04Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04q03"
+      },
+      "code": {
+        "id": "IQG04Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG04",
+          "level": 1,
+          "name": {
+            "local": "النجف",
+            "en": "Al-Najaf",
+            "slug": "al-najaf-iqg04"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.101",
+        "lon": "43.364"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG05",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      },
+      "code": {
+        "id": "IQG05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "subdistrict": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.843",
+        "lon": "45.167"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-qadissiya-iqg05/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG05Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "عفك",
+        "en": "Afaq",
+        "slug": "afaq-iqg05q01"
+      },
+      "code": {
+        "id": "IQG05Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG05",
+          "level": 1,
+          "name": {
+            "local": "القادسية",
+            "en": "Al-Qadissiya",
+            "slug": "al-qadissiya-iqg05"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.02",
+        "lon": "45.379"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG05Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الديوانية",
+        "en": "Al-Diwaniya",
+        "slug": "al-diwaniya-iqg05q02"
+      },
+      "code": {
+        "id": "IQG05Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG05",
+          "level": 1,
+          "name": {
+            "local": "القادسية",
+            "en": "Al-Qadissiya",
+            "slug": "al-qadissiya-iqg05"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.02",
+        "lon": "44.89"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG05Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحمزة",
+        "en": "Al-Hamza",
+        "slug": "al-hamza-iqg05q03"
+      },
+      "code": {
+        "id": "IQG05Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG05",
+          "level": 1,
+          "name": {
+            "local": "القادسية",
+            "en": "Al-Qadissiya",
+            "slug": "al-qadissiya-iqg05"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.591",
+        "lon": "44.775"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG05Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الشامية",
+        "en": "Al-Shamiya",
+        "slug": "al-shamiya-iqg05q04"
+      },
+      "code": {
+        "id": "IQG05Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG05",
+          "level": 1,
+          "name": {
+            "local": "القادسية",
+            "en": "Al-Qadissiya",
+            "slug": "al-qadissiya-iqg05"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.868",
+        "lon": "44.629"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      },
+      "code": {
+        "id": "IQG06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 10,
+        "subdistrict": 29
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.532",
+        "lon": "45.377"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/al-sulaymaniyah-iqg06/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG06Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06q01"
+      },
+      "code": {
+        "id": "IQG06Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.442",
+        "lon": "45.421"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "جمجمال",
+        "en": "Chamchamal",
+        "slug": "chamchamal-iqg06q02"
+      },
+      "code": {
+        "id": "IQG06Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.415",
+        "lon": "45.001"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "دربندخان",
+        "en": "Derbendikhan",
+        "slug": "derbendikhan-iqg06q03"
+      },
+      "code": {
+        "id": "IQG06Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.186",
+        "lon": "45.713"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "دوكان",
+        "en": "Dokan",
+        "slug": "dokan-iqg06q04"
+      },
+      "code": {
+        "id": "IQG06Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.92",
+        "lon": "45.036"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "حلبجة",
+        "en": "Halabcha",
+        "slug": "halabcha-iqg06q05"
+      },
+      "code": {
+        "id": "IQG06Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.187",
+        "lon": "46.022"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "كلار",
+        "en": "Kalar",
+        "slug": "kalar-iqg06q06"
+      },
+      "code": {
+        "id": "IQG06Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.84",
+        "lon": "45.327"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بنجوين",
+        "en": "Panjwin",
+        "slug": "panjwin-iqg06q07"
+      },
+      "code": {
+        "id": "IQG06Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.648",
+        "lon": "45.931"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q08",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بشدر",
+        "en": "Pshdar",
+        "slug": "pshdar-iqg06q08"
+      },
+      "code": {
+        "id": "IQG06Q08",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.265",
+        "lon": "45.102"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q09",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "رانية",
+        "en": "Rania",
+        "slug": "rania-iqg06q09"
+      },
+      "code": {
+        "id": "IQG06Q09",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.167",
+        "lon": "44.917"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG06Q10",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "شهربازار",
+        "en": "Sharbazher",
+        "slug": "sharbazher-iqg06q10"
+      },
+      "code": {
+        "id": "IQG06Q10",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG06",
+          "level": 1,
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.703",
+        "lon": "45.628"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG07",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      },
+      "code": {
+        "id": "IQG07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "subdistrict": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.58",
+        "lon": "44.636"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/babil-iqg07/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG07Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الهاشمية",
+        "en": "Al-Hashimiya",
+        "slug": "al-hashimiya-iqg07q01"
+      },
+      "code": {
+        "id": "IQG07Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG07",
+          "level": 1,
+          "name": {
+            "local": "بابل",
+            "en": "Babil",
+            "slug": "babil-iqg07"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.381",
+        "lon": "44.824"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG07Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحلة",
+        "en": "Al-Hilla",
+        "slug": "al-hilla-iqg07q02"
+      },
+      "code": {
+        "id": "IQG07Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG07",
+          "level": 1,
+          "name": {
+            "local": "بابل",
+            "en": "Babil",
+            "slug": "babil-iqg07"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.355",
+        "lon": "44.43"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG07Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المحاويل",
+        "en": "Al-Mahaweel",
+        "slug": "al-mahaweel-iqg07q03"
+      },
+      "code": {
+        "id": "IQG07Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG07",
+          "level": 1,
+          "name": {
+            "local": "بابل",
+            "en": "Babil",
+            "slug": "babil-iqg07"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.674",
+        "lon": "44.652"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG07Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المسيب",
+        "en": "Al-Mussyab",
+        "slug": "al-mussyab-iqg07q04"
+      },
+      "code": {
+        "id": "IQG07Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG07",
+          "level": 1,
+          "name": {
+            "local": "بابل",
+            "en": "Babil",
+            "slug": "babil-iqg07"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.8",
+        "lon": "44.266"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      },
+      "code": {
+        "id": "IQG08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "subdistrict": 21
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.278",
+        "lon": "44.379"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/baghdad-iqg08/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG08Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الاعظمية",
+        "en": "Al-Adhamiya",
+        "slug": "al-adhamiya-iqg08q01"
+      },
+      "code": {
+        "id": "IQG08Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.479",
+        "lon": "44.354"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      },
+      "code": {
+        "id": "IQG08Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.464",
+        "lon": "44.192"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الكرخ",
+        "en": "Al-Karkh",
+        "slug": "al-karkh-iqg08q03"
+      },
+      "code": {
+        "id": "IQG08Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.179",
+        "lon": "44.471"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المدائن",
+        "en": "Al-Mada'in",
+        "slug": "al-madain-iqg08q04"
+      },
+      "code": {
+        "id": "IQG08Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.219",
+        "lon": "44.686"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المحمودية",
+        "en": "Al-Mahmoudiya",
+        "slug": "al-mahmoudiya-iqg08q05"
+      },
+      "code": {
+        "id": "IQG08Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.035",
+        "lon": "44.343"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الرصافة",
+        "en": "Al-Risafa",
+        "slug": "al-risafa-iqg08q06"
+      },
+      "code": {
+        "id": "IQG08Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.325",
+        "lon": "44.465"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG08Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الثورة",
+        "en": "Al-Thawra",
+        "slug": "al-thawra-iqg08q07"
+      },
+      "code": {
+        "id": "IQG08Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG08",
+          "level": 1,
+          "name": {
+            "local": "بغداد",
+            "en": "Baghdad",
+            "slug": "baghdad-iqg08"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.388",
+        "lon": "44.465"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG09",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      },
+      "code": {
+        "id": "IQG09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "subdistrict": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.046",
+        "lon": "43.138"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/duhok-iqg09/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG09Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "العمادية",
+        "en": "Al-Amadiya",
+        "slug": "al-amadiya-iqg09q01"
+      },
+      "code": {
+        "id": "IQG09Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG09",
+          "level": 1,
+          "name": {
+            "local": "دهوك",
+            "en": "Duhok",
+            "slug": "duhok-iqg09"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.091",
+        "lon": "43.579"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG09Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09q02"
+      },
+      "code": {
+        "id": "IQG09Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG09",
+          "level": 1,
+          "name": {
+            "local": "دهوك",
+            "en": "Duhok",
+            "slug": "duhok-iqg09"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.943",
+        "lon": "43.105"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG09Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "سميل",
+        "en": "Sumail",
+        "slug": "sumail-iqg09q03"
+      },
+      "code": {
+        "id": "IQG09Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG09",
+          "level": 1,
+          "name": {
+            "local": "دهوك",
+            "en": "Duhok",
+            "slug": "duhok-iqg09"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.913",
+        "lon": "42.727"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG09Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "زاخو",
+        "en": "Zakho",
+        "slug": "zakho-iqg09q04"
+      },
+      "code": {
+        "id": "IQG09Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG09",
+          "level": 1,
+          "name": {
+            "local": "دهوك",
+            "en": "Duhok",
+            "slug": "duhok-iqg09"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.202",
+        "lon": "42.904"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      },
+      "code": {
+        "id": "IQG10",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "subdistrict": 21
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.071",
+        "lon": "44.896"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/diyala-iqg10/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG10Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      },
+      "code": {
+        "id": "IQG10Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.085",
+        "lon": "44.657"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المقدادية",
+        "en": "Al-Muqdadiya",
+        "slug": "al-muqdadiya-iqg10q02"
+      },
+      "code": {
+        "id": "IQG10Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.881",
+        "lon": "44.926"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "مندلي",
+        "en": "Baladruz",
+        "slug": "baladruz-iqg10q03"
+      },
+      "code": {
+        "id": "IQG10Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.56",
+        "lon": "45.44"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بعقوبة",
+        "en": "Baquba",
+        "slug": "baquba-iqg10q04"
+      },
+      "code": {
+        "id": "IQG10Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.647",
+        "lon": "44.713"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      },
+      "code": {
+        "id": "IQG10Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.52",
+        "lon": "45.383"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG10Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "كفري",
+        "en": "Kifri",
+        "slug": "kifri-iqg10q06"
+      },
+      "code": {
+        "id": "IQG10Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG10",
+          "level": 1,
+          "name": {
+            "local": "ديالى",
+            "en": "Diyala",
+            "slug": "diyala-iqg10"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.561",
+        "lon": "44.958"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      },
+      "code": {
+        "id": "IQG11",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "subdistrict": 21
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.379",
+        "lon": "44.21"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/erbil-iqg11/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG11Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الزيبار",
+        "en": "Al-Zibar",
+        "slug": "al-zibar-iqg11q01"
+      },
+      "code": {
+        "id": "IQG11Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.088",
+        "lon": "44.094"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11q02"
+      },
+      "code": {
+        "id": "IQG11Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.091",
+        "lon": "43.994"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "كويسنجق",
+        "en": "Koysinjaq",
+        "slug": "koysinjaq-iqg11q03"
+      },
+      "code": {
+        "id": "IQG11Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.036",
+        "lon": "44.526"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "مخمور",
+        "en": "Makhmour",
+        "slug": "makhmour-iqg11q04"
+      },
+      "code": {
+        "id": "IQG11Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.823",
+        "lon": "43.652"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      },
+      "code": {
+        "id": "IQG11Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.807",
+        "lon": "44.535"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG11Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "شقلاوة",
+        "en": "Shaqlawa",
+        "slug": "shaqlawa-iqg11q06"
+      },
+      "code": {
+        "id": "IQG11Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG11",
+          "level": 1,
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.448",
+        "lon": "44.152"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG12",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbala",
+        "slug": "kerbala-iqg12"
+      },
+      "code": {
+        "id": "IQG12",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.498",
+        "lon": "43.8"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/kerbala-iqg12/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG12Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "عين التمر",
+        "en": "Ain Al-Tamur",
+        "slug": "ain-al-tamur-iqg12q01"
+      },
+      "code": {
+        "id": "IQG12Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG12",
+          "level": 1,
+          "name": {
+            "local": "كربلاء",
+            "en": "Kerbala",
+            "slug": "kerbala-iqg12"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.483",
+        "lon": "43.533"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG12Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الهندية",
+        "en": "Al-Hindiya",
+        "slug": "al-hindiya-iqg12q02"
+      },
+      "code": {
+        "id": "IQG12Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG12",
+          "level": 1,
+          "name": {
+            "local": "كربلاء",
+            "en": "Kerbala",
+            "slug": "kerbala-iqg12"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.465",
+        "lon": "44.207"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG12Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbela",
+        "slug": "kerbela-iqg12q03"
+      },
+      "code": {
+        "id": "IQG12Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG12",
+          "level": 1,
+          "name": {
+            "local": "كربلاء",
+            "en": "Kerbala",
+            "slug": "kerbala-iqg12"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.497",
+        "lon": "43.906"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG13",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      },
+      "code": {
+        "id": "IQG13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "subdistrict": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.288",
+        "lon": "44.061"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/kirkuk-iqg13/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG13Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحويجة",
+        "en": "Al-Hawiga",
+        "slug": "al-hawiga-iqg13q01"
+      },
+      "code": {
+        "id": "IQG13Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG13",
+          "level": 1,
+          "name": {
+            "local": "كركوك",
+            "en": "Kirkuk",
+            "slug": "kirkuk-iqg13"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.264",
+        "lon": "43.788"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG13Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "داقوق",
+        "en": "Daquq",
+        "slug": "daquq-iqg13q02"
+      },
+      "code": {
+        "id": "IQG13Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG13",
+          "level": 1,
+          "name": {
+            "local": "كركوك",
+            "en": "Kirkuk",
+            "slug": "kirkuk-iqg13"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.995",
+        "lon": "44.171"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG13Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "دبس",
+        "en": "Dibis",
+        "slug": "dibis-iqg13q03"
+      },
+      "code": {
+        "id": "IQG13Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG13",
+          "level": 1,
+          "name": {
+            "local": "كركوك",
+            "en": "Kirkuk",
+            "slug": "kirkuk-iqg13"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.66",
+        "lon": "44.131"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG13Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13q04"
+      },
+      "code": {
+        "id": "IQG13Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG13",
+          "level": 1,
+          "name": {
+            "local": "كركوك",
+            "en": "Kirkuk",
+            "slug": "kirkuk-iqg13"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.516",
+        "lon": "44.529"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      },
+      "code": {
+        "id": "IQG14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "subdistrict": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32",
+        "lon": "47.134"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/maysan-iqg14/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG14Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "العمارة",
+        "en": "Al-Amara",
+        "slug": "al-amara-iqg14q01"
+      },
+      "code": {
+        "id": "IQG14Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.107",
+        "lon": "47.272"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "علي الغربي",
+        "en": "Ali Al-Gharbi",
+        "slug": "ali-al-gharbi-iqg14q02"
+      },
+      "code": {
+        "id": "IQG14Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.419",
+        "lon": "46.765"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الكحلاء",
+        "en": "Al-Kahla",
+        "slug": "al-kahla-iqg14q03"
+      },
+      "code": {
+        "id": "IQG14Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.764",
+        "lon": "47.43"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الميمونة",
+        "en": "Al-Maimouna",
+        "slug": "al-maimouna-iqg14q04"
+      },
+      "code": {
+        "id": "IQG14Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.472",
+        "lon": "46.812"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "المجر الكبير",
+        "en": "Al-Mejar Al-Kabir",
+        "slug": "al-mejar-al-kabir-iqg14q05"
+      },
+      "code": {
+        "id": "IQG14Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.432",
+        "lon": "47.579"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG14Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "قلعة صالح",
+        "en": "Qalat Saleh",
+        "slug": "qalat-saleh-iqg14q06"
+      },
+      "code": {
+        "id": "IQG14Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG14",
+          "level": 1,
+          "name": {
+            "local": "ميسان",
+            "en": "Maysan",
+            "slug": "maysan-iqg14"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.479",
+        "lon": "47.383"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      },
+      "code": {
+        "id": "IQG15",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 9,
+        "subdistrict": 28
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.994",
+        "lon": "42.362"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/ninewa-iqg15/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG15Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      },
+      "code": {
+        "id": "IQG15Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.667",
+        "lon": "43.946"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "البعاج",
+        "en": "Al-Baaj",
+        "slug": "al-baaj-iqg15q02"
+      },
+      "code": {
+        "id": "IQG15Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.693",
+        "lon": "41.7"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحمدانية",
+        "en": "Al-Hamdaniya",
+        "slug": "al-hamdaniya-iqg15q03"
+      },
+      "code": {
+        "id": "IQG15Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.191",
+        "lon": "43.409"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحضر",
+        "en": "Al-Hatra",
+        "slug": "al-hatra-iqg15q04"
+      },
+      "code": {
+        "id": "IQG15Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.589",
+        "lon": "42.505"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الموصل",
+        "en": "Al-Mosul",
+        "slug": "al-mosul-iqg15q05"
+      },
+      "code": {
+        "id": "IQG15Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.102",
+        "lon": "42.951"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الشيخان",
+        "en": "Al-Shikhan",
+        "slug": "al-shikhan-iqg15q06"
+      },
+      "code": {
+        "id": "IQG15Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.699",
+        "lon": "43.415"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "سنجار",
+        "en": "Sinjar",
+        "slug": "sinjar-iqg15q07"
+      },
+      "code": {
+        "id": "IQG15Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.336",
+        "lon": "42.014"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q08",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "تلعفر",
+        "en": "Telafar",
+        "slug": "telafar-iqg15q08"
+      },
+      "code": {
+        "id": "IQG15Q08",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.525",
+        "lon": "42.348"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG15Q09",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "تلكيف",
+        "en": "Tilkaef",
+        "slug": "tilkaef-iqg15q09"
+      },
+      "code": {
+        "id": "IQG15Q09",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG15",
+          "level": 1,
+          "name": {
+            "local": "نينوى",
+            "en": "Ninewa",
+            "slug": "ninewa-iqg15"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.574",
+        "lon": "42.992"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      },
+      "code": {
+        "id": "IQG16",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "subdistrict": 19
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.66",
+        "lon": "43.634"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/salah-al-din-iqg16/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG16Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الدور",
+        "en": "Al-Daur",
+        "slug": "al-daur-iqg16q01"
+      },
+      "code": {
+        "id": "IQG16Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.56",
+        "lon": "44.208"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الشرقاط",
+        "en": "Al-Shirqat",
+        "slug": "al-shirqat-iqg16q02"
+      },
+      "code": {
+        "id": "IQG16Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.474",
+        "lon": "43.176"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بيجي",
+        "en": "Beygee",
+        "slug": "beygee-iqg16q03"
+      },
+      "code": {
+        "id": "IQG16Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.887",
+        "lon": "43.037"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بلد",
+        "en": "Balad",
+        "slug": "balad-iqg16q04"
+      },
+      "code": {
+        "id": "IQG16Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.936",
+        "lon": "43.84"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "سامراء",
+        "en": "Samarra",
+        "slug": "samarra-iqg16q05"
+      },
+      "code": {
+        "id": "IQG16Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.333",
+        "lon": "43.377"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q06",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "تكريت",
+        "en": "Tikrit",
+        "slug": "tikrit-iqg16q06"
+      },
+      "code": {
+        "id": "IQG16Q06",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.763",
+        "lon": "43.855"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG16Q07",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "طوز خورماتو",
+        "en": "Tooz Khurmato",
+        "slug": "tooz-khurmato-iqg16q07"
+      },
+      "code": {
+        "id": "IQG16Q07",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG16",
+          "level": 1,
+          "name": {
+            "local": "صلاح الدين",
+            "en": "Salah Al-Din",
+            "slug": "salah-al-din-iqg16"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.825",
+        "lon": "44.659"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG17",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      },
+      "code": {
+        "id": "IQG17",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 5,
+        "subdistrict": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.29",
+        "lon": "46.274"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/thi-qar-iqg17/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG17Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الجبايش",
+        "en": "Al-Chibayish",
+        "slug": "al-chibayish-iqg17q01"
+      },
+      "code": {
+        "id": "IQG17Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG17",
+          "level": 1,
+          "name": {
+            "local": "ذي قار",
+            "en": "Thi Qar",
+            "slug": "thi-qar-iqg17"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.858",
+        "lon": "46.905"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG17Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الرفاعي",
+        "en": "Al-Rifai",
+        "slug": "al-rifai-iqg17q02"
+      },
+      "code": {
+        "id": "IQG17Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG17",
+          "level": 1,
+          "name": {
+            "local": "ذي قار",
+            "en": "Thi Qar",
+            "slug": "thi-qar-iqg17"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "46.125"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG17Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الشطرة",
+        "en": "Al-Shatra",
+        "slug": "al-shatra-iqg17q03"
+      },
+      "code": {
+        "id": "IQG17Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG17",
+          "level": 1,
+          "name": {
+            "local": "ذي قار",
+            "en": "Thi Qar",
+            "slug": "thi-qar-iqg17"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.41",
+        "lon": "46.315"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG17Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الناصرية",
+        "en": "Al-Nasiriya",
+        "slug": "al-nasiriya-iqg17q04"
+      },
+      "code": {
+        "id": "IQG17Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG17",
+          "level": 1,
+          "name": {
+            "local": "ذي قار",
+            "en": "Thi Qar",
+            "slug": "thi-qar-iqg17"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.122",
+        "lon": "46.491"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG17Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "سوق الشيوخ",
+        "en": "Suq Al-Shoyokh",
+        "slug": "suq-al-shoyokh-iqg17q05"
+      },
+      "code": {
+        "id": "IQG17Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG17",
+          "level": 1,
+          "name": {
+            "local": "ذي قار",
+            "en": "Thi Qar",
+            "slug": "thi-qar-iqg17"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.812",
+        "lon": "46.458"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG18",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      },
+      "code": {
+        "id": "IQG18",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 5,
+        "subdistrict": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.712",
+        "lon": "45.702"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/iq/governorates/wassit-iqg18/",
+        "api": "https://openadmindata.org/api/iq/"
+      }
+    },
+    {
+      "id": "IQG18Q01",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الحي",
+        "en": "Al-Hai",
+        "slug": "al-hai-iqg18q01"
+      },
+      "code": {
+        "id": "IQG18Q01",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG18",
+          "level": 1,
+          "name": {
+            "local": "واسط",
+            "en": "Wassit",
+            "slug": "wassit-iqg18"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.181",
+        "lon": "46.024"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG18Q02",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الكوت",
+        "en": "Al-Kut",
+        "slug": "al-kut-iqg18q02"
+      },
+      "code": {
+        "id": "IQG18Q02",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG18",
+          "level": 1,
+          "name": {
+            "local": "واسط",
+            "en": "Wassit",
+            "slug": "wassit-iqg18"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.467",
+        "lon": "46.132"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG18Q03",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "النعمانية",
+        "en": "Al-Namaniya",
+        "slug": "al-namaniya-iqg18q03"
+      },
+      "code": {
+        "id": "IQG18Q03",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG18",
+          "level": 1,
+          "name": {
+            "local": "واسط",
+            "en": "Wassit",
+            "slug": "wassit-iqg18"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.447",
+        "lon": "45.511"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG18Q04",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      },
+      "code": {
+        "id": "IQG18Q04",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG18",
+          "level": 1,
+          "name": {
+            "local": "واسط",
+            "en": "Wassit",
+            "slug": "wassit-iqg18"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.841",
+        "lon": "45.047"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "IQG18Q05",
+      "level": 2,
+      "level_name": {
+        "local": "قضاء",
+        "en": "District"
+      },
+      "name": {
+        "local": "بدرة",
+        "en": "Badra",
+        "slug": "badra-iqg18q05"
+      },
+      "code": {
+        "id": "IQG18Q05",
+        "iso": null
+      },
+      "parent": {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "IQG18",
+          "level": 1,
+          "name": {
+            "local": "واسط",
+            "en": "Wassit",
+            "slug": "wassit-iqg18"
+          }
+        }
+      ],
+      "children_count": {
+        "subdistrict": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.068",
+        "lon": "45.852"
+      },
+      "metadata": {},
+      "source": {}
+    }
+  ]
+}

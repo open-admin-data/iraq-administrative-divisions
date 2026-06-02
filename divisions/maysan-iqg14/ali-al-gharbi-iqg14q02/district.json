@@ -1,0 +1,47 @@
+{
+  "id": "IQG14Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "علي الغربي",
+    "en": "Ali Al-Gharbi",
+    "slug": "ali-al-gharbi-iqg14q02"
+  },
+  "code": {
+    "id": "IQG14Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG14",
+    "level": 1,
+    "name": {
+      "local": "ميسان",
+      "en": "Maysan",
+      "slug": "maysan-iqg14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.419",
+    "lon": "46.765"
+  },
+  "metadata": {},
+  "source": {}
+}

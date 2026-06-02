@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG04Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحيرة",
+      "en": "Al-Heera",
+      "slug": "al-heera-iqg04q02n01"
+    },
+    "code": {
+      "id": "IQG04Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q02",
+      "level": 2,
+      "name": {
+        "local": "المناذرة",
+        "en": "Al-Manathera",
+        "slug": "al-manathera-iqg04q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q02",
+        "level": 2,
+        "name": {
+          "local": "المناذرة",
+          "en": "Al-Manathera",
+          "slug": "al-manathera-iqg04q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.774",
+      "lon": "44.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "IQG16Q05",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "سامراء",
+    "en": "Samarra",
+    "slug": "samarra-iqg16q05"
+  },
+  "code": {
+    "id": "IQG16Q05",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG16",
+    "level": 1,
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.333",
+    "lon": "43.377"
+  },
+  "metadata": {},
+  "source": {}
+}

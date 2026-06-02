@@ -1,0 +1,47 @@
+{
+  "id": "IQG11Q05",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "راوندوز",
+    "en": "Rawanduz",
+    "slug": "rawanduz-iqg11q05"
+  },
+  "code": {
+    "id": "IQG11Q05",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG11",
+    "level": 1,
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.807",
+    "lon": "44.535"
+  },
+  "metadata": {},
+  "source": {}
+}

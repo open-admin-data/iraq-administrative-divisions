@@ -1,0 +1,106 @@
+# Thi Qar — Iraq Administrative Divisions
+
+> 5 districts, 18 sub-districts
+> Code: IQG17
+> Coordinates: 31.29, 46.274
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الجبايش (Al-Chibayish)
+
+Code: IQG17Q01, Coordinates: 30.858, 46.905
+Sub-districts: 3
+
+#### الفهود (Al-Fuhood)
+
+Code: IQG17Q01N01, Coordinates: 30.789, 46.713
+
+#### الحمار (Al-Hammar)
+
+Code: IQG17Q01N02, Coordinates: 30.894, 46.842
+
+#### مركز الجبايش (Markaz Al-Chibayish)
+
+Code: IQG17Q01N03, Coordinates: 30.877, 47.015
+
+### الناصرية (Al-Nasiriya)
+
+Code: IQG17Q04, Coordinates: 31.122, 46.491
+Sub-districts: 4
+
+#### البطحاء (Al-Battha&#39;a)
+
+Code: IQG17Q04N01, Coordinates: 31.094, 45.986
+
+#### الاصلاح (Al-Islah)
+
+Code: IQG17Q04N04, Coordinates: 31.231, 46.632
+
+#### مركزالناصرية (Markaz Al-Nasiriya)
+
+Code: IQG17Q04N02, Coordinates: 30.98, 46.177
+
+#### سيد خليل (Said Dekhil)
+
+Code: IQG17Q04N03, Coordinates: 31.174, 46.421
+
+### الرفاعي (Al-Rifai)
+
+Code: IQG17Q02, Coordinates: 31.671, 46.125
+Sub-districts: 4
+
+#### الفجر (Al-Fajer)
+
+Code: IQG17Q02N01, Coordinates: 31.885, 45.871
+
+#### النصر (Al-Nasr)
+
+Code: IQG17Q02N02, Coordinates: 31.469, 45.954
+
+#### مركز الرفاعي (Markaz Al-Rifai)
+
+Code: IQG17Q02N03, Coordinates: 31.72, 46.183
+
+#### قلعة السكر (Qalat Siker)
+
+Code: IQG17Q02N04, Coordinates: 31.836, 46.073
+
+### الشطرة (Al-Shatra)
+
+Code: IQG17Q03, Coordinates: 31.41, 46.315
+Sub-districts: 3
+
+#### الدواية (Al-Dawaya)
+
+Code: IQG17Q03N03, Coordinates: 31.48, 46.425
+
+#### القراف (Al-Gharraf)
+
+Code: IQG17Q03N02, Coordinates: 31.245, 46.19
+
+#### مركز الشطرة (Markaz Al-Shatra)
+
+Code: IQG17Q03N01, Coordinates: 31.433, 46.188
+
+### سوق الشيوخ (Suq Al-Shoyokh)
+
+Code: IQG17Q05, Coordinates: 30.812, 46.458
+Sub-districts: 4
+
+#### عكيكة (Akaika)
+
+Code: IQG17Q05N04, Coordinates: 30.973, 46.454
+
+#### الفضلية (Al-Fadhliya)
+
+Code: IQG17Q05N03, Coordinates: 30.799, 46.38
+
+#### الطار (Al-Tar)
+
+Code: IQG17Q05N02, Coordinates: 30.926, 46.654
+
+#### كرمة بني سعد (Garmat Beni Said)
+
+Code: IQG17Q05N01, Coordinates: 30.783, 46.602
+

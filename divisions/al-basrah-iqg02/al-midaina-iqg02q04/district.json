@@ -1,0 +1,47 @@
+{
+  "id": "IQG02Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "المدينة",
+    "en": "Al-Midaina",
+    "slug": "al-midaina-iqg02q04"
+  },
+  "code": {
+    "id": "IQG02Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG02",
+    "level": 1,
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.982",
+    "lon": "47.246"
+  },
+  "metadata": {},
+  "source": {}
+}

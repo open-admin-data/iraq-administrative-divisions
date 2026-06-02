@@ -1,0 +1,93 @@
+# Kirkuk — Iraq Administrative Divisions
+
+> 4 districts, 16 sub-districts
+> Code: IQG13
+> Coordinates: 35.288, 44.061
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الحويجة (Al-Hawiga)
+
+Code: IQG13Q01, Coordinates: 35.264, 43.788
+Sub-districts: 4
+
+#### العباسية (Al-Abbasi)
+
+Code: IQG13Q01N04, Coordinates: 35.236, 43.597
+
+#### الرياض (Al-Riyadh)
+
+Code: IQG13Q01N03, Coordinates: 35.199, 43.839
+
+#### الزاب (Al-Zab)
+
+Code: IQG13Q01N02, Coordinates: 35.405, 43.506
+
+#### مركز الحويجة (Markaz Al-Hawiga)
+
+Code: IQG13Q01N01, Coordinates: 35.374, 43.848
+
+### داقوق (Daquq)
+
+Code: IQG13Q02, Coordinates: 34.995, 44.171
+Sub-districts: 2
+
+#### الرشاد (Al-Rashad)
+
+Code: IQG13Q02N01, Coordinates: 35.016, 43.996
+
+#### مركز داقوق (Markaz Daquq)
+
+Code: IQG13Q02N02, Coordinates: 34.995, 44.364
+
+### دبس (Dibis)
+
+Code: IQG13Q03, Coordinates: 35.66, 44.131
+Sub-districts: 3
+
+#### التون كوبري (Altun Qupri)
+
+Code: IQG13Q03N03, Coordinates: 35.673, 44.322
+
+#### مركز الدبس (Markaz Dibis)
+
+Code: IQG13Q03N02, Coordinates: 35.592, 44.111
+
+#### سركران (Sarkran)
+
+Code: IQG13Q03N01, Coordinates: 35.683, 43.937
+
+### كركوك (Kirkuk)
+
+Code: IQG13Q04, Coordinates: 35.516, 44.529
+Sub-districts: 7
+
+#### الملتقى (Al-Multaka)
+
+Code: IQG13Q04N03, Coordinates: 35.465, 44.212
+
+#### ليلان (Lilan)
+
+Code: IQG13Q04N02, Coordinates: 35.283, 44.596
+
+#### مركز كركوك (Markaz Kirkuk)
+
+Code: IQG13Q04N06, Coordinates: 35.51, 44.404
+
+#### قرة هنجير (Qura Hanjeer)
+
+Code: IQG13Q04N07, Coordinates: 35.472, 44.632
+
+#### شوان (Shwan)
+
+Code: IQG13Q04N05, Coordinates: 35.716, 44.569
+
+#### تازة خورماتو (Taza Khormato)
+
+Code: IQG13Q04N01, Coordinates: 35.292, 44.287
+
+#### يايجي (Yaijy)
+
+Code: IQG13Q04N04, Coordinates: 35.439, 44.278
+

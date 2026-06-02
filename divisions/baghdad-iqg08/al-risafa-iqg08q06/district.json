@@ -1,0 +1,47 @@
+{
+  "id": "IQG08Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرصافة",
+    "en": "Al-Risafa",
+    "slug": "al-risafa-iqg08q06"
+  },
+  "code": {
+    "id": "IQG08Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG08",
+    "level": 1,
+    "name": {
+      "local": "بغداد",
+      "en": "Baghdad",
+      "slug": "baghdad-iqg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.325",
+    "lon": "44.465"
+  },
+  "metadata": {},
+  "source": {}
+}

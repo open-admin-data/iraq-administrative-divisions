@@ -1,0 +1,47 @@
+# Iraq Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Per-Governorate Data Files
+
+- [Al-Anbar](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-anbar-iqg01.txt) — 7 districts, 20 sub-districts
+- [Al-Basrah](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-basrah-iqg02.txt) — 7 districts, 18 sub-districts
+- [Al-Muthanna](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-muthanna-iqg03.txt) — 4 districts, 8 sub-districts
+- [Al-Najaf](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-najaf-iqg04.txt) — 3 districts, 6 sub-districts
+- [Al-Qadissiya](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-qadissiya-iqg05.txt) — 4 districts, 13 sub-districts
+- [Al-Sulaymaniyah](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/al-sulaymaniyah-iqg06.txt) — 10 districts, 29 sub-districts
+- [Babil](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/babil-iqg07.txt) — 4 districts, 11 sub-districts
+- [Baghdad](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/baghdad-iqg08.txt) — 7 districts, 21 sub-districts
+- [Diyala](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/diyala-iqg10.txt) — 6 districts, 21 sub-districts
+- [Duhok](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/duhok-iqg09.txt) — 4 districts, 14 sub-districts
+- [Erbil](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/erbil-iqg11.txt) — 6 districts, 21 sub-districts
+- [Kerbala](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/kerbala-iqg12.txt) — 3 districts, 5 sub-districts
+- [Kirkuk](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/kirkuk-iqg13.txt) — 4 districts, 16 sub-districts
+- [Maysan](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/maysan-iqg14.txt) — 6 districts, 12 sub-districts
+- [Ninewa](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/ninewa-iqg15.txt) — 9 districts, 28 sub-districts
+- [Salah Al-Din](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/salah-al-din-iqg16.txt) — 7 districts, 19 sub-districts
+- [Thi Qar](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/thi-qar-iqg17.txt) — 5 districts, 18 sub-districts
+- [Wassit](https://github.com/open-admin-data/iraq-administrative-divisions/blob/main/docs/llms-full/wassit-iqg18.txt) — 5 districts, 14 sub-districts
+
+## Summary
+
+| Governorate | Districts | Sub-districts | 
+|---|---|---|
+| Al-Anbar | 7 | 20 | 
+| Al-Basrah | 7 | 18 | 
+| Al-Muthanna | 4 | 8 | 
+| Al-Najaf | 3 | 6 | 
+| Al-Qadissiya | 4 | 13 | 
+| Al-Sulaymaniyah | 10 | 29 | 
+| Babil | 4 | 11 | 
+| Baghdad | 7 | 21 | 
+| Diyala | 6 | 21 | 
+| Duhok | 4 | 14 | 
+| Erbil | 6 | 21 | 
+| Kerbala | 3 | 5 | 
+| Kirkuk | 4 | 16 | 
+| Maysan | 6 | 12 | 
+| Ninewa | 9 | 28 | 
+| Salah Al-Din | 7 | 19 | 
+| Thi Qar | 5 | 18 | 
+| Wassit | 5 | 14 | 

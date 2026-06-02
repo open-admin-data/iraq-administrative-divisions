@@ -1,0 +1,47 @@
+{
+  "id": "IQG15Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشيخان",
+    "en": "Al-Shikhan",
+    "slug": "al-shikhan-iqg15q06"
+  },
+  "code": {
+    "id": "IQG15Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG15",
+    "level": 1,
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.699",
+    "lon": "43.415"
+  },
+  "metadata": {},
+  "source": {}
+}

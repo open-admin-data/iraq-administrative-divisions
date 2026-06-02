@@ -1,0 +1,47 @@
+{
+  "id": "IQG04Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "النجف",
+    "en": "Al-Najaf",
+    "slug": "al-najaf-iqg04q03"
+  },
+  "code": {
+    "id": "IQG04Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG04",
+    "level": 1,
+    "name": {
+      "local": "النجف",
+      "en": "Al-Najaf",
+      "slug": "al-najaf-iqg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG04",
+      "level": 1,
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.101",
+    "lon": "43.364"
+  },
+  "metadata": {},
+  "source": {}
+}

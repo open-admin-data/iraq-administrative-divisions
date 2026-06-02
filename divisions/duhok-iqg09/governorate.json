@@ -1,0 +1,34 @@
+{
+  "id": "IQG09",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "دهوك",
+    "en": "Duhok",
+    "slug": "duhok-iqg09"
+  },
+  "code": {
+    "id": "IQG09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.046",
+    "lon": "43.138"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/duhok-iqg09/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG11Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز كويسنجق",
+      "en": "Markaz Koysinjaq",
+      "slug": "markaz-koysinjaq-iqg11q03n03"
+    },
+    "code": {
+      "id": "IQG11Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q03",
+      "level": 2,
+      "name": {
+        "local": "كويسنجق",
+        "en": "Koysinjaq",
+        "slug": "koysinjaq-iqg11q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q03",
+        "level": 2,
+        "name": {
+          "local": "كويسنجق",
+          "en": "Koysinjaq",
+          "slug": "koysinjaq-iqg11q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.102",
+      "lon": "44.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سورش",
+      "en": "Shorsh",
+      "slug": "shorsh-iqg11q03n02"
+    },
+    "code": {
+      "id": "IQG11Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q03",
+      "level": 2,
+      "name": {
+        "local": "كويسنجق",
+        "en": "Koysinjaq",
+        "slug": "koysinjaq-iqg11q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q03",
+        "level": 2,
+        "name": {
+          "local": "كويسنجق",
+          "en": "Koysinjaq",
+          "slug": "koysinjaq-iqg11q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.133",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "طق طق",
+      "en": "Taq Taq",
+      "slug": "taq-taq-iqg11q03n01"
+    },
+    "code": {
+      "id": "IQG11Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q03",
+      "level": 2,
+      "name": {
+        "local": "كويسنجق",
+        "en": "Koysinjaq",
+        "slug": "koysinjaq-iqg11q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q03",
+        "level": 2,
+        "name": {
+          "local": "كويسنجق",
+          "en": "Koysinjaq",
+          "slug": "koysinjaq-iqg11q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.962",
+      "lon": "44.492"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

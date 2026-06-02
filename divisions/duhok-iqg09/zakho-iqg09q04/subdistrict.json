@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG09Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "باتيفا",
+      "en": "Batifa",
+      "slug": "batifa-iqg09q04n02"
+    },
+    "code": {
+      "id": "IQG09Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q04",
+      "level": 2,
+      "name": {
+        "local": "زاخو",
+        "en": "Zakho",
+        "slug": "zakho-iqg09q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q04",
+        "level": 2,
+        "name": {
+          "local": "زاخو",
+          "en": "Zakho",
+          "slug": "zakho-iqg09q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.227",
+      "lon": "43.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دركار",
+      "en": "Dercar",
+      "slug": "dercar-iqg09q04n03"
+    },
+    "code": {
+      "id": "IQG09Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q04",
+      "level": 2,
+      "name": {
+        "local": "زاخو",
+        "en": "Zakho",
+        "slug": "zakho-iqg09q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q04",
+        "level": 2,
+        "name": {
+          "local": "زاخو",
+          "en": "Zakho",
+          "slug": "zakho-iqg09q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.227",
+      "lon": "42.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز زاخو",
+      "en": "Markaz Zakho",
+      "slug": "markaz-zakho-iqg09q04n01"
+    },
+    "code": {
+      "id": "IQG09Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q04",
+      "level": 2,
+      "name": {
+        "local": "زاخو",
+        "en": "Zakho",
+        "slug": "zakho-iqg09q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q04",
+        "level": 2,
+        "name": {
+          "local": "زاخو",
+          "en": "Zakho",
+          "slug": "zakho-iqg09q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.106",
+      "lon": "42.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

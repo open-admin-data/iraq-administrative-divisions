@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG04Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحيدرية",
+      "en": "Al-Haydariya",
+      "slug": "al-haydariya-iqg04q03n01"
+    },
+    "code": {
+      "id": "IQG04Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q03",
+      "level": 2,
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q03",
+        "level": 2,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.191",
+      "lon": "44.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG04Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشبكة",
+      "en": "Al-Shabaka",
+      "slug": "al-shabaka-iqg04q03n02"
+    },
+    "code": {
+      "id": "IQG04Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q03",
+      "level": 2,
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q03",
+        "level": 2,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.007",
+      "lon": "43.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG04Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز النجف",
+      "en": "Markaz Al-Najaf",
+      "slug": "markaz-al-najaf-iqg04q03n03"
+    },
+    "code": {
+      "id": "IQG04Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q03",
+      "level": 2,
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q03",
+        "level": 2,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.915",
+      "lon": "44.195"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

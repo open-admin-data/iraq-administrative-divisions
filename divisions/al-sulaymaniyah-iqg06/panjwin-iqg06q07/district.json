@@ -1,0 +1,47 @@
+{
+  "id": "IQG06Q07",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بنجوين",
+    "en": "Panjwin",
+    "slug": "panjwin-iqg06q07"
+  },
+  "code": {
+    "id": "IQG06Q07",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG06",
+    "level": 1,
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.648",
+    "lon": "45.931"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "IQG10Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "المقدادية",
+    "en": "Al-Muqdadiya",
+    "slug": "al-muqdadiya-iqg10q02"
+  },
+  "code": {
+    "id": "IQG10Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG10",
+    "level": 1,
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.881",
+    "lon": "44.926"
+  },
+  "metadata": {},
+  "source": {}
+}

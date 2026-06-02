@@ -1,0 +1,34 @@
+{
+  "id": "IQG12",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "كربلاء",
+    "en": "Kerbala",
+    "slug": "kerbala-iqg12"
+  },
+  "code": {
+    "id": "IQG12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.498",
+    "lon": "43.8"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/kerbala-iqg12/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

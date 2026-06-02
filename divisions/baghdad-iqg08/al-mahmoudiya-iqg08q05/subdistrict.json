@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG08Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "اللطيفية",
+      "en": "Al-Latifya",
+      "slug": "al-latifya-iqg08q05n03"
+    },
+    "code": {
+      "id": "IQG08Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q05",
+      "level": 2,
+      "name": {
+        "local": "المحمودية",
+        "en": "Al-Mahmoudiya",
+        "slug": "al-mahmoudiya-iqg08q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q05",
+        "level": 2,
+        "name": {
+          "local": "المحمودية",
+          "en": "Al-Mahmoudiya",
+          "slug": "al-mahmoudiya-iqg08q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.932",
+      "lon": "44.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرشيد",
+      "en": "Al-Rasheed",
+      "slug": "al-rasheed-iqg08q05n02"
+    },
+    "code": {
+      "id": "IQG08Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q05",
+      "level": 2,
+      "name": {
+        "local": "المحمودية",
+        "en": "Al-Mahmoudiya",
+        "slug": "al-mahmoudiya-iqg08q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q05",
+        "level": 2,
+        "name": {
+          "local": "المحمودية",
+          "en": "Al-Mahmoudiya",
+          "slug": "al-mahmoudiya-iqg08q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.125",
+      "lon": "44.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "اليوسفية",
+      "en": "Al-Yousifya",
+      "slug": "al-yousifya-iqg08q05n04"
+    },
+    "code": {
+      "id": "IQG08Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q05",
+      "level": 2,
+      "name": {
+        "local": "المحمودية",
+        "en": "Al-Mahmoudiya",
+        "slug": "al-mahmoudiya-iqg08q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q05",
+        "level": 2,
+        "name": {
+          "local": "المحمودية",
+          "en": "Al-Mahmoudiya",
+          "slug": "al-mahmoudiya-iqg08q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.135",
+      "lon": "44.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المحمودية",
+      "en": "Markaz Al-Mahmoudiya",
+      "slug": "markaz-al-mahmoudiya-iqg08q05n01"
+    },
+    "code": {
+      "id": "IQG08Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q05",
+      "level": 2,
+      "name": {
+        "local": "المحمودية",
+        "en": "Al-Mahmoudiya",
+        "slug": "al-mahmoudiya-iqg08q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q05",
+        "level": 2,
+        "name": {
+          "local": "المحمودية",
+          "en": "Al-Mahmoudiya",
+          "slug": "al-mahmoudiya-iqg08q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.053",
+      "lon": "44.349"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

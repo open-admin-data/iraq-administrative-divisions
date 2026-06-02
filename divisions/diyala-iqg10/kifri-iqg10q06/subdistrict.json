@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG10Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جبارة",
+      "en": "Jabarra",
+      "slug": "jabarra-iqg10q06n01"
+    },
+    "code": {
+      "id": "IQG10Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q06",
+      "level": 2,
+      "name": {
+        "local": "كفري",
+        "en": "Kifri",
+        "slug": "kifri-iqg10q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q06",
+        "level": 2,
+        "name": {
+          "local": "كفري",
+          "en": "Kifri",
+          "slug": "kifri-iqg10q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.606",
+      "lon": "44.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز كفري",
+      "en": "Markaz Kifri",
+      "slug": "markaz-kifri-iqg10q06n02"
+    },
+    "code": {
+      "id": "IQG10Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q06",
+      "level": 2,
+      "name": {
+        "local": "كفري",
+        "en": "Kifri",
+        "slug": "kifri-iqg10q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q06",
+        "level": 2,
+        "name": {
+          "local": "كفري",
+          "en": "Kifri",
+          "slug": "kifri-iqg10q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.73",
+      "lon": "45.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q06N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قرة تبة",
+      "en": "Qara Tabe",
+      "slug": "qara-tabe-iqg10q06n03"
+    },
+    "code": {
+      "id": "IQG10Q06N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q06",
+      "level": 2,
+      "name": {
+        "local": "كفري",
+        "en": "Kifri",
+        "slug": "kifri-iqg10q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q06",
+        "level": 2,
+        "name": {
+          "local": "كفري",
+          "en": "Kifri",
+          "slug": "kifri-iqg10q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.441",
+      "lon": "44.891"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

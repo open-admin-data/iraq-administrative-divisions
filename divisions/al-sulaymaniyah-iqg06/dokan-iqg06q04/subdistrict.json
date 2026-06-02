@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG06Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جنارين",
+      "en": "Gnareen",
+      "slug": "gnareen-iqg06q04n01"
+    },
+    "code": {
+      "id": "IQG06Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q04",
+      "level": 2,
+      "name": {
+        "local": "دوكان",
+        "en": "Dokan",
+        "slug": "dokan-iqg06q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q04",
+        "level": 2,
+        "name": {
+          "local": "دوكان",
+          "en": "Dokan",
+          "slug": "dokan-iqg06q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.027",
+      "lon": "44.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سورداش",
+      "en": "Sourdash",
+      "slug": "sourdash-iqg06q04n02"
+    },
+    "code": {
+      "id": "IQG06Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q04",
+      "level": 2,
+      "name": {
+        "local": "دوكان",
+        "en": "Dokan",
+        "slug": "dokan-iqg06q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q04",
+        "level": 2,
+        "name": {
+          "local": "دوكان",
+          "en": "Dokan",
+          "slug": "dokan-iqg06q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.821",
+      "lon": "45.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG01Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عنه",
+      "en": "Markaz Ana",
+      "slug": "markaz-ana-iqg01q05n01"
+    },
+    "code": {
+      "id": "IQG01Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q05",
+      "level": 2,
+      "name": {
+        "local": "عنه",
+        "en": "Ana",
+        "slug": "ana-iqg01q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q05",
+        "level": 2,
+        "name": {
+          "local": "عنه",
+          "en": "Ana",
+          "slug": "ana-iqg01q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.999",
+      "lon": "41.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "راوه",
+      "en": "Rawa",
+      "slug": "rawa-iqg01q05n02"
+    },
+    "code": {
+      "id": "IQG01Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q05",
+      "level": 2,
+      "name": {
+        "local": "عنه",
+        "en": "Ana",
+        "slug": "ana-iqg01q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q05",
+        "level": 2,
+        "name": {
+          "local": "عنه",
+          "en": "Ana",
+          "slug": "ana-iqg01q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.703",
+      "lon": "42.049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

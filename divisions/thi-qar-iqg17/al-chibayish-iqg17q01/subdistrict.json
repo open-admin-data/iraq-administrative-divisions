@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG17Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفهود",
+      "en": "Al-Fuhood",
+      "slug": "al-fuhood-iqg17q01n01"
+    },
+    "code": {
+      "id": "IQG17Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q01",
+      "level": 2,
+      "name": {
+        "local": "الجبايش",
+        "en": "Al-Chibayish",
+        "slug": "al-chibayish-iqg17q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q01",
+        "level": 2,
+        "name": {
+          "local": "الجبايش",
+          "en": "Al-Chibayish",
+          "slug": "al-chibayish-iqg17q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.789",
+      "lon": "46.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحمار",
+      "en": "Al-Hammar",
+      "slug": "al-hammar-iqg17q01n02"
+    },
+    "code": {
+      "id": "IQG17Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q01",
+      "level": 2,
+      "name": {
+        "local": "الجبايش",
+        "en": "Al-Chibayish",
+        "slug": "al-chibayish-iqg17q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q01",
+        "level": 2,
+        "name": {
+          "local": "الجبايش",
+          "en": "Al-Chibayish",
+          "slug": "al-chibayish-iqg17q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.894",
+      "lon": "46.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الجبايش",
+      "en": "Markaz Al-Chibayish",
+      "slug": "markaz-al-chibayish-iqg17q01n03"
+    },
+    "code": {
+      "id": "IQG17Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q01",
+      "level": 2,
+      "name": {
+        "local": "الجبايش",
+        "en": "Al-Chibayish",
+        "slug": "al-chibayish-iqg17q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q01",
+        "level": 2,
+        "name": {
+          "local": "الجبايش",
+          "en": "Al-Chibayish",
+          "slug": "al-chibayish-iqg17q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.877",
+      "lon": "47.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

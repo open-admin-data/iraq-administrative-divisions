@@ -1,0 +1,190 @@
+[
+  {
+    "id": "IQG07Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الهاشمية",
+      "en": "Al-Hashimiya",
+      "slug": "al-hashimiya-iqg07q01"
+    },
+    "code": {
+      "id": "IQG07Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07",
+      "level": 1,
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.381",
+      "lon": "44.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحلة",
+      "en": "Al-Hilla",
+      "slug": "al-hilla-iqg07q02"
+    },
+    "code": {
+      "id": "IQG07Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07",
+      "level": 1,
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.355",
+      "lon": "44.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المحاويل",
+      "en": "Al-Mahaweel",
+      "slug": "al-mahaweel-iqg07q03"
+    },
+    "code": {
+      "id": "IQG07Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07",
+      "level": 1,
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.674",
+      "lon": "44.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المسيب",
+      "en": "Al-Mussyab",
+      "slug": "al-mussyab-iqg07q04"
+    },
+    "code": {
+      "id": "IQG07Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07",
+      "level": 1,
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.8",
+      "lon": "44.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

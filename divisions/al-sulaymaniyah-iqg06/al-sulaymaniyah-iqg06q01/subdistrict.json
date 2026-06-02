@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG06Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بازيان",
+      "en": "Bazian",
+      "slug": "bazian-iqg06q01n01"
+    },
+    "code": {
+      "id": "IQG06Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q01",
+      "level": 2,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q01",
+        "level": 2,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.566",
+      "lon": "45.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قره داغ",
+      "en": "Qaradagh",
+      "slug": "qaradagh-iqg06q01n02"
+    },
+    "code": {
+      "id": "IQG06Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q01",
+      "level": 2,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q01",
+        "level": 2,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.336",
+      "lon": "45.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سرجنار",
+      "en": "Sarchnar",
+      "slug": "sarchnar-iqg06q01n03"
+    },
+    "code": {
+      "id": "IQG06Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q01",
+      "level": 2,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q01",
+        "level": 2,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.598",
+      "lon": "45.346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

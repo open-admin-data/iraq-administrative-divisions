@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG12Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجدول الغربي",
+      "en": "Al-Jadwal Al-Ghrabi",
+      "slug": "al-jadwal-al-ghrabi-iqg12q02n01"
+    },
+    "code": {
+      "id": "IQG12Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG12Q02",
+      "level": 2,
+      "name": {
+        "local": "الهندية",
+        "en": "Al-Hindiya",
+        "slug": "al-hindiya-iqg12q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      {
+        "id": "IQG12Q02",
+        "level": 2,
+        "name": {
+          "local": "الهندية",
+          "en": "Al-Hindiya",
+          "slug": "al-hindiya-iqg12q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.509",
+      "lon": "44.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG12Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الهندية",
+      "en": "Markaz Al-Hindiya",
+      "slug": "markaz-al-hindiya-iqg12q02n02"
+    },
+    "code": {
+      "id": "IQG12Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG12Q02",
+      "level": 2,
+      "name": {
+        "local": "الهندية",
+        "en": "Al-Hindiya",
+        "slug": "al-hindiya-iqg12q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      {
+        "id": "IQG12Q02",
+        "level": 2,
+        "name": {
+          "local": "الهندية",
+          "en": "Al-Hindiya",
+          "slug": "al-hindiya-iqg12q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.464",
+      "lon": "44.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

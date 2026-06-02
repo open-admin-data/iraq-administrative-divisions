@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG14Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السلام",
+      "en": "Al-Salam",
+      "slug": "al-salam-iqg14q04n01"
+    },
+    "code": {
+      "id": "IQG14Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q04",
+      "level": 2,
+      "name": {
+        "local": "الميمونة",
+        "en": "Al-Maimouna",
+        "slug": "al-maimouna-iqg14q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q04",
+        "level": 2,
+        "name": {
+          "local": "الميمونة",
+          "en": "Al-Maimouna",
+          "slug": "al-maimouna-iqg14q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.382",
+      "lon": "46.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الميمونة",
+      "en": "Markaz Al-Maimouna",
+      "slug": "markaz-al-maimouna-iqg14q04n02"
+    },
+    "code": {
+      "id": "IQG14Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q04",
+      "level": 2,
+      "name": {
+        "local": "الميمونة",
+        "en": "Al-Maimouna",
+        "slug": "al-maimouna-iqg14q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q04",
+        "level": 2,
+        "name": {
+          "local": "الميمونة",
+          "en": "Al-Maimouna",
+          "slug": "al-maimouna-iqg14q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.627",
+      "lon": "46.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

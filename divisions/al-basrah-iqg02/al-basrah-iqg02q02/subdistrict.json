@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG02Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الهارثة",
+      "en": "Al-Hartha",
+      "slug": "al-hartha-iqg02q02n01"
+    },
+    "code": {
+      "id": "IQG02Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q02",
+      "level": 2,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q02",
+        "level": 2,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.616",
+      "lon": "47.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز البصرة",
+      "en": "Markaz Al-Basrah",
+      "slug": "markaz-al-basrah-iqg02q02n02"
+    },
+    "code": {
+      "id": "IQG02Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q02",
+      "level": 2,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q02",
+        "level": 2,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.453",
+      "lon": "47.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

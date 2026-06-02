@@ -1,0 +1,47 @@
+{
+  "id": "IQG05Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الديوانية",
+    "en": "Al-Diwaniya",
+    "slug": "al-diwaniya-iqg05q02"
+  },
+  "code": {
+    "id": "IQG05Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG05",
+    "level": 1,
+    "name": {
+      "local": "القادسية",
+      "en": "Al-Qadissiya",
+      "slug": "al-qadissiya-iqg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG05",
+      "level": 1,
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.02",
+    "lon": "44.89"
+  },
+  "metadata": {},
+  "source": {}
+}

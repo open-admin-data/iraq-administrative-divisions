@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG13Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرشاد",
+      "en": "Al-Rashad",
+      "slug": "al-rashad-iqg13q02n01"
+    },
+    "code": {
+      "id": "IQG13Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q02",
+      "level": 2,
+      "name": {
+        "local": "داقوق",
+        "en": "Daquq",
+        "slug": "daquq-iqg13q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q02",
+        "level": 2,
+        "name": {
+          "local": "داقوق",
+          "en": "Daquq",
+          "slug": "daquq-iqg13q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.016",
+      "lon": "43.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز داقوق",
+      "en": "Markaz Daquq",
+      "slug": "markaz-daquq-iqg13q02n02"
+    },
+    "code": {
+      "id": "IQG13Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q02",
+      "level": 2,
+      "name": {
+        "local": "داقوق",
+        "en": "Daquq",
+        "slug": "daquq-iqg13q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q02",
+        "level": 2,
+        "name": {
+          "local": "داقوق",
+          "en": "Daquq",
+          "slug": "daquq-iqg13q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.995",
+      "lon": "44.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

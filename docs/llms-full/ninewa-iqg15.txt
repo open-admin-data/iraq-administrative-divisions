@@ -1,0 +1,166 @@
+# Ninewa — Iraq Administrative Divisions
+
+> 9 districts, 28 sub-districts
+> Code: IQG15
+> Coordinates: 35.994, 42.362
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### البعاج (Al-Baaj)
+
+Code: IQG15Q02, Coordinates: 35.693, 41.7
+Sub-districts: 2
+
+#### القحطانية (Al-Qahtanya)
+
+Code: IQG15Q02N02, Coordinates: 36.207, 41.597
+
+#### مركز البعاج (Markaz Al-Baaj)
+
+Code: IQG15Q02N01, Coordinates: 35.625, 41.695
+
+### الحمدانية (Al-Hamdaniya)
+
+Code: IQG15Q03, Coordinates: 36.191, 43.409
+Sub-districts: 3
+
+#### برطلة (Bartilla)
+
+Code: IQG15Q03N02, Coordinates: 36.328, 43.356
+
+#### مركز الحمدانية (Markaz Al-Hamdaniya)
+
+Code: IQG15Q03N03, Coordinates: 36.28, 43.579
+
+#### نمرود (Namroud)
+
+Code: IQG15Q03N01, Coordinates: 36.117, 43.416
+
+### الحضر (Al-Hatra)
+
+Code: IQG15Q04, Coordinates: 35.589, 42.505
+Sub-districts: 1
+
+#### مركز الحضر (Markaz Hatra)
+
+Code: IQG15Q04N01, Coordinates: 35.589, 42.505
+
+### الموصل (Al-Mosul)
+
+Code: IQG15Q05, Coordinates: 36.102, 42.951
+Sub-districts: 4
+
+#### المحمداث (Al-Muhamadath)
+
+Code: IQG15Q05N04, Coordinates: 36.263, 42.798
+
+#### القيارة (Al-Qayarra)
+
+Code: IQG15Q05N01, Coordinates: 35.85, 43.239
+
+#### بعشيقة (Bashiqa)
+
+Code: IQG15Q05N03, Coordinates: 36.455, 43.361
+
+#### حمام العليل (Hammam Al-Alil)
+
+Code: IQG15Q05N02, Coordinates: 36.142, 43.093
+
+### الشيخان (Al-Shikhan)
+
+Code: IQG15Q06, Coordinates: 36.699, 43.415
+Sub-districts: 3
+
+#### ئةتريش (Atreesh)
+
+Code: IQG15Q06N03, Coordinates: 36.831, 43.332
+
+#### مركز الشيخان (Markaz Al-Shikhan)
+
+Code: IQG15Q06N01, Coordinates: 36.619, 43.364
+
+#### قسروك (Qasruk)
+
+Code: IQG15Q06N02, Coordinates: 36.681, 43.544
+
+### عقرة (Aqra)
+
+Code: IQG15Q01, Coordinates: 36.667, 43.946
+Sub-districts: 5
+
+#### بردرش (Bardarash)
+
+Code: IQG15Q01N01, Coordinates: 36.491, 43.69
+
+#### بجيل (Begeel)
+
+Code: IQG15Q01N02, Coordinates: 36.655, 44.13
+
+#### دينارتة (Dinarta)
+
+Code: IQG15Q01N04, Coordinates: 36.843, 43.914
+
+#### كردسين (Kurdsein)
+
+Code: IQG15Q01N03, Coordinates: 36.647, 43.865
+
+#### مركز عقرة (Markaz Aqra)
+
+Code: IQG15Q01N05, Coordinates: 36.757, 43.835
+
+### سنجار (Sinjar)
+
+Code: IQG15Q07, Coordinates: 36.336, 42.014
+Sub-districts: 3
+
+#### القيروان (Al-Qairawan)
+
+Code: IQG15Q07N01, Coordinates: 36.214, 42.037
+
+#### الشمال (Al-Shamal)
+
+Code: IQG15Q07N02, Coordinates: 36.474, 41.72
+
+#### مركز سنجار (Markaz Sinjar)
+
+Code: IQG15Q07N03, Coordinates: 36.237, 41.828
+
+### تلعفر (Telafar)
+
+Code: IQG15Q08, Coordinates: 36.525, 42.348
+Sub-districts: 4
+
+#### العياضية (Al-Ayadiya)
+
+Code: IQG15Q08N02, Coordinates: 36.536, 42.426
+
+#### مركز تلعفر (Markaz Telafar)
+
+Code: IQG15Q08N01, Coordinates: 36.26, 42.459
+
+#### ربيعة (Rabia)
+
+Code: IQG15Q08N04, Coordinates: 36.691, 42.236
+
+#### زمار (Zummar)
+
+Code: IQG15Q08N03, Coordinates: 36.766, 42.582
+
+### تلكيف (Tilkaef)
+
+Code: IQG15Q09, Coordinates: 36.574, 42.992
+Sub-districts: 3
+
+#### القوش (Al-Qosh)
+
+Code: IQG15Q09N02, Coordinates: 36.677, 43.058
+
+#### مركز تلكيف (Markaz Tilkaef)
+
+Code: IQG15Q09N01, Coordinates: 36.503, 43.105
+
+#### وانة (Wana)
+
+Code: IQG15Q09N03, Coordinates: 36.559, 42.859
+

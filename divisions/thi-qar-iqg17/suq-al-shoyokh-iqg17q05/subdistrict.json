@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG17Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عكيكة",
+      "en": "Akaika",
+      "slug": "akaika-iqg17q05n04"
+    },
+    "code": {
+      "id": "IQG17Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q05",
+      "level": 2,
+      "name": {
+        "local": "سوق الشيوخ",
+        "en": "Suq Al-Shoyokh",
+        "slug": "suq-al-shoyokh-iqg17q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q05",
+        "level": 2,
+        "name": {
+          "local": "سوق الشيوخ",
+          "en": "Suq Al-Shoyokh",
+          "slug": "suq-al-shoyokh-iqg17q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.973",
+      "lon": "46.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفضلية",
+      "en": "Al-Fadhliya",
+      "slug": "al-fadhliya-iqg17q05n03"
+    },
+    "code": {
+      "id": "IQG17Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q05",
+      "level": 2,
+      "name": {
+        "local": "سوق الشيوخ",
+        "en": "Suq Al-Shoyokh",
+        "slug": "suq-al-shoyokh-iqg17q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q05",
+        "level": 2,
+        "name": {
+          "local": "سوق الشيوخ",
+          "en": "Suq Al-Shoyokh",
+          "slug": "suq-al-shoyokh-iqg17q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.799",
+      "lon": "46.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الطار",
+      "en": "Al-Tar",
+      "slug": "al-tar-iqg17q05n02"
+    },
+    "code": {
+      "id": "IQG17Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q05",
+      "level": 2,
+      "name": {
+        "local": "سوق الشيوخ",
+        "en": "Suq Al-Shoyokh",
+        "slug": "suq-al-shoyokh-iqg17q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q05",
+        "level": 2,
+        "name": {
+          "local": "سوق الشيوخ",
+          "en": "Suq Al-Shoyokh",
+          "slug": "suq-al-shoyokh-iqg17q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.926",
+      "lon": "46.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كرمة بني سعد",
+      "en": "Garmat Beni Said",
+      "slug": "garmat-beni-said-iqg17q05n01"
+    },
+    "code": {
+      "id": "IQG17Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q05",
+      "level": 2,
+      "name": {
+        "local": "سوق الشيوخ",
+        "en": "Suq Al-Shoyokh",
+        "slug": "suq-al-shoyokh-iqg17q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q05",
+        "level": 2,
+        "name": {
+          "local": "سوق الشيوخ",
+          "en": "Suq Al-Shoyokh",
+          "slug": "suq-al-shoyokh-iqg17q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.783",
+      "lon": "46.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

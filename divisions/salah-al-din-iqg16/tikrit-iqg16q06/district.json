@@ -1,0 +1,47 @@
+{
+  "id": "IQG16Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "تكريت",
+    "en": "Tikrit",
+    "slug": "tikrit-iqg16q06"
+  },
+  "code": {
+    "id": "IQG16Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG16",
+    "level": 1,
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.763",
+    "lon": "43.855"
+  },
+  "metadata": {},
+  "source": {}
+}

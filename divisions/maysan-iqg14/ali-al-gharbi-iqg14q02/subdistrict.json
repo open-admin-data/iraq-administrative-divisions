@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG14Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "علي الشرقي",
+      "en": "Ali Al-Sharki",
+      "slug": "ali-al-sharki-iqg14q02n02"
+    },
+    "code": {
+      "id": "IQG14Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q02",
+      "level": 2,
+      "name": {
+        "local": "علي الغربي",
+        "en": "Ali Al-Gharbi",
+        "slug": "ali-al-gharbi-iqg14q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q02",
+        "level": 2,
+        "name": {
+          "local": "علي الغربي",
+          "en": "Ali Al-Gharbi",
+          "slug": "ali-al-gharbi-iqg14q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.421",
+      "lon": "46.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز علي الغربي",
+      "en": "Markaz Ali Al-Gharbi",
+      "slug": "markaz-ali-al-gharbi-iqg14q02n01"
+    },
+    "code": {
+      "id": "IQG14Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q02",
+      "level": 2,
+      "name": {
+        "local": "علي الغربي",
+        "en": "Ali Al-Gharbi",
+        "slug": "ali-al-gharbi-iqg14q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q02",
+        "level": 2,
+        "name": {
+          "local": "علي الغربي",
+          "en": "Ali Al-Gharbi",
+          "slug": "ali-al-gharbi-iqg14q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.328",
+      "lon": "46.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

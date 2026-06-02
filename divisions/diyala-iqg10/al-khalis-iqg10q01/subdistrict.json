@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG10Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العظيم",
+      "en": "Al-Atheem",
+      "slug": "al-atheem-iqg10q01n01"
+    },
+    "code": {
+      "id": "IQG10Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q01",
+      "level": 2,
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q01",
+        "level": 2,
+        "name": {
+          "local": "الخالص",
+          "en": "Al-Khalis",
+          "slug": "al-khalis-iqg10q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.288",
+      "lon": "44.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المنصورية",
+      "en": "Al-Mansouriyah",
+      "slug": "al-mansouriyah-iqg10q01n02"
+    },
+    "code": {
+      "id": "IQG10Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q01",
+      "level": 2,
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q01",
+        "level": 2,
+        "name": {
+          "local": "الخالص",
+          "en": "Al-Khalis",
+          "slug": "al-khalis-iqg10q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.158",
+      "lon": "44.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "هبهب",
+      "en": "Hibhib",
+      "slug": "hibhib-iqg10q01n03"
+    },
+    "code": {
+      "id": "IQG10Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q01",
+      "level": 2,
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q01",
+        "level": 2,
+        "name": {
+          "local": "الخالص",
+          "en": "Al-Khalis",
+          "slug": "al-khalis-iqg10q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.716",
+      "lon": "44.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q01N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الخالص",
+      "en": "Markaz Al-Khalis",
+      "slug": "markaz-al-khalis-iqg10q01n04"
+    },
+    "code": {
+      "id": "IQG10Q01N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q01",
+      "level": 2,
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q01",
+        "level": 2,
+        "name": {
+          "local": "الخالص",
+          "en": "Al-Khalis",
+          "slug": "al-khalis-iqg10q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.943",
+      "lon": "44.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q01N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قلعة انصاب",
+      "en": "Qalaa't Ansab",
+      "slug": "qalaat-ansab-iqg10q01n05"
+    },
+    "code": {
+      "id": "IQG10Q01N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q01",
+      "level": 2,
+      "name": {
+        "local": "الخالص",
+        "en": "Al-Khalis",
+        "slug": "al-khalis-iqg10q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q01",
+        "level": 2,
+        "name": {
+          "local": "الخالص",
+          "en": "Al-Khalis",
+          "slug": "al-khalis-iqg10q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.935",
+      "lon": "44.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

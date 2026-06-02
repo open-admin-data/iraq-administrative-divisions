@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG07Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الامام",
+      "en": "Al-Emam",
+      "slug": "al-emam-iqg07q03n02"
+    },
+    "code": {
+      "id": "IQG07Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q03",
+      "level": 2,
+      "name": {
+        "local": "المحاويل",
+        "en": "Al-Mahaweel",
+        "slug": "al-mahaweel-iqg07q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q03",
+        "level": 2,
+        "name": {
+          "local": "المحاويل",
+          "en": "Al-Mahaweel",
+          "slug": "al-mahaweel-iqg07q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.622",
+      "lon": "44.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المشروع",
+      "en": "Al-Mashroo",
+      "slug": "al-mashroo-iqg07q03n03"
+    },
+    "code": {
+      "id": "IQG07Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q03",
+      "level": 2,
+      "name": {
+        "local": "المحاويل",
+        "en": "Al-Mahaweel",
+        "slug": "al-mahaweel-iqg07q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q03",
+        "level": 2,
+        "name": {
+          "local": "المحاويل",
+          "en": "Al-Mahaweel",
+          "slug": "al-mahaweel-iqg07q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.685",
+      "lon": "44.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المحاويل",
+      "en": "Markaz Al-Mahawil",
+      "slug": "markaz-al-mahawil-iqg07q03n01"
+    },
+    "code": {
+      "id": "IQG07Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q03",
+      "level": 2,
+      "name": {
+        "local": "المحاويل",
+        "en": "Al-Mahaweel",
+        "slug": "al-mahaweel-iqg07q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q03",
+        "level": 2,
+        "name": {
+          "local": "المحاويل",
+          "en": "Al-Mahaweel",
+          "slug": "al-mahaweel-iqg07q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.62",
+      "lon": "44.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

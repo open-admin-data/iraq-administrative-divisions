@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG14Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المشرح",
+      "en": "Al-Msharah",
+      "slug": "al-msharah-iqg14q03n02"
+    },
+    "code": {
+      "id": "IQG14Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q03",
+      "level": 2,
+      "name": {
+        "local": "الكحلاء",
+        "en": "Al-Kahla",
+        "slug": "al-kahla-iqg14q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q03",
+        "level": 2,
+        "name": {
+          "local": "الكحلاء",
+          "en": "Al-Kahla",
+          "slug": "al-kahla-iqg14q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.86",
+      "lon": "47.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بني هاشم",
+      "en": "Beni Hasheem",
+      "slug": "beni-hasheem-iqg14q03n01"
+    },
+    "code": {
+      "id": "IQG14Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q03",
+      "level": 2,
+      "name": {
+        "local": "الكحلاء",
+        "en": "Al-Kahla",
+        "slug": "al-kahla-iqg14q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q03",
+        "level": 2,
+        "name": {
+          "local": "الكحلاء",
+          "en": "Al-Kahla",
+          "slug": "al-kahla-iqg14q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "47.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الكحلاء",
+      "en": "Markaz Al-Kahla",
+      "slug": "markaz-al-kahla-iqg14q03n03"
+    },
+    "code": {
+      "id": "IQG14Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q03",
+      "level": 2,
+      "name": {
+        "local": "الكحلاء",
+        "en": "Al-Kahla",
+        "slug": "al-kahla-iqg14q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q03",
+        "level": 2,
+        "name": {
+          "local": "الكحلاء",
+          "en": "Al-Kahla",
+          "slug": "al-kahla-iqg14q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.647",
+      "lon": "47.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

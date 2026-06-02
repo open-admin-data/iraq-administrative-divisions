@@ -1,0 +1,47 @@
+{
+  "id": "IQG17Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجبايش",
+    "en": "Al-Chibayish",
+    "slug": "al-chibayish-iqg17q01"
+  },
+  "code": {
+    "id": "IQG17Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG17",
+    "level": 1,
+    "name": {
+      "local": "ذي قار",
+      "en": "Thi Qar",
+      "slug": "thi-qar-iqg17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.858",
+    "lon": "46.905"
+  },
+  "metadata": {},
+  "source": {}
+}

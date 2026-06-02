@@ -1,0 +1,47 @@
+{
+  "id": "IQG16Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشرقاط",
+    "en": "Al-Shirqat",
+    "slug": "al-shirqat-iqg16q02"
+  },
+  "code": {
+    "id": "IQG16Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG16",
+    "level": 1,
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.474",
+    "lon": "43.176"
+  },
+  "metadata": {},
+  "source": {}
+}

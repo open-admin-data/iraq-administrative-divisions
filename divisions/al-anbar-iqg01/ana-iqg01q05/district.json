@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q05",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "عنه",
+    "en": "Ana",
+    "slug": "ana-iqg01q05"
+  },
+  "code": {
+    "id": "IQG01Q05",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.323",
+    "lon": "41.922"
+  },
+  "metadata": {},
+  "source": {}
+}

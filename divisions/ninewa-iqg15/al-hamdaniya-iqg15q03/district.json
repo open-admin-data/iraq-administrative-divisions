@@ -1,0 +1,47 @@
+{
+  "id": "IQG15Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحمدانية",
+    "en": "Al-Hamdaniya",
+    "slug": "al-hamdaniya-iqg15q03"
+  },
+  "code": {
+    "id": "IQG15Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG15",
+    "level": 1,
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.191",
+    "lon": "43.409"
+  },
+  "metadata": {},
+  "source": {}
+}

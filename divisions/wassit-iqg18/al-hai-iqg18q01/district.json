@@ -1,0 +1,47 @@
+{
+  "id": "IQG18Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحي",
+    "en": "Al-Hai",
+    "slug": "al-hai-iqg18q01"
+  },
+  "code": {
+    "id": "IQG18Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG18",
+    "level": 1,
+    "name": {
+      "local": "واسط",
+      "en": "Wassit",
+      "slug": "wassit-iqg18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.181",
+    "lon": "46.024"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "IQG15Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "البعاج",
+      "en": "Al-Baaj",
+      "slug": "al-baaj-iqg15q02"
+    },
+    "code": {
+      "id": "IQG15Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.693",
+      "lon": "41.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحمدانية",
+      "en": "Al-Hamdaniya",
+      "slug": "al-hamdaniya-iqg15q03"
+    },
+    "code": {
+      "id": "IQG15Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.191",
+      "lon": "43.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحضر",
+      "en": "Al-Hatra",
+      "slug": "al-hatra-iqg15q04"
+    },
+    "code": {
+      "id": "IQG15Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.589",
+      "lon": "42.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الموصل",
+      "en": "Al-Mosul",
+      "slug": "al-mosul-iqg15q05"
+    },
+    "code": {
+      "id": "IQG15Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.102",
+      "lon": "42.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشيخان",
+      "en": "Al-Shikhan",
+      "slug": "al-shikhan-iqg15q06"
+    },
+    "code": {
+      "id": "IQG15Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.699",
+      "lon": "43.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عقرة",
+      "en": "Aqra",
+      "slug": "aqra-iqg15q01"
+    },
+    "code": {
+      "id": "IQG15Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.667",
+      "lon": "43.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "سنجار",
+      "en": "Sinjar",
+      "slug": "sinjar-iqg15q07"
+    },
+    "code": {
+      "id": "IQG15Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.336",
+      "lon": "42.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q08",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "تلعفر",
+      "en": "Telafar",
+      "slug": "telafar-iqg15q08"
+    },
+    "code": {
+      "id": "IQG15Q08",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.525",
+      "lon": "42.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q09",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "تلكيف",
+      "en": "Tilkaef",
+      "slug": "tilkaef-iqg15q09"
+    },
+    "code": {
+      "id": "IQG15Q09",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.574",
+      "lon": "42.992"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

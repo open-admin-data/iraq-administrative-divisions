@@ -1,0 +1,47 @@
+{
+  "id": "IQG10Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الخالص",
+    "en": "Al-Khalis",
+    "slug": "al-khalis-iqg10q01"
+  },
+  "code": {
+    "id": "IQG10Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG10",
+    "level": 1,
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.085",
+    "lon": "44.657"
+  },
+  "metadata": {},
+  "source": {}
+}

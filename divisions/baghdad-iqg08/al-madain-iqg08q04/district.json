@@ -1,0 +1,47 @@
+{
+  "id": "IQG08Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "المدائن",
+    "en": "Al-Mada'in",
+    "slug": "al-madain-iqg08q04"
+  },
+  "code": {
+    "id": "IQG08Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG08",
+    "level": 1,
+    "name": {
+      "local": "بغداد",
+      "en": "Baghdad",
+      "slug": "baghdad-iqg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.219",
+    "lon": "44.686"
+  },
+  "metadata": {},
+  "source": {}
+}

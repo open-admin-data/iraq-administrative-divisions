@@ -1,0 +1,331 @@
+[
+  {
+    "id": "IQG08Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الاعظمية",
+      "en": "Al-Adhamiya",
+      "slug": "al-adhamiya-iqg08q01"
+    },
+    "code": {
+      "id": "IQG08Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.479",
+      "lon": "44.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الكاظمية",
+      "en": "Al-Kadhmiyah",
+      "slug": "al-kadhmiyah-iqg08q02"
+    },
+    "code": {
+      "id": "IQG08Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.464",
+      "lon": "44.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الكرخ",
+      "en": "Al-Karkh",
+      "slug": "al-karkh-iqg08q03"
+    },
+    "code": {
+      "id": "IQG08Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.179",
+      "lon": "44.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المدائن",
+      "en": "Al-Mada'in",
+      "slug": "al-madain-iqg08q04"
+    },
+    "code": {
+      "id": "IQG08Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.219",
+      "lon": "44.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المحمودية",
+      "en": "Al-Mahmoudiya",
+      "slug": "al-mahmoudiya-iqg08q05"
+    },
+    "code": {
+      "id": "IQG08Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.035",
+      "lon": "44.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرصافة",
+      "en": "Al-Risafa",
+      "slug": "al-risafa-iqg08q06"
+    },
+    "code": {
+      "id": "IQG08Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.325",
+      "lon": "44.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الثورة",
+      "en": "Al-Thawra",
+      "slug": "al-thawra-iqg08q07"
+    },
+    "code": {
+      "id": "IQG08Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08",
+      "level": 1,
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.388",
+      "lon": "44.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "IQG05",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "القادسية",
+    "en": "Al-Qadissiya",
+    "slug": "al-qadissiya-iqg05"
+  },
+  "code": {
+    "id": "IQG05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.843",
+    "lon": "45.167"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/al-qadissiya-iqg05/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

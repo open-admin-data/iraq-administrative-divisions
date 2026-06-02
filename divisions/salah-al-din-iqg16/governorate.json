@@ -1,0 +1,34 @@
+{
+  "id": "IQG16",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "صلاح الدين",
+    "en": "Salah Al-Din",
+    "slug": "salah-al-din-iqg16"
+  },
+  "code": {
+    "id": "IQG16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.66",
+    "lon": "43.634"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/salah-al-din-iqg16/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

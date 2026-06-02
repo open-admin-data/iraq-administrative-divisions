@@ -1,0 +1,120 @@
+# Salah Al-Din — Iraq Administrative Divisions
+
+> 7 districts, 19 sub-districts
+> Code: IQG16
+> Coordinates: 34.66, 43.634
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الدور (Al-Daur)
+
+Code: IQG16Q01, Coordinates: 34.56, 44.208
+Sub-districts: 2
+
+#### ابو دلف (Abu Dalf)
+
+Code: IQG16Q01N02, Coordinates: 34.565, 44.048
+
+#### حمرين (Hamreen)
+
+Code: IQG16Q01N01, Coordinates: 34.521, 44.357
+
+### الشرقاط (Al-Shirqat)
+
+Code: IQG16Q02, Coordinates: 35.474, 43.176
+Sub-districts: 1
+
+#### مركز الشرقاط (Markaz Al-Shirqat)
+
+Code: IQG16Q02N01, Coordinates: 35.474, 43.176
+
+### بلد (Balad)
+
+Code: IQG16Q04, Coordinates: 33.936, 43.84
+Sub-districts: 4
+
+#### الدجيل (Al-Dujeel)
+
+Code: IQG16Q04N04, Coordinates: 33.796, 43.91
+
+#### الضلوعية (Al-Duloeyah)
+
+Code: IQG16Q04N03, Coordinates: 34.111, 44.253
+
+#### الاسحاقي (Al-Esshaqi)
+
+Code: IQG16Q04N02, Coordinates: 33.959, 43.645
+
+#### يثرب (Yathreb)
+
+Code: IQG16Q04N01, Coordinates: 33.945, 44.346
+
+### بيجي (Beygee)
+
+Code: IQG16Q03, Coordinates: 34.887, 43.037
+Sub-districts: 3
+
+#### الصينية (Al-Synia)
+
+Code: IQG16Q03N02, Coordinates: 34.773, 43.025
+
+#### مكحول (Makkhoul)
+
+Code: IQG16Q03N03, Coordinates: 35.201, 43.205
+
+#### مركز بيجي (Markaz Beygee)
+
+Code: IQG16Q03N01, Coordinates: 34.897, 43.517
+
+### سامراء (Samarra)
+
+Code: IQG16Q05, Coordinates: 34.333, 43.377
+Sub-districts: 4
+
+#### المعتصم (Al-Muotasim)
+
+Code: IQG16Q05N01, Coordinates: 34.128, 44.065
+
+#### الثرثار (Al-Tharthar)
+
+Code: IQG16Q05N02, Coordinates: 34.159, 43.438
+
+#### دجلة (Dijla)
+
+Code: IQG16Q05N04, Coordinates: 34.44, 43.3
+
+#### مركز سامراء (Markaz Samarra)
+
+Code: IQG16Q05N03, Coordinates: 34.275, 44.167
+
+### تكريت (Tikrit)
+
+Code: IQG16Q06, Coordinates: 34.763, 43.855
+Sub-districts: 2
+
+#### العلم (Al-Alam)
+
+Code: IQG16Q06N02, Coordinates: 34.811, 43.842
+
+#### ام القرى (Um Al-Qura)
+
+Code: IQG16Q06N01, Coordinates: 34.591, 43.454
+
+### طوز خورماتو (Tooz Khurmato)
+
+Code: IQG16Q07, Coordinates: 34.825, 44.659
+Sub-districts: 3
+
+#### آمرلي (Ameraly)
+
+Code: IQG16Q07N01, Coordinates: 34.677, 44.531
+
+#### مركز طوز خورماتو (Markaz Tooz Khurmato)
+
+Code: IQG16Q07N02, Coordinates: 34.932, 44.706
+
+#### سليمان بيك (Sulaiman Baig)
+
+Code: IQG16Q07N03, Coordinates: 34.774, 44.712
+

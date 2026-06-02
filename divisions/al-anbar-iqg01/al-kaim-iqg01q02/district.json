@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "القائم",
+    "en": "Al-Kaim",
+    "slug": "al-kaim-iqg01q02"
+  },
+  "code": {
+    "id": "IQG01Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.435",
+    "lon": "41.207"
+  },
+  "metadata": {},
+  "source": {}
+}

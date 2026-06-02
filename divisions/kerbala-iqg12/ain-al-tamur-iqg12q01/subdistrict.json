@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG12Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عين التمر",
+      "en": "Markaz Ain Al-Tamur",
+      "slug": "markaz-ain-al-tamur-iqg12q01n01"
+    },
+    "code": {
+      "id": "IQG12Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG12Q01",
+      "level": 2,
+      "name": {
+        "local": "عين التمر",
+        "en": "Ain Al-Tamur",
+        "slug": "ain-al-tamur-iqg12q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG12",
+        "level": 1,
+        "name": {
+          "local": "كربلاء",
+          "en": "Kerbala",
+          "slug": "kerbala-iqg12"
+        }
+      },
+      {
+        "id": "IQG12Q01",
+        "level": 2,
+        "name": {
+          "local": "عين التمر",
+          "en": "Ain Al-Tamur",
+          "slug": "ain-al-tamur-iqg12q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.483",
+      "lon": "43.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

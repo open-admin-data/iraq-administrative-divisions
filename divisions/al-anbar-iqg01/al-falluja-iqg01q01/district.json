@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الفلوجة",
+    "en": "Al-Falluja",
+    "slug": "al-falluja-iqg01q01"
+  },
+  "code": {
+    "id": "IQG01Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.19",
+    "lon": "43.685"
+  },
+  "metadata": {},
+  "source": {}
+}

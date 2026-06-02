@@ -1,0 +1,614 @@
+[
+  {
+    "id": "IQG01",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    },
+    "code": {
+      "id": "IQG01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.178",
+      "lon": "41.398"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-anbar-iqg01/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG02",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02"
+    },
+    "code": {
+      "id": "IQG02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.208",
+      "lon": "47.502"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-basrah-iqg02/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG03",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "المثنى",
+      "en": "Al-Muthanna",
+      "slug": "al-muthanna-iqg03"
+    },
+    "code": {
+      "id": "IQG03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.405",
+      "lon": "45.36"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-muthanna-iqg03/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG04",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "النجف",
+      "en": "Al-Najaf",
+      "slug": "al-najaf-iqg04"
+    },
+    "code": {
+      "id": "IQG04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.101",
+      "lon": "43.364"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-najaf-iqg04/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG05",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "القادسية",
+      "en": "Al-Qadissiya",
+      "slug": "al-qadissiya-iqg05"
+    },
+    "code": {
+      "id": "IQG05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.843",
+      "lon": "45.167"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-qadissiya-iqg05/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG06",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    },
+    "code": {
+      "id": "IQG06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "subdistrict": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.532",
+      "lon": "45.377"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/al-sulaymaniyah-iqg06/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG07",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "بابل",
+      "en": "Babil",
+      "slug": "babil-iqg07"
+    },
+    "code": {
+      "id": "IQG07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.58",
+      "lon": "44.636"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/babil-iqg07/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG08",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "بغداد",
+      "en": "Baghdad",
+      "slug": "baghdad-iqg08"
+    },
+    "code": {
+      "id": "IQG08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.278",
+      "lon": "44.379"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/baghdad-iqg08/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG10",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    },
+    "code": {
+      "id": "IQG10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.071",
+      "lon": "44.896"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/diyala-iqg10/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG09",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "دهوك",
+      "en": "Duhok",
+      "slug": "duhok-iqg09"
+    },
+    "code": {
+      "id": "IQG09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.046",
+      "lon": "43.138"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/duhok-iqg09/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG11",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    },
+    "code": {
+      "id": "IQG11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.379",
+      "lon": "44.21"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/erbil-iqg11/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG12",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "كربلاء",
+      "en": "Kerbala",
+      "slug": "kerbala-iqg12"
+    },
+    "code": {
+      "id": "IQG12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.498",
+      "lon": "43.8"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/kerbala-iqg12/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG13",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "كركوك",
+      "en": "Kirkuk",
+      "slug": "kirkuk-iqg13"
+    },
+    "code": {
+      "id": "IQG13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.288",
+      "lon": "44.061"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/kirkuk-iqg13/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG14",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ميسان",
+      "en": "Maysan",
+      "slug": "maysan-iqg14"
+    },
+    "code": {
+      "id": "IQG14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32",
+      "lon": "47.134"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/maysan-iqg14/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG15",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    },
+    "code": {
+      "id": "IQG15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.994",
+      "lon": "42.362"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/ninewa-iqg15/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG16",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg16"
+    },
+    "code": {
+      "id": "IQG16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.66",
+      "lon": "43.634"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/salah-al-din-iqg16/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG17",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ذي قار",
+      "en": "Thi Qar",
+      "slug": "thi-qar-iqg17"
+    },
+    "code": {
+      "id": "IQG17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "subdistrict": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.29",
+      "lon": "46.274"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/thi-qar-iqg17/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  },
+  {
+    "id": "IQG18",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "واسط",
+      "en": "Wassit",
+      "slug": "wassit-iqg18"
+    },
+    "code": {
+      "id": "IQG18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "subdistrict": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.712",
+      "lon": "45.702"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/iq/governorates/wassit-iqg18/",
+      "api": "https://openadmindata.org/api/iq/"
+    }
+  }
+]

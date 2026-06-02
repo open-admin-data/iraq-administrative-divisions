@@ -1,0 +1,47 @@
+{
+  "id": "IQG14Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "العمارة",
+    "en": "Al-Amara",
+    "slug": "al-amara-iqg14q01"
+  },
+  "code": {
+    "id": "IQG14Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG14",
+    "level": 1,
+    "name": {
+      "local": "ميسان",
+      "en": "Maysan",
+      "slug": "maysan-iqg14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.107",
+    "lon": "47.272"
+  },
+  "metadata": {},
+  "source": {}
+}

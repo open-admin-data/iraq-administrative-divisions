@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG03Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السوير",
+      "en": "Al-Sowair",
+      "slug": "al-sowair-iqg03q04n01"
+    },
+    "code": {
+      "id": "IQG03Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q04",
+      "level": 2,
+      "name": {
+        "local": "السماوة",
+        "en": "Al-Samawa",
+        "slug": "al-samawa-iqg03q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q04",
+        "level": 2,
+        "name": {
+          "local": "السماوة",
+          "en": "Al-Samawa",
+          "slug": "al-samawa-iqg03q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.217",
+      "lon": "45.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

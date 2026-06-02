@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG02Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الهوير",
+      "en": "Al-Howweir",
+      "slug": "al-howweir-iqg02q04n01"
+    },
+    "code": {
+      "id": "IQG02Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q04",
+      "level": 2,
+      "name": {
+        "local": "المدينة",
+        "en": "Al-Midaina",
+        "slug": "al-midaina-iqg02q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q04",
+        "level": 2,
+        "name": {
+          "local": "المدينة",
+          "en": "Al-Midaina",
+          "slug": "al-midaina-iqg02q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.147",
+      "lon": "47.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المدينة",
+      "en": "Markaz Al-Midaina",
+      "slug": "markaz-al-midaina-iqg02q04n02"
+    },
+    "code": {
+      "id": "IQG02Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q04",
+      "level": 2,
+      "name": {
+        "local": "المدينة",
+        "en": "Al-Midaina",
+        "slug": "al-midaina-iqg02q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q04",
+        "level": 2,
+        "name": {
+          "local": "المدينة",
+          "en": "Al-Midaina",
+          "slug": "al-midaina-iqg02q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.874",
+      "lon": "47.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "طلحة",
+      "en": "Talha",
+      "slug": "talha-iqg02q04n03"
+    },
+    "code": {
+      "id": "IQG02Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q04",
+      "level": 2,
+      "name": {
+        "local": "المدينة",
+        "en": "Al-Midaina",
+        "slug": "al-midaina-iqg02q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q04",
+        "level": 2,
+        "name": {
+          "local": "المدينة",
+          "en": "Al-Midaina",
+          "slug": "al-midaina-iqg02q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.828",
+      "lon": "47.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

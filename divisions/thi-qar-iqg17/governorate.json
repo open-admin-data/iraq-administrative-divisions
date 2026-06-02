@@ -1,0 +1,34 @@
+{
+  "id": "IQG17",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ذي قار",
+    "en": "Thi Qar",
+    "slug": "thi-qar-iqg17"
+  },
+  "code": {
+    "id": "IQG17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.29",
+    "lon": "46.274"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/thi-qar-iqg17/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

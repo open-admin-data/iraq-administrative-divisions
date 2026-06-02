@@ -1,0 +1,90 @@
+# Wassit — Iraq Administrative Divisions
+
+> 5 districts, 14 sub-districts
+> Code: IQG18
+> Coordinates: 32.712, 45.702
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الحي (Al-Hai)
+
+Code: IQG18Q01, Coordinates: 32.181, 46.024
+Sub-districts: 2
+
+#### البشائر (Al-Bashaer)
+
+Code: IQG18Q01N01, Coordinates: 32.196, 46.161
+
+#### الموفقية (Al-Mowafaqiya)
+
+Code: IQG18Q01N02, Coordinates: 32.181, 45.884
+
+### الكوت (Al-Kut)
+
+Code: IQG18Q02, Coordinates: 32.467, 46.132
+Sub-districts: 3
+
+#### مركز الكوت (Markaz Al-Kut)
+
+Code: IQG18Q02N03, Coordinates: 32.645, 45.82
+
+#### شيخ سعد (Shaekh Saad)
+
+Code: IQG18Q02N02, Coordinates: 32.664, 46.313
+
+#### واسط (Wasit)
+
+Code: IQG18Q02N01, Coordinates: 32.311, 46.267
+
+### النعمانية (Al-Namaniya)
+
+Code: IQG18Q03, Coordinates: 32.447, 45.511
+Sub-districts: 2
+
+#### الاحرار (Al-Ahrar)
+
+Code: IQG18Q03N01, Coordinates: 32.332, 45.625
+
+#### مركز النعمانية (Markaz Al-Noamaniya)
+
+Code: IQG18Q03N02, Coordinates: 32.551, 45.361
+
+### الصويرة (Al-Suwaira)
+
+Code: IQG18Q04, Coordinates: 32.841, 45.047
+Sub-districts: 5
+
+#### العزيزية (Al-Aziziya)
+
+Code: IQG18Q04N05, Coordinates: 32.941, 45.195
+
+#### الحفرية (Al-Hafriya)
+
+Code: IQG18Q04N04, Coordinates: 33.06, 44.818
+
+#### الشحيمية (Al-Shehamiya)
+
+Code: IQG18Q04N02, Coordinates: 32.682, 45.005
+
+#### الزبيدية (Al-Zubaidiya)
+
+Code: IQG18Q04N01, Coordinates: 32.661, 45.185
+
+#### مركز الصويرة (Markaz Al-Suwaira)
+
+Code: IQG18Q04N03, Coordinates: 32.904, 44.759
+
+### بدرة (Badra)
+
+Code: IQG18Q05, Coordinates: 33.068, 45.852
+Sub-districts: 2
+
+#### جصان (Jassan)
+
+Code: IQG18Q05N02, Coordinates: 32.88, 45.842
+
+#### مركز بدرة (Markaz Badra)
+
+Code: IQG18Q05N01, Coordinates: 33.191, 45.943
+

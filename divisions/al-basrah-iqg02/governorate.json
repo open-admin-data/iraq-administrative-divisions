@@ -1,0 +1,34 @@
+{
+  "id": "IQG02",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "البصرة",
+    "en": "Al-Basrah",
+    "slug": "al-basrah-iqg02"
+  },
+  "code": {
+    "id": "IQG02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.208",
+    "lon": "47.502"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/al-basrah-iqg02/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

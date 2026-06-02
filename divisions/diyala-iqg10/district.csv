@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG10Q01,الخالص,Al-Khalis,al-khalis-iqg10q01,IQG10Q01,5,34.085,44.657
+IQG10Q02,المقدادية,Al-Muqdadiya,al-muqdadiya-iqg10q02,IQG10Q02,2,33.881,44.926
+IQG10Q03,مندلي,Baladruz,baladruz-iqg10q03,IQG10Q03,3,33.56,45.44
+IQG10Q04,بعقوبة,Baquba,baquba-iqg10q04,IQG10Q04,3,33.647,44.713
+IQG10Q05,خانقين,Khanaqin,khanaqin-iqg10q05,IQG10Q05,5,34.52,45.383
+IQG10Q06,كفري,Kifri,kifri-iqg10q06,IQG10Q06,3,34.561,44.958

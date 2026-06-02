@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG15Q09N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القوش",
+      "en": "Al-Qosh",
+      "slug": "al-qosh-iqg15q09n02"
+    },
+    "code": {
+      "id": "IQG15Q09N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q09",
+      "level": 2,
+      "name": {
+        "local": "تلكيف",
+        "en": "Tilkaef",
+        "slug": "tilkaef-iqg15q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q09",
+        "level": 2,
+        "name": {
+          "local": "تلكيف",
+          "en": "Tilkaef",
+          "slug": "tilkaef-iqg15q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.677",
+      "lon": "43.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q09N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز تلكيف",
+      "en": "Markaz Tilkaef",
+      "slug": "markaz-tilkaef-iqg15q09n01"
+    },
+    "code": {
+      "id": "IQG15Q09N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q09",
+      "level": 2,
+      "name": {
+        "local": "تلكيف",
+        "en": "Tilkaef",
+        "slug": "tilkaef-iqg15q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q09",
+        "level": 2,
+        "name": {
+          "local": "تلكيف",
+          "en": "Tilkaef",
+          "slug": "tilkaef-iqg15q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.503",
+      "lon": "43.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q09N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "وانة",
+      "en": "Wana",
+      "slug": "wana-iqg15q09n03"
+    },
+    "code": {
+      "id": "IQG15Q09N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q09",
+      "level": 2,
+      "name": {
+        "local": "تلكيف",
+        "en": "Tilkaef",
+        "slug": "tilkaef-iqg15q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q09",
+        "level": 2,
+        "name": {
+          "local": "تلكيف",
+          "en": "Tilkaef",
+          "slug": "tilkaef-iqg15q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.559",
+      "lon": "42.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

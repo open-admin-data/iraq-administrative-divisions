@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG02Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الدير",
+      "en": "Al-Dair",
+      "slug": "al-dair-iqg02q05n01"
+    },
+    "code": {
+      "id": "IQG02Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q05",
+      "level": 2,
+      "name": {
+        "local": "القرنة",
+        "en": "Al-Qurna",
+        "slug": "al-qurna-iqg02q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q05",
+        "level": 2,
+        "name": {
+          "local": "القرنة",
+          "en": "Al-Qurna",
+          "slug": "al-qurna-iqg02q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.781",
+      "lon": "47.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الثغر",
+      "en": "Al-Thagar",
+      "slug": "al-thagar-iqg02q05n02"
+    },
+    "code": {
+      "id": "IQG02Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q05",
+      "level": 2,
+      "name": {
+        "local": "القرنة",
+        "en": "Al-Qurna",
+        "slug": "al-qurna-iqg02q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q05",
+        "level": 2,
+        "name": {
+          "local": "القرنة",
+          "en": "Al-Qurna",
+          "slug": "al-qurna-iqg02q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.121",
+      "lon": "47.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القرنة",
+      "en": "Markaz Al-Qurna",
+      "slug": "markaz-al-qurna-iqg02q05n03"
+    },
+    "code": {
+      "id": "IQG02Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q05",
+      "level": 2,
+      "name": {
+        "local": "القرنة",
+        "en": "Al-Qurna",
+        "slug": "al-qurna-iqg02q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q05",
+        "level": 2,
+        "name": {
+          "local": "القرنة",
+          "en": "Al-Qurna",
+          "slug": "al-qurna-iqg02q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31",
+      "lon": "47.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

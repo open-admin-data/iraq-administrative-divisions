@@ -1,0 +1,47 @@
+{
+  "id": "IQG06Q05",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "حلبجة",
+    "en": "Halabcha",
+    "slug": "halabcha-iqg06q05"
+  },
+  "code": {
+    "id": "IQG06Q05",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG06",
+    "level": 1,
+    "name": {
+      "local": "السليمانية",
+      "en": "Al-Sulaymaniyah",
+      "slug": "al-sulaymaniyah-iqg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG06",
+      "level": 1,
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.187",
+    "lon": "46.022"
+  },
+  "metadata": {},
+  "source": {}
+}

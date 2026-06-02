@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG15Q07N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القيروان",
+      "en": "Al-Qairawan",
+      "slug": "al-qairawan-iqg15q07n01"
+    },
+    "code": {
+      "id": "IQG15Q07N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q07",
+      "level": 2,
+      "name": {
+        "local": "سنجار",
+        "en": "Sinjar",
+        "slug": "sinjar-iqg15q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q07",
+        "level": 2,
+        "name": {
+          "local": "سنجار",
+          "en": "Sinjar",
+          "slug": "sinjar-iqg15q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.214",
+      "lon": "42.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q07N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشمال",
+      "en": "Al-Shamal",
+      "slug": "al-shamal-iqg15q07n02"
+    },
+    "code": {
+      "id": "IQG15Q07N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q07",
+      "level": 2,
+      "name": {
+        "local": "سنجار",
+        "en": "Sinjar",
+        "slug": "sinjar-iqg15q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q07",
+        "level": 2,
+        "name": {
+          "local": "سنجار",
+          "en": "Sinjar",
+          "slug": "sinjar-iqg15q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.474",
+      "lon": "41.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q07N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز سنجار",
+      "en": "Markaz Sinjar",
+      "slug": "markaz-sinjar-iqg15q07n03"
+    },
+    "code": {
+      "id": "IQG15Q07N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q07",
+      "level": 2,
+      "name": {
+        "local": "سنجار",
+        "en": "Sinjar",
+        "slug": "sinjar-iqg15q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q07",
+        "level": 2,
+        "name": {
+          "local": "سنجار",
+          "en": "Sinjar",
+          "slug": "sinjar-iqg15q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.237",
+      "lon": "41.828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

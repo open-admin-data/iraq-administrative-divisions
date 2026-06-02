@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG17Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البطحاء",
+      "en": "Al-Battha'a",
+      "slug": "al-batthaa-iqg17q04n01"
+    },
+    "code": {
+      "id": "IQG17Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q04",
+      "level": 2,
+      "name": {
+        "local": "الناصرية",
+        "en": "Al-Nasiriya",
+        "slug": "al-nasiriya-iqg17q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q04",
+        "level": 2,
+        "name": {
+          "local": "الناصرية",
+          "en": "Al-Nasiriya",
+          "slug": "al-nasiriya-iqg17q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.094",
+      "lon": "45.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q04N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الاصلاح",
+      "en": "Al-Islah",
+      "slug": "al-islah-iqg17q04n04"
+    },
+    "code": {
+      "id": "IQG17Q04N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q04",
+      "level": 2,
+      "name": {
+        "local": "الناصرية",
+        "en": "Al-Nasiriya",
+        "slug": "al-nasiriya-iqg17q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q04",
+        "level": 2,
+        "name": {
+          "local": "الناصرية",
+          "en": "Al-Nasiriya",
+          "slug": "al-nasiriya-iqg17q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.231",
+      "lon": "46.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركزالناصرية",
+      "en": "Markaz Al-Nasiriya",
+      "slug": "markaz-al-nasiriya-iqg17q04n02"
+    },
+    "code": {
+      "id": "IQG17Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q04",
+      "level": 2,
+      "name": {
+        "local": "الناصرية",
+        "en": "Al-Nasiriya",
+        "slug": "al-nasiriya-iqg17q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q04",
+        "level": 2,
+        "name": {
+          "local": "الناصرية",
+          "en": "Al-Nasiriya",
+          "slug": "al-nasiriya-iqg17q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.98",
+      "lon": "46.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سيد خليل",
+      "en": "Said Dekhil",
+      "slug": "said-dekhil-iqg17q04n03"
+    },
+    "code": {
+      "id": "IQG17Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q04",
+      "level": 2,
+      "name": {
+        "local": "الناصرية",
+        "en": "Al-Nasiriya",
+        "slug": "al-nasiriya-iqg17q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q04",
+        "level": 2,
+        "name": {
+          "local": "الناصرية",
+          "en": "Al-Nasiriya",
+          "slug": "al-nasiriya-iqg17q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.174",
+      "lon": "46.421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

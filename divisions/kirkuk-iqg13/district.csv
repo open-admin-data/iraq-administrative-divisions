@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG13Q01,الحويجة,Al-Hawiga,al-hawiga-iqg13q01,IQG13Q01,4,35.264,43.788
+IQG13Q02,داقوق,Daquq,daquq-iqg13q02,IQG13Q02,2,34.995,44.171
+IQG13Q03,دبس,Dibis,dibis-iqg13q03,IQG13Q03,3,35.66,44.131
+IQG13Q04,كركوك,Kirkuk,kirkuk-iqg13q04,IQG13Q04,7,35.516,44.529

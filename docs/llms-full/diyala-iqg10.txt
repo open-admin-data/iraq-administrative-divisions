@@ -1,0 +1,123 @@
+# Diyala — Iraq Administrative Divisions
+
+> 6 districts, 21 sub-districts
+> Code: IQG10
+> Coordinates: 34.071, 44.896
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الخالص (Al-Khalis)
+
+Code: IQG10Q01, Coordinates: 34.085, 44.657
+Sub-districts: 5
+
+#### العظيم (Al-Atheem)
+
+Code: IQG10Q01N01, Coordinates: 34.288, 44.646
+
+#### المنصورية (Al-Mansouriyah)
+
+Code: IQG10Q01N02, Coordinates: 34.158, 44.812
+
+#### هبهب (Hibhib)
+
+Code: IQG10Q01N03, Coordinates: 33.716, 44.479
+
+#### مركز الخالص (Markaz Al-Khalis)
+
+Code: IQG10Q01N04, Coordinates: 33.943, 44.555
+
+#### قلعة انصاب (Qalaa&#39;t Ansab)
+
+Code: IQG10Q01N05, Coordinates: 33.935, 44.706
+
+### المقدادية (Al-Muqdadiya)
+
+Code: IQG10Q02, Coordinates: 33.881, 44.926
+Sub-districts: 2
+
+#### الوجيهية (Al-Wajihia)
+
+Code: IQG10Q02N01, Coordinates: 33.787, 44.909
+
+#### مركز المقدادية (Markaz Al-Muqdadiya)
+
+Code: IQG10Q02N02, Coordinates: 33.96, 45.012
+
+### مندلي (Baladruz)
+
+Code: IQG10Q03, Coordinates: 33.56, 45.44
+Sub-districts: 3
+
+#### مندلي (Mandali)
+
+Code: IQG10Q03N01, Coordinates: 33.691, 45.44
+
+#### مركز بلدروز (Markaz Baladruz)
+
+Code: IQG10Q03N02, Coordinates: 33.552, 45.068
+
+#### قزانية (Qazanya)
+
+Code: IQG10Q03N03, Coordinates: 33.393, 45.599
+
+### بعقوبة (Baquba)
+
+Code: IQG10Q04, Coordinates: 33.647, 44.713
+Sub-districts: 3
+
+#### بني سعد (Beni Saad)
+
+Code: IQG10Q04N02, Coordinates: 33.647, 44.544
+
+#### بهرز (Buhriz)
+
+Code: IQG10Q04N01, Coordinates: 33.606, 44.697
+
+#### كنعان (Kanan)
+
+Code: IQG10Q04N03, Coordinates: 33.618, 44.865
+
+### خانقين (Khanaqin)
+
+Code: IQG10Q05, Coordinates: 34.52, 45.383
+Sub-districts: 5
+
+#### السعدية (Al-Saadiya)
+
+Code: IQG10Q05N01, Coordinates: 34.1, 45.153
+
+#### جلولاء (Jalawla)
+
+Code: IQG10Q05N04, Coordinates: 34.322, 45.074
+
+#### مركز خانقين (Markaz Khanaqin)
+
+Code: IQG10Q05N02, Coordinates: 34.256, 45.43
+
+#### ميدان (Midan)
+
+Code: IQG10Q05N03, Coordinates: 34.899, 45.703
+
+#### قرة تو (Qaratu)
+
+Code: IQG10Q05N05, Coordinates: 34.616, 45.54
+
+### كفري (Kifri)
+
+Code: IQG10Q06, Coordinates: 34.561, 44.958
+Sub-districts: 3
+
+#### جبارة (Jabarra)
+
+Code: IQG10Q06N01, Coordinates: 34.606, 44.991
+
+#### مركز كفري (Markaz Kifri)
+
+Code: IQG10Q06N02, Coordinates: 34.73, 45.056
+
+#### قرة تبة (Qara Tabe)
+
+Code: IQG10Q06N03, Coordinates: 34.441, 44.891
+

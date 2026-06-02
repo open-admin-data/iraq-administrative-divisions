@@ -1,0 +1,34 @@
+{
+  "id": "IQG04",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "النجف",
+    "en": "Al-Najaf",
+    "slug": "al-najaf-iqg04"
+  },
+  "code": {
+    "id": "IQG04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.101",
+    "lon": "43.364"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/al-najaf-iqg04/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

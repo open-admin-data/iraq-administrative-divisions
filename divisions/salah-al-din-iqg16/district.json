@@ -1,0 +1,331 @@
+[
+  {
+    "id": "IQG16Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الدور",
+      "en": "Al-Daur",
+      "slug": "al-daur-iqg16q01"
+    },
+    "code": {
+      "id": "IQG16Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.56",
+      "lon": "44.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشرقاط",
+      "en": "Al-Shirqat",
+      "slug": "al-shirqat-iqg16q02"
+    },
+    "code": {
+      "id": "IQG16Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.474",
+      "lon": "43.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بلد",
+      "en": "Balad",
+      "slug": "balad-iqg16q04"
+    },
+    "code": {
+      "id": "IQG16Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.936",
+      "lon": "43.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بيجي",
+      "en": "Beygee",
+      "slug": "beygee-iqg16q03"
+    },
+    "code": {
+      "id": "IQG16Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.887",
+      "lon": "43.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "سامراء",
+      "en": "Samarra",
+      "slug": "samarra-iqg16q05"
+    },
+    "code": {
+      "id": "IQG16Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.333",
+      "lon": "43.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "تكريت",
+      "en": "Tikrit",
+      "slug": "tikrit-iqg16q06"
+    },
+    "code": {
+      "id": "IQG16Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.763",
+      "lon": "43.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "طوز خورماتو",
+      "en": "Tooz Khurmato",
+      "slug": "tooz-khurmato-iqg16q07"
+    },
+    "code": {
+      "id": "IQG16Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.825",
+      "lon": "44.659"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

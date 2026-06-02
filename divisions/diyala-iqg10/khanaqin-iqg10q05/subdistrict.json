@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG10Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السعدية",
+      "en": "Al-Saadiya",
+      "slug": "al-saadiya-iqg10q05n01"
+    },
+    "code": {
+      "id": "IQG10Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q05",
+      "level": 2,
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q05",
+        "level": 2,
+        "name": {
+          "local": "خانقين",
+          "en": "Khanaqin",
+          "slug": "khanaqin-iqg10q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.1",
+      "lon": "45.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جلولاء",
+      "en": "Jalawla",
+      "slug": "jalawla-iqg10q05n04"
+    },
+    "code": {
+      "id": "IQG10Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q05",
+      "level": 2,
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q05",
+        "level": 2,
+        "name": {
+          "local": "خانقين",
+          "en": "Khanaqin",
+          "slug": "khanaqin-iqg10q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.322",
+      "lon": "45.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز خانقين",
+      "en": "Markaz Khanaqin",
+      "slug": "markaz-khanaqin-iqg10q05n02"
+    },
+    "code": {
+      "id": "IQG10Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q05",
+      "level": 2,
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q05",
+        "level": 2,
+        "name": {
+          "local": "خانقين",
+          "en": "Khanaqin",
+          "slug": "khanaqin-iqg10q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.256",
+      "lon": "45.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ميدان",
+      "en": "Midan",
+      "slug": "midan-iqg10q05n03"
+    },
+    "code": {
+      "id": "IQG10Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q05",
+      "level": 2,
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q05",
+        "level": 2,
+        "name": {
+          "local": "خانقين",
+          "en": "Khanaqin",
+          "slug": "khanaqin-iqg10q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.899",
+      "lon": "45.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q05N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قرة تو",
+      "en": "Qaratu",
+      "slug": "qaratu-iqg10q05n05"
+    },
+    "code": {
+      "id": "IQG10Q05N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q05",
+      "level": 2,
+      "name": {
+        "local": "خانقين",
+        "en": "Khanaqin",
+        "slug": "khanaqin-iqg10q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q05",
+        "level": 2,
+        "name": {
+          "local": "خانقين",
+          "en": "Khanaqin",
+          "slug": "khanaqin-iqg10q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.616",
+      "lon": "45.54"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

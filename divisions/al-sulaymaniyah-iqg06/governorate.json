@@ -1,0 +1,34 @@
+{
+  "id": "IQG06",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "السليمانية",
+    "en": "Al-Sulaymaniyah",
+    "slug": "al-sulaymaniyah-iqg06"
+  },
+  "code": {
+    "id": "IQG06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "subdistrict": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.532",
+    "lon": "45.377"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/al-sulaymaniyah-iqg06/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

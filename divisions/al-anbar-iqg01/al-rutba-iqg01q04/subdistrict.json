@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG01Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "النخيب",
+      "en": "Al-Nekhaeeb",
+      "slug": "al-nekhaeeb-iqg01q04n01"
+    },
+    "code": {
+      "id": "IQG01Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q04",
+      "level": 2,
+      "name": {
+        "local": "الرطبة",
+        "en": "Al-Rutba",
+        "slug": "al-rutba-iqg01q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q04",
+        "level": 2,
+        "name": {
+          "local": "الرطبة",
+          "en": "Al-Rutba",
+          "slug": "al-rutba-iqg01q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.15",
+      "lon": "41.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الوليد",
+      "en": "Al-Walid",
+      "slug": "al-walid-iqg01q04n02"
+    },
+    "code": {
+      "id": "IQG01Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q04",
+      "level": 2,
+      "name": {
+        "local": "الرطبة",
+        "en": "Al-Rutba",
+        "slug": "al-rutba-iqg01q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q04",
+        "level": 2,
+        "name": {
+          "local": "الرطبة",
+          "en": "Al-Rutba",
+          "slug": "al-rutba-iqg01q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.337",
+      "lon": "39.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرطبة",
+      "en": "Markaz Al-Rutba",
+      "slug": "markaz-al-rutba-iqg01q04n03"
+    },
+    "code": {
+      "id": "IQG01Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q04",
+      "level": 2,
+      "name": {
+        "local": "الرطبة",
+        "en": "Al-Rutba",
+        "slug": "al-rutba-iqg01q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q04",
+        "level": 2,
+        "name": {
+          "local": "الرطبة",
+          "en": "Al-Rutba",
+          "slug": "al-rutba-iqg01q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.988",
+      "lon": "40.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

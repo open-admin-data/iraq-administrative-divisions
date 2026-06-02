@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG06Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ئاغجة لةر",
+      "en": "Agjalare",
+      "slug": "agjalare-iqg06q02n01"
+    },
+    "code": {
+      "id": "IQG06Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q02",
+      "level": 2,
+      "name": {
+        "local": "جمجمال",
+        "en": "Chamchamal",
+        "slug": "chamchamal-iqg06q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q02",
+        "level": 2,
+        "name": {
+          "local": "جمجمال",
+          "en": "Chamchamal",
+          "slug": "chamchamal-iqg06q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.742",
+      "lon": "44.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q02N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سنكاو",
+      "en": "Cenkaw",
+      "slug": "cenkaw-iqg06q02n04"
+    },
+    "code": {
+      "id": "IQG06Q02N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q02",
+      "level": 2,
+      "name": {
+        "local": "جمجمال",
+        "en": "Chamchamal",
+        "slug": "chamchamal-iqg06q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q02",
+        "level": 2,
+        "name": {
+          "local": "جمجمال",
+          "en": "Chamchamal",
+          "slug": "chamchamal-iqg06q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.246",
+      "lon": "45.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قادر كرم",
+      "en": "Kadr Karam",
+      "slug": "kadr-karam-iqg06q02n03"
+    },
+    "code": {
+      "id": "IQG06Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q02",
+      "level": 2,
+      "name": {
+        "local": "جمجمال",
+        "en": "Chamchamal",
+        "slug": "chamchamal-iqg06q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q02",
+        "level": 2,
+        "name": {
+          "local": "جمجمال",
+          "en": "Chamchamal",
+          "slug": "chamchamal-iqg06q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.19",
+      "lon": "44.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز جمجمال",
+      "en": "Markaz Chamchamal",
+      "slug": "markaz-chamchamal-iqg06q02n02"
+    },
+    "code": {
+      "id": "IQG06Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q02",
+      "level": 2,
+      "name": {
+        "local": "جمجمال",
+        "en": "Chamchamal",
+        "slug": "chamchamal-iqg06q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q02",
+        "level": 2,
+        "name": {
+          "local": "جمجمال",
+          "en": "Chamchamal",
+          "slug": "chamchamal-iqg06q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.495",
+      "lon": "44.941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

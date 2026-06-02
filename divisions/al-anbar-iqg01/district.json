@@ -1,0 +1,331 @@
+[
+  {
+    "id": "IQG01Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الفلوجة",
+      "en": "Al-Falluja",
+      "slug": "al-falluja-iqg01q01"
+    },
+    "code": {
+      "id": "IQG01Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.19",
+      "lon": "43.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "القائم",
+      "en": "Al-Kaim",
+      "slug": "al-kaim-iqg01q02"
+    },
+    "code": {
+      "id": "IQG01Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.435",
+      "lon": "41.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرمادي",
+      "en": "Al-Ramadi",
+      "slug": "al-ramadi-iqg01q03"
+    },
+    "code": {
+      "id": "IQG01Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.237",
+      "lon": "42.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرطبة",
+      "en": "Al-Rutba",
+      "slug": "al-rutba-iqg01q04"
+    },
+    "code": {
+      "id": "IQG01Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.559",
+      "lon": "41.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "عنه",
+      "en": "Ana",
+      "slug": "ana-iqg01q05"
+    },
+    "code": {
+      "id": "IQG01Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.323",
+      "lon": "41.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "حديثة",
+      "en": "Haditha",
+      "slug": "haditha-iqg01q06"
+    },
+    "code": {
+      "id": "IQG01Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.237",
+      "lon": "42.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "هيت",
+      "en": "Heet",
+      "slug": "heet-iqg01q07"
+    },
+    "code": {
+      "id": "IQG01Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.822",
+      "lon": "42.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

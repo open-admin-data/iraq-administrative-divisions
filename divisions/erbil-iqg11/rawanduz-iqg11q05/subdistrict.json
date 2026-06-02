@@ -1,0 +1,380 @@
+[
+  {
+    "id": "IQG11Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بالك",
+      "en": "Balak",
+      "slug": "balak-iqg11q05n03"
+    },
+    "code": {
+      "id": "IQG11Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.6",
+      "lon": "44.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N06",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "برادوست",
+      "en": "Bradost",
+      "slug": "bradost-iqg11q05n06"
+    },
+    "code": {
+      "id": "IQG11Q05N06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.94",
+      "lon": "44.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ديانا",
+      "en": "Diana",
+      "slug": "diana-iqg11q05n02"
+    },
+    "code": {
+      "id": "IQG11Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.694",
+      "lon": "44.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N07",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحج عمران",
+      "en": "Haji Omaran",
+      "slug": "haji-omaran-iqg11q05n07"
+    },
+    "code": {
+      "id": "IQG11Q05N07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.684",
+      "lon": "44.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خليفان",
+      "en": "Khailfan",
+      "slug": "khailfan-iqg11q05n04"
+    },
+    "code": {
+      "id": "IQG11Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.602",
+      "lon": "44.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز راوندوز",
+      "en": "Markaz Rawanduz",
+      "slug": "markaz-rawanduz-iqg11q05n01"
+    },
+    "code": {
+      "id": "IQG11Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.535",
+      "lon": "44.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ميركة سور",
+      "en": "Mergasur",
+      "slug": "mergasur-iqg11q05n05"
+    },
+    "code": {
+      "id": "IQG11Q05N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q05",
+      "level": 2,
+      "name": {
+        "local": "راوندوز",
+        "en": "Rawanduz",
+        "slug": "rawanduz-iqg11q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q05",
+        "level": 2,
+        "name": {
+          "local": "راوندوز",
+          "en": "Rawanduz",
+          "slug": "rawanduz-iqg11q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.838",
+      "lon": "44.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "IQG13Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "دبس",
+    "en": "Dibis",
+    "slug": "dibis-iqg13q03"
+  },
+  "code": {
+    "id": "IQG13Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG13",
+    "level": 1,
+    "name": {
+      "local": "كركوك",
+      "en": "Kirkuk",
+      "slug": "kirkuk-iqg13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.66",
+    "lon": "44.131"
+  },
+  "metadata": {},
+  "source": {}
+}

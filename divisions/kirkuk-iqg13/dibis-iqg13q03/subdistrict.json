@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG13Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "التون كوبري",
+      "en": "Altun Qupri",
+      "slug": "altun-qupri-iqg13q03n03"
+    },
+    "code": {
+      "id": "IQG13Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q03",
+      "level": 2,
+      "name": {
+        "local": "دبس",
+        "en": "Dibis",
+        "slug": "dibis-iqg13q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q03",
+        "level": 2,
+        "name": {
+          "local": "دبس",
+          "en": "Dibis",
+          "slug": "dibis-iqg13q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.673",
+      "lon": "44.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الدبس",
+      "en": "Markaz Dibis",
+      "slug": "markaz-dibis-iqg13q03n02"
+    },
+    "code": {
+      "id": "IQG13Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q03",
+      "level": 2,
+      "name": {
+        "local": "دبس",
+        "en": "Dibis",
+        "slug": "dibis-iqg13q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q03",
+        "level": 2,
+        "name": {
+          "local": "دبس",
+          "en": "Dibis",
+          "slug": "dibis-iqg13q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.592",
+      "lon": "44.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سركران",
+      "en": "Sarkran",
+      "slug": "sarkran-iqg13q03n01"
+    },
+    "code": {
+      "id": "IQG13Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q03",
+      "level": 2,
+      "name": {
+        "local": "دبس",
+        "en": "Dibis",
+        "slug": "dibis-iqg13q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q03",
+        "level": 2,
+        "name": {
+          "local": "دبس",
+          "en": "Dibis",
+          "slug": "dibis-iqg13q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.683",
+      "lon": "43.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

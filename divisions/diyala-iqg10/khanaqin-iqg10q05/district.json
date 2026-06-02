@@ -1,0 +1,47 @@
+{
+  "id": "IQG10Q05",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "خانقين",
+    "en": "Khanaqin",
+    "slug": "khanaqin-iqg10q05"
+  },
+  "code": {
+    "id": "IQG10Q05",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG10",
+    "level": 1,
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.52",
+    "lon": "45.383"
+  },
+  "metadata": {},
+  "source": {}
+}

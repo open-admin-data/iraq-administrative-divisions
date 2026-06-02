@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG11Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بارزان",
+      "en": "Barzan",
+      "slug": "barzan-iqg11q01n01"
+    },
+    "code": {
+      "id": "IQG11Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q01",
+      "level": 2,
+      "name": {
+        "local": "الزيبار",
+        "en": "Al-Zibar",
+        "slug": "al-zibar-iqg11q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q01",
+        "level": 2,
+        "name": {
+          "local": "الزيبار",
+          "en": "Al-Zibar",
+          "slug": "al-zibar-iqg11q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.017",
+      "lon": "44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مزوري بالا",
+      "en": "Mazouri Bala",
+      "slug": "mazouri-bala-iqg11q01n02"
+    },
+    "code": {
+      "id": "IQG11Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q01",
+      "level": 2,
+      "name": {
+        "local": "الزيبار",
+        "en": "Al-Zibar",
+        "slug": "al-zibar-iqg11q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q01",
+        "level": 2,
+        "name": {
+          "local": "الزيبار",
+          "en": "Al-Zibar",
+          "slug": "al-zibar-iqg11q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.119",
+      "lon": "44.159"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

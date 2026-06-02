@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG02Q01,ابي الخصيب,Abu Al-Khaseeb,abu-al-khaseeb-iqg02q01,IQG02Q01,2,30.336,47.993
+IQG02Q02,البصرة,Al-Basrah,al-basrah-iqg02q02,IQG02Q02,2,30.555,47.606
+IQG02Q03,الفاو,Al-Faw,al-faw-iqg02q03,IQG02Q03,2,30.046,48.202
+IQG02Q04,المدينة,Al-Midaina,al-midaina-iqg02q04,IQG02Q04,3,30.982,47.246
+IQG02Q05,القرنة,Al-Qurna,al-qurna-iqg02q05,IQG02Q05,3,30.943,47.442
+IQG02Q06,الزبير,Al-Zubair,al-zubair-iqg02q06,IQG02Q06,3,29.902,46.865
+IQG02Q07,شط العرب,Shat Al-Arab,shat-al-arab-iqg02q07,IQG02Q07,3,30.723,47.892

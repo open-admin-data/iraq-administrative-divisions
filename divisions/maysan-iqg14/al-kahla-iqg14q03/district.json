@@ -1,0 +1,47 @@
+{
+  "id": "IQG14Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الكحلاء",
+    "en": "Al-Kahla",
+    "slug": "al-kahla-iqg14q03"
+  },
+  "code": {
+    "id": "IQG14Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG14",
+    "level": 1,
+    "name": {
+      "local": "ميسان",
+      "en": "Maysan",
+      "slug": "maysan-iqg14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG14",
+      "level": 1,
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.764",
+    "lon": "47.43"
+  },
+  "metadata": {},
+  "source": {}
+}

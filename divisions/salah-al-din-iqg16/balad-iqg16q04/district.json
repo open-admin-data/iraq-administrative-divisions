@@ -1,0 +1,47 @@
+{
+  "id": "IQG16Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بلد",
+    "en": "Balad",
+    "slug": "balad-iqg16q04"
+  },
+  "code": {
+    "id": "IQG16Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG16",
+    "level": 1,
+    "name": {
+      "local": "صلاح الدين",
+      "en": "Salah Al-Din",
+      "slug": "salah-al-din-iqg16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG16",
+      "level": 1,
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.936",
+    "lon": "43.84"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG05Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المهناوية",
+      "en": "Al-Mihanawiya",
+      "slug": "al-mihanawiya-iqg05q04n01"
+    },
+    "code": {
+      "id": "IQG05Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q04",
+      "level": 2,
+      "name": {
+        "local": "الشامية",
+        "en": "Al-Shamiya",
+        "slug": "al-shamiya-iqg05q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q04",
+        "level": 2,
+        "name": {
+          "local": "الشامية",
+          "en": "Al-Shamiya",
+          "slug": "al-shamiya-iqg05q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.971",
+      "lon": "44.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "غماس",
+      "en": "Ghammas",
+      "slug": "ghammas-iqg05q04n02"
+    },
+    "code": {
+      "id": "IQG05Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q04",
+      "level": 2,
+      "name": {
+        "local": "الشامية",
+        "en": "Al-Shamiya",
+        "slug": "al-shamiya-iqg05q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q04",
+        "level": 2,
+        "name": {
+          "local": "الشامية",
+          "en": "Al-Shamiya",
+          "slug": "al-shamiya-iqg05q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.705",
+      "lon": "44.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

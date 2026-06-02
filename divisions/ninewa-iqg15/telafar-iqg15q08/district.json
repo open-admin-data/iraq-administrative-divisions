@@ -1,0 +1,47 @@
+{
+  "id": "IQG15Q08",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "تلعفر",
+    "en": "Telafar",
+    "slug": "telafar-iqg15q08"
+  },
+  "code": {
+    "id": "IQG15Q08",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG15",
+    "level": 1,
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.525",
+    "lon": "42.348"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG16Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العلم",
+      "en": "Al-Alam",
+      "slug": "al-alam-iqg16q06n02"
+    },
+    "code": {
+      "id": "IQG16Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q06",
+      "level": 2,
+      "name": {
+        "local": "تكريت",
+        "en": "Tikrit",
+        "slug": "tikrit-iqg16q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q06",
+        "level": 2,
+        "name": {
+          "local": "تكريت",
+          "en": "Tikrit",
+          "slug": "tikrit-iqg16q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.811",
+      "lon": "43.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ام القرى",
+      "en": "Um Al-Qura",
+      "slug": "um-al-qura-iqg16q06n01"
+    },
+    "code": {
+      "id": "IQG16Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q06",
+      "level": 2,
+      "name": {
+        "local": "تكريت",
+        "en": "Tikrit",
+        "slug": "tikrit-iqg16q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q06",
+        "level": 2,
+        "name": {
+          "local": "تكريت",
+          "en": "Tikrit",
+          "slug": "tikrit-iqg16q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.591",
+      "lon": "43.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,81 @@
+# Al-Qadissiya — Iraq Administrative Divisions
+
+> 4 districts, 13 sub-districts
+> Code: IQG05
+> Coordinates: 31.843, 45.167
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### عفك (Afaq)
+
+Code: IQG05Q01, Coordinates: 32.02, 45.379
+Sub-districts: 4
+
+#### البدير (Al-Bdair)
+
+Code: IQG05Q01N01, Coordinates: 31.881, 45.469
+
+#### الفوار (Al-Fawwar)
+
+Code: IQG05Q01N02, Coordinates: 32.189, 45.287
+
+#### مركز عفك (Markaz Afaq)
+
+Code: IQG05Q01N03, Coordinates: 32.049, 45.328
+
+#### سومر (Sumer)
+
+Code: IQG05Q01N04, Coordinates: 32.224, 45.075
+
+### الديوانية (Al-Diwaniya)
+
+Code: IQG05Q02, Coordinates: 32.02, 44.89
+Sub-districts: 4
+
+#### الدغارة (Al-Daghara)
+
+Code: IQG05Q02N01, Coordinates: 32.149, 44.907
+
+#### السنية (Al-Saniya)
+
+Code: IQG05Q02N02, Coordinates: 32.038, 44.788
+
+#### الشافعية (Al-Shafeia)
+
+Code: IQG05Q02N03, Coordinates: 31.895, 44.823
+
+#### مركز الديوانية (Markaz Al-Diwaniya)
+
+Code: IQG05Q02N04, Coordinates: 31.974, 45.027
+
+### الحمزة (Al-Hamza)
+
+Code: IQG05Q03, Coordinates: 31.591, 44.775
+Sub-districts: 3
+
+#### السدير (Al-Sadeer)
+
+Code: IQG05Q03N01, Coordinates: 31.798, 45.007
+
+#### الشنافية (Al-Shinafiya)
+
+Code: IQG05Q03N02, Coordinates: 31.492, 44.739
+
+#### مركز الحمزة (Markaz Al-Hamza)
+
+Code: IQG05Q03N03, Coordinates: 31.586, 44.981
+
+### الشامية (Al-Shamiya)
+
+Code: IQG05Q04, Coordinates: 31.868, 44.629
+Sub-districts: 2
+
+#### المهناوية (Al-Mihanawiya)
+
+Code: IQG05Q04N01, Coordinates: 31.971, 44.607
+
+#### غماس (Ghammas)
+
+Code: IQG05Q04N02, Coordinates: 31.705, 44.674
+

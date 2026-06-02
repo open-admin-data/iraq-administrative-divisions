@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG06Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز دربندخان",
+      "en": "Markaz Derbendikhan",
+      "slug": "markaz-derbendikhan-iqg06q03n01"
+    },
+    "code": {
+      "id": "IQG06Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q03",
+      "level": 2,
+      "name": {
+        "local": "دربندخان",
+        "en": "Derbendikhan",
+        "slug": "derbendikhan-iqg06q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q03",
+        "level": 2,
+        "name": {
+          "local": "دربندخان",
+          "en": "Derbendikhan",
+          "slug": "derbendikhan-iqg06q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.186",
+      "lon": "45.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

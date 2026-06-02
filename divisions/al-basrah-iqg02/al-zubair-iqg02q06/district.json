@@ -1,0 +1,47 @@
+{
+  "id": "IQG02Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الزبير",
+    "en": "Al-Zubair",
+    "slug": "al-zubair-iqg02q06"
+  },
+  "code": {
+    "id": "IQG02Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG02",
+    "level": 1,
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.902",
+    "lon": "46.865"
+  },
+  "metadata": {},
+  "source": {}
+}

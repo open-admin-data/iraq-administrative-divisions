@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG18Q04N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العزيزية",
+      "en": "Al-Aziziya",
+      "slug": "al-aziziya-iqg18q04n05"
+    },
+    "code": {
+      "id": "IQG18Q04N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q04",
+      "level": 2,
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q04",
+        "level": 2,
+        "name": {
+          "local": "الصويرة",
+          "en": "Al-Suwaira",
+          "slug": "al-suwaira-iqg18q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.941",
+      "lon": "45.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q04N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحفرية",
+      "en": "Al-Hafriya",
+      "slug": "al-hafriya-iqg18q04n04"
+    },
+    "code": {
+      "id": "IQG18Q04N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q04",
+      "level": 2,
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q04",
+        "level": 2,
+        "name": {
+          "local": "الصويرة",
+          "en": "Al-Suwaira",
+          "slug": "al-suwaira-iqg18q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.06",
+      "lon": "44.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشحيمية",
+      "en": "Al-Shehamiya",
+      "slug": "al-shehamiya-iqg18q04n02"
+    },
+    "code": {
+      "id": "IQG18Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q04",
+      "level": 2,
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q04",
+        "level": 2,
+        "name": {
+          "local": "الصويرة",
+          "en": "Al-Suwaira",
+          "slug": "al-suwaira-iqg18q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.682",
+      "lon": "45.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الزبيدية",
+      "en": "Al-Zubaidiya",
+      "slug": "al-zubaidiya-iqg18q04n01"
+    },
+    "code": {
+      "id": "IQG18Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q04",
+      "level": 2,
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q04",
+        "level": 2,
+        "name": {
+          "local": "الصويرة",
+          "en": "Al-Suwaira",
+          "slug": "al-suwaira-iqg18q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.661",
+      "lon": "45.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الصويرة",
+      "en": "Markaz Al-Suwaira",
+      "slug": "markaz-al-suwaira-iqg18q04n03"
+    },
+    "code": {
+      "id": "IQG18Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18Q04",
+      "level": 2,
+      "name": {
+        "local": "الصويرة",
+        "en": "Al-Suwaira",
+        "slug": "al-suwaira-iqg18q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      },
+      {
+        "id": "IQG18Q04",
+        "level": 2,
+        "name": {
+          "local": "الصويرة",
+          "en": "Al-Suwaira",
+          "slug": "al-suwaira-iqg18q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.904",
+      "lon": "44.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

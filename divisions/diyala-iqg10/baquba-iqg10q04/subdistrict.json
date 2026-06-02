@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG10Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بني سعد",
+      "en": "Beni Saad",
+      "slug": "beni-saad-iqg10q04n02"
+    },
+    "code": {
+      "id": "IQG10Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q04",
+      "level": 2,
+      "name": {
+        "local": "بعقوبة",
+        "en": "Baquba",
+        "slug": "baquba-iqg10q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q04",
+        "level": 2,
+        "name": {
+          "local": "بعقوبة",
+          "en": "Baquba",
+          "slug": "baquba-iqg10q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.647",
+      "lon": "44.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بهرز",
+      "en": "Buhriz",
+      "slug": "buhriz-iqg10q04n01"
+    },
+    "code": {
+      "id": "IQG10Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q04",
+      "level": 2,
+      "name": {
+        "local": "بعقوبة",
+        "en": "Baquba",
+        "slug": "baquba-iqg10q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q04",
+        "level": 2,
+        "name": {
+          "local": "بعقوبة",
+          "en": "Baquba",
+          "slug": "baquba-iqg10q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.606",
+      "lon": "44.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كنعان",
+      "en": "Kanan",
+      "slug": "kanan-iqg10q04n03"
+    },
+    "code": {
+      "id": "IQG10Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q04",
+      "level": 2,
+      "name": {
+        "local": "بعقوبة",
+        "en": "Baquba",
+        "slug": "baquba-iqg10q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q04",
+        "level": 2,
+        "name": {
+          "local": "بعقوبة",
+          "en": "Baquba",
+          "slug": "baquba-iqg10q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.618",
+      "lon": "44.865"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

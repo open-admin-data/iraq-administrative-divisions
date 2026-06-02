@@ -1,0 +1,237 @@
+[
+  {
+    "id": "IQG18Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحي",
+      "en": "Al-Hai",
+      "slug": "al-hai-iqg18q01"
+    },
+    "code": {
+      "id": "IQG18Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.181",
+      "lon": "46.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الكوت",
+      "en": "Al-Kut",
+      "slug": "al-kut-iqg18q02"
+    },
+    "code": {
+      "id": "IQG18Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.467",
+      "lon": "46.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "النعمانية",
+      "en": "Al-Namaniya",
+      "slug": "al-namaniya-iqg18q03"
+    },
+    "code": {
+      "id": "IQG18Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.447",
+      "lon": "45.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصويرة",
+      "en": "Al-Suwaira",
+      "slug": "al-suwaira-iqg18q04"
+    },
+    "code": {
+      "id": "IQG18Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.841",
+      "lon": "45.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG18Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "بدرة",
+      "en": "Badra",
+      "slug": "badra-iqg18q05"
+    },
+    "code": {
+      "id": "IQG18Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG18",
+      "level": 1,
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG18",
+        "level": 1,
+        "name": {
+          "local": "واسط",
+          "en": "Wassit",
+          "slug": "wassit-iqg18"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.068",
+      "lon": "45.852"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرمادي",
+    "en": "Al-Ramadi",
+    "slug": "al-ramadi-iqg01q03"
+  },
+  "code": {
+    "id": "IQG01Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.237",
+    "lon": "42.987"
+  },
+  "metadata": {},
+  "source": {}
+}

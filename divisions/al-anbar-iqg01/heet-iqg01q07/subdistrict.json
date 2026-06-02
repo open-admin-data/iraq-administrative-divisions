@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG01Q07N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البغدادي",
+      "en": "Al-Baghdady",
+      "slug": "al-baghdady-iqg01q07n01"
+    },
+    "code": {
+      "id": "IQG01Q07N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q07",
+      "level": 2,
+      "name": {
+        "local": "هيت",
+        "en": "Heet",
+        "slug": "heet-iqg01q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q07",
+        "level": 2,
+        "name": {
+          "local": "هيت",
+          "en": "Heet",
+          "slug": "heet-iqg01q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.046",
+      "lon": "42.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q07N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفرات",
+      "en": "Al-Forat",
+      "slug": "al-forat-iqg01q07n02"
+    },
+    "code": {
+      "id": "IQG01Q07N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q07",
+      "level": 2,
+      "name": {
+        "local": "هيت",
+        "en": "Heet",
+        "slug": "heet-iqg01q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q07",
+        "level": 2,
+        "name": {
+          "local": "هيت",
+          "en": "Heet",
+          "slug": "heet-iqg01q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.945",
+      "lon": "43.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q07N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كبيسة",
+      "en": "Kubaisa",
+      "slug": "kubaisa-iqg01q07n03"
+    },
+    "code": {
+      "id": "IQG01Q07N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q07",
+      "level": 2,
+      "name": {
+        "local": "هيت",
+        "en": "Heet",
+        "slug": "heet-iqg01q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q07",
+        "level": 2,
+        "name": {
+          "local": "هيت",
+          "en": "Heet",
+          "slug": "heet-iqg01q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.48",
+      "lon": "42.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q07N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز هيت",
+      "en": "Markaz Heet",
+      "slug": "markaz-heet-iqg01q07n04"
+    },
+    "code": {
+      "id": "IQG01Q07N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q07",
+      "level": 2,
+      "name": {
+        "local": "هيت",
+        "en": "Heet",
+        "slug": "heet-iqg01q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q07",
+        "level": 2,
+        "name": {
+          "local": "هيت",
+          "en": "Heet",
+          "slug": "heet-iqg01q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.707",
+      "lon": "42.755"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

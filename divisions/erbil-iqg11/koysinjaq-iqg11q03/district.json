@@ -1,0 +1,47 @@
+{
+  "id": "IQG11Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "كويسنجق",
+    "en": "Koysinjaq",
+    "slug": "koysinjaq-iqg11q03"
+  },
+  "code": {
+    "id": "IQG11Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG11",
+    "level": 1,
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.036",
+    "lon": "44.526"
+  },
+  "metadata": {},
+  "source": {}
+}

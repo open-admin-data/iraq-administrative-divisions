@@ -1,0 +1,190 @@
+[
+  {
+    "id": "IQG09Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "العمادية",
+      "en": "Al-Amadiya",
+      "slug": "al-amadiya-iqg09q01"
+    },
+    "code": {
+      "id": "IQG09Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09",
+      "level": 1,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.091",
+      "lon": "43.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "دهوك",
+      "en": "Duhok",
+      "slug": "duhok-iqg09q02"
+    },
+    "code": {
+      "id": "IQG09Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09",
+      "level": 1,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.943",
+      "lon": "43.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "سميل",
+      "en": "Sumail",
+      "slug": "sumail-iqg09q03"
+    },
+    "code": {
+      "id": "IQG09Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09",
+      "level": 1,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.913",
+      "lon": "42.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "زاخو",
+      "en": "Zakho",
+      "slug": "zakho-iqg09q04"
+    },
+    "code": {
+      "id": "IQG09Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09",
+      "level": 1,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.202",
+      "lon": "42.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

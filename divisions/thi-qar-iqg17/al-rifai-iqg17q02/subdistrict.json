@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG17Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفجر",
+      "en": "Al-Fajer",
+      "slug": "al-fajer-iqg17q02n01"
+    },
+    "code": {
+      "id": "IQG17Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q02",
+      "level": 2,
+      "name": {
+        "local": "الرفاعي",
+        "en": "Al-Rifai",
+        "slug": "al-rifai-iqg17q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q02",
+        "level": 2,
+        "name": {
+          "local": "الرفاعي",
+          "en": "Al-Rifai",
+          "slug": "al-rifai-iqg17q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.885",
+      "lon": "45.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "النصر",
+      "en": "Al-Nasr",
+      "slug": "al-nasr-iqg17q02n02"
+    },
+    "code": {
+      "id": "IQG17Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q02",
+      "level": 2,
+      "name": {
+        "local": "الرفاعي",
+        "en": "Al-Rifai",
+        "slug": "al-rifai-iqg17q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q02",
+        "level": 2,
+        "name": {
+          "local": "الرفاعي",
+          "en": "Al-Rifai",
+          "slug": "al-rifai-iqg17q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.469",
+      "lon": "45.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرفاعي",
+      "en": "Markaz Al-Rifai",
+      "slug": "markaz-al-rifai-iqg17q02n03"
+    },
+    "code": {
+      "id": "IQG17Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q02",
+      "level": 2,
+      "name": {
+        "local": "الرفاعي",
+        "en": "Al-Rifai",
+        "slug": "al-rifai-iqg17q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q02",
+        "level": 2,
+        "name": {
+          "local": "الرفاعي",
+          "en": "Al-Rifai",
+          "slug": "al-rifai-iqg17q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.72",
+      "lon": "46.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q02N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قلعة السكر",
+      "en": "Qalat Siker",
+      "slug": "qalat-siker-iqg17q02n04"
+    },
+    "code": {
+      "id": "IQG17Q02N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q02",
+      "level": 2,
+      "name": {
+        "local": "الرفاعي",
+        "en": "Al-Rifai",
+        "slug": "al-rifai-iqg17q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q02",
+        "level": 2,
+        "name": {
+          "local": "الرفاعي",
+          "en": "Al-Rifai",
+          "slug": "al-rifai-iqg17q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.836",
+      "lon": "46.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

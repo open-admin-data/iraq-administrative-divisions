@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG15Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الحضر",
+      "en": "Markaz Hatra",
+      "slug": "markaz-hatra-iqg15q04n01"
+    },
+    "code": {
+      "id": "IQG15Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q04",
+      "level": 2,
+      "name": {
+        "local": "الحضر",
+        "en": "Al-Hatra",
+        "slug": "al-hatra-iqg15q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q04",
+        "level": 2,
+        "name": {
+          "local": "الحضر",
+          "en": "Al-Hatra",
+          "slug": "al-hatra-iqg15q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.589",
+      "lon": "42.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

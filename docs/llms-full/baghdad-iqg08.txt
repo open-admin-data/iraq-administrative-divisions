@@ -1,0 +1,128 @@
+# Baghdad — Iraq Administrative Divisions
+
+> 7 districts, 21 sub-districts
+> Code: IQG08
+> Coordinates: 33.278, 44.379
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الاعظمية (Al-Adhamiya)
+
+Code: IQG08Q01, Coordinates: 33.479, 44.354
+Sub-districts: 3
+
+#### الفحامة (Al-Fahama)
+
+Code: IQG08Q01N02, Coordinates: 33.443, 44.404
+
+#### الراشدية (Al-Rashdia)
+
+Code: IQG08Q01N03, Coordinates: 33.548, 44.408
+
+#### مركز الاعظمية (Markaz Al-Adhamiya)
+
+Code: IQG08Q01N01, Coordinates: 33.376, 44.385
+
+### الكاظمية (Al-Kadhmiyah)
+
+Code: IQG08Q02, Coordinates: 33.464, 44.192
+Sub-districts: 5
+
+#### ابي غريب (Abu Ghraib)
+
+Code: IQG08Q02N02, Coordinates: 33.299, 44.059
+
+#### التاجي (Al-Taji)
+
+Code: IQG08Q02N05, Coordinates: 33.516, 44.235
+
+#### الطارمية (Al-Tarmiya)
+
+Code: IQG08Q02N04, Coordinates: 33.649, 44.25
+
+#### مركز الكاظمية (Markaz Al-Kadhimiya)
+
+Code: IQG08Q02N01, Coordinates: 33.363, 44.318
+
+#### ذات السلاسل (That al Salasil)
+
+Code: IQG08Q02N03, Coordinates: 33.419, 44.199
+
+### الكرخ (Al-Karkh)
+
+Code: IQG08Q03, Coordinates: 33.179, 44.471
+Sub-districts: 3
+
+#### المأمون (Al-Mamoon)
+
+Code: IQG08Q03N01, Coordinates: 33.138, 44.539
+
+#### المنصور (Al-Mansour)
+
+Code: IQG08Q03N03, Coordinates: 33.294, 44.304
+
+#### مركز الكرخ (Markaz Al-Karkh)
+
+Code: IQG08Q03N02, Coordinates: 33.322, 44.384
+
+### المدائن (Al-Mada&#39;in)
+
+Code: IQG08Q04, Coordinates: 33.219, 44.686
+Sub-districts: 3
+
+#### الجسر (Al-Jisr)
+
+Code: IQG08Q04N02, Coordinates: 33.292, 44.562
+
+#### الوحدة (Al-Wihda)
+
+Code: IQG08Q04N03, Coordinates: 33.259, 44.741
+
+#### مركز المدائن (Markaz Al-Mada&#39;in)
+
+Code: IQG08Q04N01, Coordinates: 33.094, 44.639
+
+### المحمودية (Al-Mahmoudiya)
+
+Code: IQG08Q05, Coordinates: 33.035, 44.343
+Sub-districts: 4
+
+#### اللطيفية (Al-Latifya)
+
+Code: IQG08Q05N03, Coordinates: 32.932, 44.449
+
+#### الرشيد (Al-Rasheed)
+
+Code: IQG08Q05N02, Coordinates: 33.125, 44.414
+
+#### اليوسفية (Al-Yousifya)
+
+Code: IQG08Q05N04, Coordinates: 33.135, 44.177
+
+#### مركز المحمودية (Markaz Al-Mahmoudiya)
+
+Code: IQG08Q05N01, Coordinates: 33.053, 44.349
+
+### الرصافة (Al-Risafa)
+
+Code: IQG08Q06, Coordinates: 33.325, 44.465
+Sub-districts: 2
+
+#### الكرادة الشرقية (Al-Karrada Al-Sharqia)
+
+Code: IQG08Q06N01, Coordinates: 33.286, 44.4
+
+#### بغداد الجديدة (Baghdad Al-Jedeeda)
+
+Code: IQG08Q06N02, Coordinates: 33.346, 44.502
+
+### الثورة (Al-Thawra)
+
+Code: IQG08Q07, Coordinates: 33.388, 44.465
+Sub-districts: 1
+
+#### مركز الثورة (Markaz Al-Thawra)
+
+Code: IQG08Q07N01, Coordinates: 33.388, 44.465
+

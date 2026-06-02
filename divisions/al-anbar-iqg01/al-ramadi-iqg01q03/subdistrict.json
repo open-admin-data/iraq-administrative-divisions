@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG01Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحبانية",
+      "en": "Al-Habbaniya",
+      "slug": "al-habbaniya-iqg01q03n01"
+    },
+    "code": {
+      "id": "IQG01Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q03",
+      "level": 2,
+      "name": {
+        "local": "الرمادي",
+        "en": "Al-Ramadi",
+        "slug": "al-ramadi-iqg01q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q03",
+        "level": 2,
+        "name": {
+          "local": "الرمادي",
+          "en": "Al-Ramadi",
+          "slug": "al-ramadi-iqg01q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.329",
+      "lon": "43.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرحالية",
+      "en": "Al-Rahhaliya",
+      "slug": "al-rahhaliya-iqg01q03n02"
+    },
+    "code": {
+      "id": "IQG01Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q03",
+      "level": 2,
+      "name": {
+        "local": "الرمادي",
+        "en": "Al-Ramadi",
+        "slug": "al-ramadi-iqg01q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q03",
+        "level": 2,
+        "name": {
+          "local": "الرمادي",
+          "en": "Al-Ramadi",
+          "slug": "al-ramadi-iqg01q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.896",
+      "lon": "43.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرمادي",
+      "en": "Markaz Al-Ramadi",
+      "slug": "markaz-al-ramadi-iqg01q03n03"
+    },
+    "code": {
+      "id": "IQG01Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q03",
+      "level": 2,
+      "name": {
+        "local": "الرمادي",
+        "en": "Al-Ramadi",
+        "slug": "al-ramadi-iqg01q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q03",
+        "level": 2,
+        "name": {
+          "local": "الرمادي",
+          "en": "Al-Ramadi",
+          "slug": "al-ramadi-iqg01q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.416",
+      "lon": "43.093"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

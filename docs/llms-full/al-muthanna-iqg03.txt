@@ -1,0 +1,61 @@
+# Al-Muthanna — Iraq Administrative Divisions
+
+> 4 districts, 8 sub-districts
+> Code: IQG03
+> Coordinates: 30.405, 45.36
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الخضر (Al-Khidhir)
+
+Code: IQG03Q01, Coordinates: 31.261, 45.652
+Sub-districts: 1
+
+#### مركز الخضر (Markaz Al-Khidhir)
+
+Code: IQG03Q01N01, Coordinates: 31.261, 45.652
+
+### الرميثة (Al-Rumaitha)
+
+Code: IQG03Q02, Coordinates: 31.502, 45.371
+Sub-districts: 5
+
+#### الهلال (Al-Hilal)
+
+Code: IQG03Q02N01, Coordinates: 31.386, 45.089
+
+#### المجد (Al-Majd)
+
+Code: IQG03Q02N02, Coordinates: 31.335, 45.188
+
+#### النجمي (Al-Najmi)
+
+Code: IQG03Q02N03, Coordinates: 31.638, 45.322
+
+#### الوركاء (Al-Warka)
+
+Code: IQG03Q02N04, Coordinates: 31.503, 45.469
+
+#### مركز الرميثة (Markaz Al-Rumaitha)
+
+Code: IQG03Q02N05, Coordinates: 31.54, 45.145
+
+### السلمان (Al-Salman)
+
+Code: IQG03Q03, Coordinates: 30.251, 45.348
+Sub-districts: 1
+
+#### مركز السلمان (Markaz Al-Salman)
+
+Code: IQG03Q03N01, Coordinates: 30.251, 45.348
+
+### السماوة (Al-Samawa)
+
+Code: IQG03Q04, Coordinates: 31.217, 45.301
+Sub-districts: 1
+
+#### السوير (Al-Sowair)
+
+Code: IQG03Q04N01, Coordinates: 31.217, 45.301
+

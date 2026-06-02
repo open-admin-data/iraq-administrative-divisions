@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG16Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ابو دلف",
+      "en": "Abu Dalf",
+      "slug": "abu-dalf-iqg16q01n02"
+    },
+    "code": {
+      "id": "IQG16Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q01",
+      "level": 2,
+      "name": {
+        "local": "الدور",
+        "en": "Al-Daur",
+        "slug": "al-daur-iqg16q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q01",
+        "level": 2,
+        "name": {
+          "local": "الدور",
+          "en": "Al-Daur",
+          "slug": "al-daur-iqg16q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.565",
+      "lon": "44.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حمرين",
+      "en": "Hamreen",
+      "slug": "hamreen-iqg16q01n01"
+    },
+    "code": {
+      "id": "IQG16Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q01",
+      "level": 2,
+      "name": {
+        "local": "الدور",
+        "en": "Al-Daur",
+        "slug": "al-daur-iqg16q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q01",
+        "level": 2,
+        "name": {
+          "local": "الدور",
+          "en": "Al-Daur",
+          "slug": "al-daur-iqg16q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.521",
+      "lon": "44.357"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

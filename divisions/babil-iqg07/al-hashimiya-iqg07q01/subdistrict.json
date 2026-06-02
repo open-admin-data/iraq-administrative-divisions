@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG07Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المدحتية",
+      "en": "Al-Madhatiya",
+      "slug": "al-madhatiya-iqg07q01n03"
+    },
+    "code": {
+      "id": "IQG07Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q01",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Al-Hashimiya",
+        "slug": "al-hashimiya-iqg07q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q01",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Al-Hashimiya",
+          "slug": "al-hashimiya-iqg07q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.501",
+      "lon": "44.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القاسم",
+      "en": "Al-Qasim",
+      "slug": "al-qasim-iqg07q01n01"
+    },
+    "code": {
+      "id": "IQG07Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q01",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Al-Hashimiya",
+        "slug": "al-hashimiya-iqg07q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q01",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Al-Hashimiya",
+          "slug": "al-hashimiya-iqg07q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.25",
+      "lon": "44.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشوملي",
+      "en": "Al-Shomaly",
+      "slug": "al-shomaly-iqg07q01n02"
+    },
+    "code": {
+      "id": "IQG07Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q01",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Al-Hashimiya",
+        "slug": "al-hashimiya-iqg07q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q01",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Al-Hashimiya",
+          "slug": "al-hashimiya-iqg07q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.364",
+      "lon": "44.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

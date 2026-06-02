@@ -1,0 +1,47 @@
+{
+  "id": "IQG04Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "المناذرة",
+    "en": "Al-Manathera",
+    "slug": "al-manathera-iqg04q02"
+  },
+  "code": {
+    "id": "IQG04Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG04",
+    "level": 1,
+    "name": {
+      "local": "النجف",
+      "en": "Al-Najaf",
+      "slug": "al-najaf-iqg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG04",
+      "level": 1,
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.774",
+    "lon": "44.472"
+  },
+  "metadata": {},
+  "source": {}
+}

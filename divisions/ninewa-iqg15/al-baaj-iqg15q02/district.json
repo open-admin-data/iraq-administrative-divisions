@@ -1,0 +1,47 @@
+{
+  "id": "IQG15Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "البعاج",
+    "en": "Al-Baaj",
+    "slug": "al-baaj-iqg15q02"
+  },
+  "code": {
+    "id": "IQG15Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG15",
+    "level": 1,
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.693",
+    "lon": "41.7"
+  },
+  "metadata": {},
+  "source": {}
+}

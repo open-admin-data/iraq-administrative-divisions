@@ -1,0 +1,331 @@
+[
+  {
+    "id": "IQG02Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "ابي الخصيب",
+      "en": "Abu Al-Khaseeb",
+      "slug": "abu-al-khaseeb-iqg02q01"
+    },
+    "code": {
+      "id": "IQG02Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.336",
+      "lon": "47.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02q02"
+    },
+    "code": {
+      "id": "IQG02Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.555",
+      "lon": "47.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الفاو",
+      "en": "Al-Faw",
+      "slug": "al-faw-iqg02q03"
+    },
+    "code": {
+      "id": "IQG02Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.046",
+      "lon": "48.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "المدينة",
+      "en": "Al-Midaina",
+      "slug": "al-midaina-iqg02q04"
+    },
+    "code": {
+      "id": "IQG02Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.982",
+      "lon": "47.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "القرنة",
+      "en": "Al-Qurna",
+      "slug": "al-qurna-iqg02q05"
+    },
+    "code": {
+      "id": "IQG02Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.943",
+      "lon": "47.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزبير",
+      "en": "Al-Zubair",
+      "slug": "al-zubair-iqg02q06"
+    },
+    "code": {
+      "id": "IQG02Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.902",
+      "lon": "46.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q07",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "شط العرب",
+      "en": "Shat Al-Arab",
+      "slug": "shat-al-arab-iqg02q07"
+    },
+    "code": {
+      "id": "IQG02Q07",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.723",
+      "lon": "47.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "IQG11Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزيبار",
+      "en": "Al-Zibar",
+      "slug": "al-zibar-iqg11q01"
+    },
+    "code": {
+      "id": "IQG11Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.088",
+      "lon": "44.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11q02"
+    },
+    "code": {
+      "id": "IQG11Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.091",
+      "lon": "43.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كويسنجق",
+      "en": "Koysinjaq",
+      "slug": "koysinjaq-iqg11q03"
+    },
+    "code": {
+      "id": "IQG11Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.036",
+      "lon": "44.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "مخمور",
+      "en": "Makhmour",
+      "slug": "makhmour-iqg11q04"
+    },
+    "code": {
+      "id": "IQG11Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.823",
+      "lon": "43.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "راوندوز",
+      "en": "Rawanduz",
+      "slug": "rawanduz-iqg11q05"
+    },
+    "code": {
+      "id": "IQG11Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.807",
+      "lon": "44.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q06",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "شقلاوة",
+      "en": "Shaqlawa",
+      "slug": "shaqlawa-iqg11q06"
+    },
+    "code": {
+      "id": "IQG11Q06",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.448",
+      "lon": "44.152"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

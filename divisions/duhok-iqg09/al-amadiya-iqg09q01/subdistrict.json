@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG09Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "برواري بالا",
+      "en": "Barwari Bala",
+      "slug": "barwari-bala-iqg09q01n01"
+    },
+    "code": {
+      "id": "IQG09Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q01",
+      "level": 2,
+      "name": {
+        "local": "العمادية",
+        "en": "Al-Amadiya",
+        "slug": "al-amadiya-iqg09q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q01",
+        "level": 2,
+        "name": {
+          "local": "العمادية",
+          "en": "Al-Amadiya",
+          "slug": "al-amadiya-iqg09q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.24",
+      "lon": "43.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز العمادية",
+      "en": "Markaz Al-Amadiya",
+      "slug": "markaz-al-amadiya-iqg09q01n02"
+    },
+    "code": {
+      "id": "IQG09Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q01",
+      "level": 2,
+      "name": {
+        "local": "العمادية",
+        "en": "Al-Amadiya",
+        "slug": "al-amadiya-iqg09q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q01",
+        "level": 2,
+        "name": {
+          "local": "العمادية",
+          "en": "Al-Amadiya",
+          "slug": "al-amadiya-iqg09q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.059",
+      "lon": "43.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "نروة ريكان",
+      "en": "Nerwa Rekan",
+      "slug": "nerwa-rekan-iqg09q01n03"
+    },
+    "code": {
+      "id": "IQG09Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q01",
+      "level": 2,
+      "name": {
+        "local": "العمادية",
+        "en": "Al-Amadiya",
+        "slug": "al-amadiya-iqg09q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q01",
+        "level": 2,
+        "name": {
+          "local": "العمادية",
+          "en": "Al-Amadiya",
+          "slug": "al-amadiya-iqg09q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.173",
+      "lon": "43.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q01N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سرسنك",
+      "en": "Sarsank",
+      "slug": "sarsank-iqg09q01n04"
+    },
+    "code": {
+      "id": "IQG09Q01N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q01",
+      "level": 2,
+      "name": {
+        "local": "العمادية",
+        "en": "Al-Amadiya",
+        "slug": "al-amadiya-iqg09q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q01",
+        "level": 2,
+        "name": {
+          "local": "العمادية",
+          "en": "Al-Amadiya",
+          "slug": "al-amadiya-iqg09q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.995",
+      "lon": "43.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

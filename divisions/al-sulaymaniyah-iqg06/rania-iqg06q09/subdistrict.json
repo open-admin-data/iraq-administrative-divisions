@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG06Q09N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بتوانه",
+      "en": "Bitwana",
+      "slug": "bitwana-iqg06q09n03"
+    },
+    "code": {
+      "id": "IQG06Q09N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q09",
+      "level": 2,
+      "name": {
+        "local": "رانية",
+        "en": "Rania",
+        "slug": "rania-iqg06q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q09",
+        "level": 2,
+        "name": {
+          "local": "رانية",
+          "en": "Rania",
+          "slug": "rania-iqg06q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.341",
+      "lon": "44.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q09N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز رانية",
+      "en": "Markaz Rania",
+      "slug": "markaz-rania-iqg06q09n02"
+    },
+    "code": {
+      "id": "IQG06Q09N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q09",
+      "level": 2,
+      "name": {
+        "local": "رانية",
+        "en": "Rania",
+        "slug": "rania-iqg06q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q09",
+        "level": 2,
+        "name": {
+          "local": "رانية",
+          "en": "Rania",
+          "slug": "rania-iqg06q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.262",
+      "lon": "44.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q09N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ميركه",
+      "en": "Mirka",
+      "slug": "mirka-iqg06q09n01"
+    },
+    "code": {
+      "id": "IQG06Q09N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q09",
+      "level": 2,
+      "name": {
+        "local": "رانية",
+        "en": "Rania",
+        "slug": "rania-iqg06q09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q09",
+        "level": 2,
+        "name": {
+          "local": "رانية",
+          "en": "Rania",
+          "slug": "rania-iqg06q09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.048",
+      "lon": "45.132"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

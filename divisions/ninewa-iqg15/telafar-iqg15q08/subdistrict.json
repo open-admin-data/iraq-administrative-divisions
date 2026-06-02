@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG15Q08N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العياضية",
+      "en": "Al-Ayadiya",
+      "slug": "al-ayadiya-iqg15q08n02"
+    },
+    "code": {
+      "id": "IQG15Q08N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q08",
+      "level": 2,
+      "name": {
+        "local": "تلعفر",
+        "en": "Telafar",
+        "slug": "telafar-iqg15q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q08",
+        "level": 2,
+        "name": {
+          "local": "تلعفر",
+          "en": "Telafar",
+          "slug": "telafar-iqg15q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.536",
+      "lon": "42.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q08N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز تلعفر",
+      "en": "Markaz Telafar",
+      "slug": "markaz-telafar-iqg15q08n01"
+    },
+    "code": {
+      "id": "IQG15Q08N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q08",
+      "level": 2,
+      "name": {
+        "local": "تلعفر",
+        "en": "Telafar",
+        "slug": "telafar-iqg15q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q08",
+        "level": 2,
+        "name": {
+          "local": "تلعفر",
+          "en": "Telafar",
+          "slug": "telafar-iqg15q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.26",
+      "lon": "42.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q08N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ربيعة",
+      "en": "Rabia",
+      "slug": "rabia-iqg15q08n04"
+    },
+    "code": {
+      "id": "IQG15Q08N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q08",
+      "level": 2,
+      "name": {
+        "local": "تلعفر",
+        "en": "Telafar",
+        "slug": "telafar-iqg15q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q08",
+        "level": 2,
+        "name": {
+          "local": "تلعفر",
+          "en": "Telafar",
+          "slug": "telafar-iqg15q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.691",
+      "lon": "42.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q08N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "زمار",
+      "en": "Zummar",
+      "slug": "zummar-iqg15q08n03"
+    },
+    "code": {
+      "id": "IQG15Q08N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q08",
+      "level": 2,
+      "name": {
+        "local": "تلعفر",
+        "en": "Telafar",
+        "slug": "telafar-iqg15q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q08",
+        "level": 2,
+        "name": {
+          "local": "تلعفر",
+          "en": "Telafar",
+          "slug": "telafar-iqg15q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.766",
+      "lon": "42.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

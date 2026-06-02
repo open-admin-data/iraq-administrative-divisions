@@ -1,0 +1,47 @@
+{
+  "id": "IQG10Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "بعقوبة",
+    "en": "Baquba",
+    "slug": "baquba-iqg10q04"
+  },
+  "code": {
+    "id": "IQG10Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG10",
+    "level": 1,
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.647",
+    "lon": "44.713"
+  },
+  "metadata": {},
+  "source": {}
+}

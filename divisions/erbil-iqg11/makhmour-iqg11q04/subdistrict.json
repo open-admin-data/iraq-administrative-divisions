@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG11Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ديبكة",
+      "en": "Dibaga",
+      "slug": "dibaga-iqg11q04n03"
+    },
+    "code": {
+      "id": "IQG11Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q04",
+      "level": 2,
+      "name": {
+        "local": "مخمور",
+        "en": "Makhmour",
+        "slug": "makhmour-iqg11q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q04",
+        "level": 2,
+        "name": {
+          "local": "مخمور",
+          "en": "Makhmour",
+          "slug": "makhmour-iqg11q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.852",
+      "lon": "43.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q04N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الكوير",
+      "en": "Gwyer",
+      "slug": "gwyer-iqg11q04n04"
+    },
+    "code": {
+      "id": "IQG11Q04N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q04",
+      "level": 2,
+      "name": {
+        "local": "مخمور",
+        "en": "Makhmour",
+        "slug": "makhmour-iqg11q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q04",
+        "level": 2,
+        "name": {
+          "local": "مخمور",
+          "en": "Makhmour",
+          "slug": "makhmour-iqg11q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.075",
+      "lon": "43.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز مخمور",
+      "en": "Markaz Makhmour",
+      "slug": "markaz-makhmour-iqg11q04n02"
+    },
+    "code": {
+      "id": "IQG11Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q04",
+      "level": 2,
+      "name": {
+        "local": "مخمور",
+        "en": "Makhmour",
+        "slug": "makhmour-iqg11q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q04",
+        "level": 2,
+        "name": {
+          "local": "مخمور",
+          "en": "Makhmour",
+          "slug": "makhmour-iqg11q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.83",
+      "lon": "43.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القرج",
+      "en": "Qaraj",
+      "slug": "qaraj-iqg11q04n01"
+    },
+    "code": {
+      "id": "IQG11Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q04",
+      "level": 2,
+      "name": {
+        "local": "مخمور",
+        "en": "Makhmour",
+        "slug": "makhmour-iqg11q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q04",
+        "level": 2,
+        "name": {
+          "local": "مخمور",
+          "en": "Makhmour",
+          "slug": "makhmour-iqg11q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.595",
+      "lon": "43.588"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "IQG03Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرميثة",
+    "en": "Al-Rumaitha",
+    "slug": "al-rumaitha-iqg03q02"
+  },
+  "code": {
+    "id": "IQG03Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG03",
+    "level": 1,
+    "name": {
+      "local": "المثنى",
+      "en": "Al-Muthanna",
+      "slug": "al-muthanna-iqg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG03",
+      "level": 1,
+      "name": {
+        "local": "المثنى",
+        "en": "Al-Muthanna",
+        "slug": "al-muthanna-iqg03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.502",
+    "lon": "45.371"
+  },
+  "metadata": {},
+  "source": {}
+}

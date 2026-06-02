@@ -1,0 +1,47 @@
+{
+  "id": "IQG17Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الناصرية",
+    "en": "Al-Nasiriya",
+    "slug": "al-nasiriya-iqg17q04"
+  },
+  "code": {
+    "id": "IQG17Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG17",
+    "level": 1,
+    "name": {
+      "local": "ذي قار",
+      "en": "Thi Qar",
+      "slug": "thi-qar-iqg17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.122",
+    "lon": "46.491"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,123 @@
+# Erbil — Iraq Administrative Divisions
+
+> 6 districts, 21 sub-districts
+> Code: IQG11
+> Coordinates: 36.379, 44.21
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الزيبار (Al-Zibar)
+
+Code: IQG11Q01, Coordinates: 37.088, 44.094
+Sub-districts: 2
+
+#### بارزان (Barzan)
+
+Code: IQG11Q01N01, Coordinates: 37.017, 44
+
+#### مزوري بالا (Mazouri Bala)
+
+Code: IQG11Q01N02, Coordinates: 37.119, 44.159
+
+### اربيل (Erbil)
+
+Code: IQG11Q02, Coordinates: 36.091, 43.994
+Sub-districts: 2
+
+#### مركز اربيل (Markaz Erbil)
+
+Code: IQG11Q02N02, Coordinates: 36.212, 43.974
+
+#### قوش تبه (Qushtappa)
+
+Code: IQG11Q02N01, Coordinates: 35.951, 44.02
+
+### كويسنجق (Koysinjaq)
+
+Code: IQG11Q03, Coordinates: 36.036, 44.526
+Sub-districts: 3
+
+#### مركز كويسنجق (Markaz Koysinjaq)
+
+Code: IQG11Q03N03, Coordinates: 36.102, 44.604
+
+#### سورش (Shorsh)
+
+Code: IQG11Q03N02, Coordinates: 36.133, 44.408
+
+#### طق طق (Taq Taq)
+
+Code: IQG11Q03N01, Coordinates: 35.962, 44.492
+
+### مخمور (Makhmour)
+
+Code: IQG11Q04, Coordinates: 35.823, 43.652
+Sub-districts: 4
+
+#### ديبكة (Dibaga)
+
+Code: IQG11Q04N03, Coordinates: 35.852, 43.771
+
+#### الكوير (Gwyer)
+
+Code: IQG11Q04N04, Coordinates: 36.075, 43.61
+
+#### مركز مخمور (Markaz Makhmour)
+
+Code: IQG11Q04N02, Coordinates: 35.83, 43.506
+
+#### القرج (Qaraj)
+
+Code: IQG11Q04N01, Coordinates: 35.595, 43.588
+
+### راوندوز (Rawanduz)
+
+Code: IQG11Q05, Coordinates: 36.807, 44.535
+Sub-districts: 7
+
+#### بالك (Balak)
+
+Code: IQG11Q05N03, Coordinates: 36.6, 44.883
+
+#### برادوست (Bradost)
+
+Code: IQG11Q05N06, Coordinates: 36.94, 44.642
+
+#### ديانا (Diana)
+
+Code: IQG11Q05N02, Coordinates: 36.694, 44.527
+
+#### الحج عمران (Haji Omaran)
+
+Code: IQG11Q05N07, Coordinates: 36.684, 44.957
+
+#### خليفان (Khailfan)
+
+Code: IQG11Q05N04, Coordinates: 36.602, 44.381
+
+#### مركز راوندوز (Markaz Rawanduz)
+
+Code: IQG11Q05N01, Coordinates: 36.535, 44.65
+
+#### ميركة سور (Mergasur)
+
+Code: IQG11Q05N05, Coordinates: 36.838, 44.288
+
+### شقلاوة (Shaqlawa)
+
+Code: IQG11Q06, Coordinates: 36.448, 44.152
+Sub-districts: 3
+
+#### ديرة حرير (Harir)
+
+Code: IQG11Q06N03, Coordinates: 36.553, 44.213
+
+#### خوشناو (Khoshnaw)
+
+Code: IQG11Q06N01, Coordinates: 36.361, 44.441
+
+#### صلاح الدين (Salah Al-Din)
+
+Code: IQG11Q06N02, Coordinates: 36.404, 44.091
+

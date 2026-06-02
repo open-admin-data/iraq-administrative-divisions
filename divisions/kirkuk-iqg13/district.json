@@ -1,0 +1,190 @@
+[
+  {
+    "id": "IQG13Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحويجة",
+      "en": "Al-Hawiga",
+      "slug": "al-hawiga-iqg13q01"
+    },
+    "code": {
+      "id": "IQG13Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.264",
+      "lon": "43.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "داقوق",
+      "en": "Daquq",
+      "slug": "daquq-iqg13q02"
+    },
+    "code": {
+      "id": "IQG13Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.995",
+      "lon": "44.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "دبس",
+      "en": "Dibis",
+      "slug": "dibis-iqg13q03"
+    },
+    "code": {
+      "id": "IQG13Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.66",
+      "lon": "44.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "كركوك",
+      "en": "Kirkuk",
+      "slug": "kirkuk-iqg13q04"
+    },
+    "code": {
+      "id": "IQG13Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.516",
+      "lon": "44.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

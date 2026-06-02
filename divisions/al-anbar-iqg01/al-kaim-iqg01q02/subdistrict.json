@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG01Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الكرابلة",
+      "en": "Al-Karabla",
+      "slug": "al-karabla-iqg01q02n01"
+    },
+    "code": {
+      "id": "IQG01Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q02",
+      "level": 2,
+      "name": {
+        "local": "القائم",
+        "en": "Al-Kaim",
+        "slug": "al-kaim-iqg01q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q02",
+        "level": 2,
+        "name": {
+          "local": "القائم",
+          "en": "Al-Kaim",
+          "slug": "al-kaim-iqg01q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.07",
+      "lon": "40.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العبيدي",
+      "en": "Al-Obiadi",
+      "slug": "al-obiadi-iqg01q02n02"
+    },
+    "code": {
+      "id": "IQG01Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q02",
+      "level": 2,
+      "name": {
+        "local": "القائم",
+        "en": "Al-Kaim",
+        "slug": "al-kaim-iqg01q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q02",
+        "level": 2,
+        "name": {
+          "local": "القائم",
+          "en": "Al-Kaim",
+          "slug": "al-kaim-iqg01q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.104",
+      "lon": "41.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG01Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرمانة",
+      "en": "Al-Rummaneh",
+      "slug": "al-rummaneh-iqg01q02n03"
+    },
+    "code": {
+      "id": "IQG01Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG01Q02",
+      "level": 2,
+      "name": {
+        "local": "القائم",
+        "en": "Al-Kaim",
+        "slug": "al-kaim-iqg01q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG01",
+        "level": 1,
+        "name": {
+          "local": "الانبار",
+          "en": "Al-Anbar",
+          "slug": "al-anbar-iqg01"
+        }
+      },
+      {
+        "id": "IQG01Q02",
+        "level": 2,
+        "name": {
+          "local": "القائم",
+          "en": "Al-Kaim",
+          "slug": "al-kaim-iqg01q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.73",
+      "lon": "41.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

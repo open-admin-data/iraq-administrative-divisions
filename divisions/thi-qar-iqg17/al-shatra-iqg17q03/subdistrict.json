@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG17Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الدواية",
+      "en": "Al-Dawaya",
+      "slug": "al-dawaya-iqg17q03n03"
+    },
+    "code": {
+      "id": "IQG17Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q03",
+      "level": 2,
+      "name": {
+        "local": "الشطرة",
+        "en": "Al-Shatra",
+        "slug": "al-shatra-iqg17q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q03",
+        "level": 2,
+        "name": {
+          "local": "الشطرة",
+          "en": "Al-Shatra",
+          "slug": "al-shatra-iqg17q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.48",
+      "lon": "46.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القراف",
+      "en": "Al-Gharraf",
+      "slug": "al-gharraf-iqg17q03n02"
+    },
+    "code": {
+      "id": "IQG17Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q03",
+      "level": 2,
+      "name": {
+        "local": "الشطرة",
+        "en": "Al-Shatra",
+        "slug": "al-shatra-iqg17q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q03",
+        "level": 2,
+        "name": {
+          "local": "الشطرة",
+          "en": "Al-Shatra",
+          "slug": "al-shatra-iqg17q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.245",
+      "lon": "46.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الشطرة",
+      "en": "Markaz Al-Shatra",
+      "slug": "markaz-al-shatra-iqg17q03n01"
+    },
+    "code": {
+      "id": "IQG17Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17Q03",
+      "level": 2,
+      "name": {
+        "local": "الشطرة",
+        "en": "Al-Shatra",
+        "slug": "al-shatra-iqg17q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      },
+      {
+        "id": "IQG17Q03",
+        "level": 2,
+        "name": {
+          "local": "الشطرة",
+          "en": "Al-Shatra",
+          "slug": "al-shatra-iqg17q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.433",
+      "lon": "46.188"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

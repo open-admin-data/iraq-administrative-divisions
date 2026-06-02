@@ -1,0 +1,47 @@
+{
+  "id": "IQG10Q03",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "مندلي",
+    "en": "Baladruz",
+    "slug": "baladruz-iqg10q03"
+  },
+  "code": {
+    "id": "IQG10Q03",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG10",
+    "level": 1,
+    "name": {
+      "local": "ديالى",
+      "en": "Diyala",
+      "slug": "diyala-iqg10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG10",
+      "level": 1,
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.56",
+    "lon": "45.44"
+  },
+  "metadata": {},
+  "source": {}
+}

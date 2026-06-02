@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG08Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المأمون",
+      "en": "Al-Mamoon",
+      "slug": "al-mamoon-iqg08q03n01"
+    },
+    "code": {
+      "id": "IQG08Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q03",
+      "level": 2,
+      "name": {
+        "local": "الكرخ",
+        "en": "Al-Karkh",
+        "slug": "al-karkh-iqg08q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q03",
+        "level": 2,
+        "name": {
+          "local": "الكرخ",
+          "en": "Al-Karkh",
+          "slug": "al-karkh-iqg08q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.138",
+      "lon": "44.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المنصور",
+      "en": "Al-Mansour",
+      "slug": "al-mansour-iqg08q03n03"
+    },
+    "code": {
+      "id": "IQG08Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q03",
+      "level": 2,
+      "name": {
+        "local": "الكرخ",
+        "en": "Al-Karkh",
+        "slug": "al-karkh-iqg08q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q03",
+        "level": 2,
+        "name": {
+          "local": "الكرخ",
+          "en": "Al-Karkh",
+          "slug": "al-karkh-iqg08q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.294",
+      "lon": "44.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الكرخ",
+      "en": "Markaz Al-Karkh",
+      "slug": "markaz-al-karkh-iqg08q03n02"
+    },
+    "code": {
+      "id": "IQG08Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q03",
+      "level": 2,
+      "name": {
+        "local": "الكرخ",
+        "en": "Al-Karkh",
+        "slug": "al-karkh-iqg08q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q03",
+        "level": 2,
+        "name": {
+          "local": "الكرخ",
+          "en": "Al-Karkh",
+          "slug": "al-karkh-iqg08q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.322",
+      "lon": "44.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

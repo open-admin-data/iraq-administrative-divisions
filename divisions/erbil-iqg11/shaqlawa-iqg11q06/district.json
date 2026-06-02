@@ -1,0 +1,47 @@
+{
+  "id": "IQG11Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "شقلاوة",
+    "en": "Shaqlawa",
+    "slug": "shaqlawa-iqg11q06"
+  },
+  "code": {
+    "id": "IQG11Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG11",
+    "level": 1,
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.448",
+    "lon": "44.152"
+  },
+  "metadata": {},
+  "source": {}
+}

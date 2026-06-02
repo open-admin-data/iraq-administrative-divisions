@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG15Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بردرش",
+      "en": "Bardarash",
+      "slug": "bardarash-iqg15q01n01"
+    },
+    "code": {
+      "id": "IQG15Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q01",
+      "level": 2,
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q01",
+        "level": 2,
+        "name": {
+          "local": "عقرة",
+          "en": "Aqra",
+          "slug": "aqra-iqg15q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.491",
+      "lon": "43.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بجيل",
+      "en": "Begeel",
+      "slug": "begeel-iqg15q01n02"
+    },
+    "code": {
+      "id": "IQG15Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q01",
+      "level": 2,
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q01",
+        "level": 2,
+        "name": {
+          "local": "عقرة",
+          "en": "Aqra",
+          "slug": "aqra-iqg15q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.655",
+      "lon": "44.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q01N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دينارتة",
+      "en": "Dinarta",
+      "slug": "dinarta-iqg15q01n04"
+    },
+    "code": {
+      "id": "IQG15Q01N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q01",
+      "level": 2,
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q01",
+        "level": 2,
+        "name": {
+          "local": "عقرة",
+          "en": "Aqra",
+          "slug": "aqra-iqg15q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.843",
+      "lon": "43.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كردسين",
+      "en": "Kurdsein",
+      "slug": "kurdsein-iqg15q01n03"
+    },
+    "code": {
+      "id": "IQG15Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q01",
+      "level": 2,
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q01",
+        "level": 2,
+        "name": {
+          "local": "عقرة",
+          "en": "Aqra",
+          "slug": "aqra-iqg15q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.647",
+      "lon": "43.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q01N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عقرة",
+      "en": "Markaz Aqra",
+      "slug": "markaz-aqra-iqg15q01n05"
+    },
+    "code": {
+      "id": "IQG15Q01N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q01",
+      "level": 2,
+      "name": {
+        "local": "عقرة",
+        "en": "Aqra",
+        "slug": "aqra-iqg15q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q01",
+        "level": 2,
+        "name": {
+          "local": "عقرة",
+          "en": "Aqra",
+          "slug": "aqra-iqg15q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.757",
+      "lon": "43.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

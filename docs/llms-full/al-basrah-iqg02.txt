@@ -1,0 +1,116 @@
+# Al-Basrah — Iraq Administrative Divisions
+
+> 7 districts, 18 sub-districts
+> Code: IQG02
+> Coordinates: 30.208, 47.502
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### ابي الخصيب (Abu Al-Khaseeb)
+
+Code: IQG02Q01, Coordinates: 30.336, 47.993
+Sub-districts: 2
+
+#### السيبة (Al-Siba)
+
+Code: IQG02Q01N01, Coordinates: 30.316, 48.051
+
+#### مركز ابي الخصيب (Markaz Abu Al-Khaseeb)
+
+Code: IQG02Q01N02, Coordinates: 30.408, 47.922
+
+### البصرة (Al-Basrah)
+
+Code: IQG02Q02, Coordinates: 30.555, 47.606
+Sub-districts: 2
+
+#### الهارثة (Al-Hartha)
+
+Code: IQG02Q02N01, Coordinates: 30.616, 47.566
+
+#### مركز البصرة (Markaz Al-Basrah)
+
+Code: IQG02Q02N02, Coordinates: 30.453, 47.767
+
+### الفاو (Al-Faw)
+
+Code: IQG02Q03, Coordinates: 30.046, 48.202
+Sub-districts: 2
+
+#### البحار (Al-Bahhar)
+
+Code: IQG02Q03N01, Coordinates: 30.116, 48.155
+
+#### مركز الفاو (Markaz Al-Faw)
+
+Code: IQG02Q03N02, Coordinates: 29.915, 48.468
+
+### المدينة (Al-Midaina)
+
+Code: IQG02Q04, Coordinates: 30.982, 47.246
+Sub-districts: 3
+
+#### الهوير (Al-Howweir)
+
+Code: IQG02Q04N01, Coordinates: 31.147, 47.236
+
+#### مركز المدينة (Markaz Al-Midaina)
+
+Code: IQG02Q04N02, Coordinates: 30.874, 47.158
+
+#### طلحة (Talha)
+
+Code: IQG02Q04N03, Coordinates: 30.828, 47.24
+
+### القرنة (Al-Qurna)
+
+Code: IQG02Q05, Coordinates: 30.943, 47.442
+Sub-districts: 3
+
+#### الدير (Al-Dair)
+
+Code: IQG02Q05N01, Coordinates: 30.781, 47.451
+
+#### الثغر (Al-Thagar)
+
+Code: IQG02Q05N02, Coordinates: 31.121, 47.508
+
+#### مركز القرنة (Markaz Al-Qurna)
+
+Code: IQG02Q05N03, Coordinates: 31, 47.456
+
+### الزبير (Al-Zubair)
+
+Code: IQG02Q06, Coordinates: 29.902, 46.865
+Sub-districts: 3
+
+#### مركز الزبير (Markaz Al-Zubair)
+
+Code: IQG02Q06N01, Coordinates: 30.444, 47.516
+
+#### سفوان (Safwan)
+
+Code: IQG02Q06N02, Coordinates: 29.891, 46.863
+
+#### ام قصر (Um Qasr)
+
+Code: IQG02Q06N03, Coordinates: 30.162, 47.844
+
+### شط العرب (Shat Al-Arab)
+
+Code: IQG02Q07, Coordinates: 30.723, 47.892
+Sub-districts: 3
+
+#### النشوة (Al-Nashwa)
+
+Code: IQG02Q07N01, Coordinates: 30.89, 47.635
+
+#### مركز شط العرب (Markaz Shat Al-Arab)
+
+Code: IQG02Q07N02, Coordinates: 30.758, 47.857
+
+#### عتبة (Outba)
+
+Code: IQG02Q07N03, Coordinates: 30.498, 47.946
+

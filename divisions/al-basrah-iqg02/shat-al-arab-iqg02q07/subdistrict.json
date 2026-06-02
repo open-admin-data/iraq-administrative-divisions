@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG02Q07N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "النشوة",
+      "en": "Al-Nashwa",
+      "slug": "al-nashwa-iqg02q07n01"
+    },
+    "code": {
+      "id": "IQG02Q07N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q07",
+      "level": 2,
+      "name": {
+        "local": "شط العرب",
+        "en": "Shat Al-Arab",
+        "slug": "shat-al-arab-iqg02q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q07",
+        "level": 2,
+        "name": {
+          "local": "شط العرب",
+          "en": "Shat Al-Arab",
+          "slug": "shat-al-arab-iqg02q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.89",
+      "lon": "47.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q07N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز شط العرب",
+      "en": "Markaz Shat Al-Arab",
+      "slug": "markaz-shat-al-arab-iqg02q07n02"
+    },
+    "code": {
+      "id": "IQG02Q07N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q07",
+      "level": 2,
+      "name": {
+        "local": "شط العرب",
+        "en": "Shat Al-Arab",
+        "slug": "shat-al-arab-iqg02q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q07",
+        "level": 2,
+        "name": {
+          "local": "شط العرب",
+          "en": "Shat Al-Arab",
+          "slug": "shat-al-arab-iqg02q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.758",
+      "lon": "47.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q07N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عتبة",
+      "en": "Outba",
+      "slug": "outba-iqg02q07n03"
+    },
+    "code": {
+      "id": "IQG02Q07N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q07",
+      "level": 2,
+      "name": {
+        "local": "شط العرب",
+        "en": "Shat Al-Arab",
+        "slug": "shat-al-arab-iqg02q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q07",
+        "level": 2,
+        "name": {
+          "local": "شط العرب",
+          "en": "Shat Al-Arab",
+          "slug": "shat-al-arab-iqg02q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.498",
+      "lon": "47.946"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5199 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/iq/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/iraq-administrative-divisions",
+  "data": [
+    {
+      "id": "IQG01",
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      },
+      "code": {
+        "id": "IQG01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG01Q01",
+          "name": {
+            "local": "الفلوجة",
+            "en": "Al-Falluja",
+            "slug": "al-falluja-iqg01q01"
+          },
+          "code": {
+            "id": "IQG01Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q01N01",
+              "name": {
+                "local": "العامرية",
+                "en": "Al-Amirya",
+                "slug": "al-amirya-iqg01q01n01"
+              },
+              "code": {
+                "id": "IQG01Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q01N02",
+              "name": {
+                "local": "الكرمة",
+                "en": "Al-Garma",
+                "slug": "al-garma-iqg01q01n02"
+              },
+              "code": {
+                "id": "IQG01Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q01N03",
+              "name": {
+                "local": "مركز الفلوجة",
+                "en": "Markaz Al-Falluja",
+                "slug": "markaz-al-falluja-iqg01q01n03"
+              },
+              "code": {
+                "id": "IQG01Q01N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q02",
+          "name": {
+            "local": "القائم",
+            "en": "Al-Kaim",
+            "slug": "al-kaim-iqg01q02"
+          },
+          "code": {
+            "id": "IQG01Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q02N01",
+              "name": {
+                "local": "الكرابلة",
+                "en": "Al-Karabla",
+                "slug": "al-karabla-iqg01q02n01"
+              },
+              "code": {
+                "id": "IQG01Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q02N02",
+              "name": {
+                "local": "العبيدي",
+                "en": "Al-Obiadi",
+                "slug": "al-obiadi-iqg01q02n02"
+              },
+              "code": {
+                "id": "IQG01Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q02N03",
+              "name": {
+                "local": "الرمانة",
+                "en": "Al-Rummaneh",
+                "slug": "al-rummaneh-iqg01q02n03"
+              },
+              "code": {
+                "id": "IQG01Q02N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q03",
+          "name": {
+            "local": "الرمادي",
+            "en": "Al-Ramadi",
+            "slug": "al-ramadi-iqg01q03"
+          },
+          "code": {
+            "id": "IQG01Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q03N01",
+              "name": {
+                "local": "الحبانية",
+                "en": "Al-Habbaniya",
+                "slug": "al-habbaniya-iqg01q03n01"
+              },
+              "code": {
+                "id": "IQG01Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q03N02",
+              "name": {
+                "local": "الرحالية",
+                "en": "Al-Rahhaliya",
+                "slug": "al-rahhaliya-iqg01q03n02"
+              },
+              "code": {
+                "id": "IQG01Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q03N03",
+              "name": {
+                "local": "مركز الرمادي",
+                "en": "Markaz Al-Ramadi",
+                "slug": "markaz-al-ramadi-iqg01q03n03"
+              },
+              "code": {
+                "id": "IQG01Q03N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q04",
+          "name": {
+            "local": "الرطبة",
+            "en": "Al-Rutba",
+            "slug": "al-rutba-iqg01q04"
+          },
+          "code": {
+            "id": "IQG01Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q04N01",
+              "name": {
+                "local": "النخيب",
+                "en": "Al-Nekhaeeb",
+                "slug": "al-nekhaeeb-iqg01q04n01"
+              },
+              "code": {
+                "id": "IQG01Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q04N02",
+              "name": {
+                "local": "الوليد",
+                "en": "Al-Walid",
+                "slug": "al-walid-iqg01q04n02"
+              },
+              "code": {
+                "id": "IQG01Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q04N03",
+              "name": {
+                "local": "مركز الرطبة",
+                "en": "Markaz Al-Rutba",
+                "slug": "markaz-al-rutba-iqg01q04n03"
+              },
+              "code": {
+                "id": "IQG01Q04N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q05",
+          "name": {
+            "local": "عنه",
+            "en": "Ana",
+            "slug": "ana-iqg01q05"
+          },
+          "code": {
+            "id": "IQG01Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q05N01",
+              "name": {
+                "local": "مركز عنه",
+                "en": "Markaz Ana",
+                "slug": "markaz-ana-iqg01q05n01"
+              },
+              "code": {
+                "id": "IQG01Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q05N02",
+              "name": {
+                "local": "راوه",
+                "en": "Rawa",
+                "slug": "rawa-iqg01q05n02"
+              },
+              "code": {
+                "id": "IQG01Q05N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q06",
+          "name": {
+            "local": "حديثة",
+            "en": "Haditha",
+            "slug": "haditha-iqg01q06"
+          },
+          "code": {
+            "id": "IQG01Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q06N01",
+              "name": {
+                "local": "الحقلانية",
+                "en": "Al-Haqlaniya",
+                "slug": "al-haqlaniya-iqg01q06n01"
+              },
+              "code": {
+                "id": "IQG01Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q06N02",
+              "name": {
+                "local": "بروانه",
+                "en": "Barwana",
+                "slug": "barwana-iqg01q06n02"
+              },
+              "code": {
+                "id": "IQG01Q06N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG01Q07",
+          "name": {
+            "local": "هيت",
+            "en": "Heet",
+            "slug": "heet-iqg01q07"
+          },
+          "code": {
+            "id": "IQG01Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG01Q07N01",
+              "name": {
+                "local": "البغدادي",
+                "en": "Al-Baghdady",
+                "slug": "al-baghdady-iqg01q07n01"
+              },
+              "code": {
+                "id": "IQG01Q07N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q07N02",
+              "name": {
+                "local": "الفرات",
+                "en": "Al-Forat",
+                "slug": "al-forat-iqg01q07n02"
+              },
+              "code": {
+                "id": "IQG01Q07N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q07N03",
+              "name": {
+                "local": "كبيسة",
+                "en": "Kubaisa",
+                "slug": "kubaisa-iqg01q07n03"
+              },
+              "code": {
+                "id": "IQG01Q07N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG01Q07N04",
+              "name": {
+                "local": "مركز هيت",
+                "en": "Markaz Heet",
+                "slug": "markaz-heet-iqg01q07n04"
+              },
+              "code": {
+                "id": "IQG01Q07N04",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG02",
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      },
+      "code": {
+        "id": "IQG02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG02Q01",
+          "name": {
+            "local": "ابي الخصيب",
+            "en": "Abu Al-Khaseeb",
+            "slug": "abu-al-khaseeb-iqg02q01"
+          },
+          "code": {
+            "id": "IQG02Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q01N01",
+              "name": {
+                "local": "السيبة",
+                "en": "Al-Siba",
+                "slug": "al-siba-iqg02q01n01"
+              },
+              "code": {
+                "id": "IQG02Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q01N02",
+              "name": {
+                "local": "مركز ابي الخصيب",
+                "en": "Markaz Abu Al-Khaseeb",
+                "slug": "markaz-abu-al-khaseeb-iqg02q01n02"
+              },
+              "code": {
+                "id": "IQG02Q01N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q02",
+          "name": {
+            "local": "البصرة",
+            "en": "Al-Basrah",
+            "slug": "al-basrah-iqg02q02"
+          },
+          "code": {
+            "id": "IQG02Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q02N01",
+              "name": {
+                "local": "الهارثة",
+                "en": "Al-Hartha",
+                "slug": "al-hartha-iqg02q02n01"
+              },
+              "code": {
+                "id": "IQG02Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q02N02",
+              "name": {
+                "local": "مركز البصرة",
+                "en": "Markaz Al-Basrah",
+                "slug": "markaz-al-basrah-iqg02q02n02"
+              },
+              "code": {
+                "id": "IQG02Q02N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q03",
+          "name": {
+            "local": "الفاو",
+            "en": "Al-Faw",
+            "slug": "al-faw-iqg02q03"
+          },
+          "code": {
+            "id": "IQG02Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q03N01",
+              "name": {
+                "local": "البحار",
+                "en": "Al-Bahhar",
+                "slug": "al-bahhar-iqg02q03n01"
+              },
+              "code": {
+                "id": "IQG02Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q03N02",
+              "name": {
+                "local": "مركز الفاو",
+                "en": "Markaz Al-Faw",
+                "slug": "markaz-al-faw-iqg02q03n02"
+              },
+              "code": {
+                "id": "IQG02Q03N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q04",
+          "name": {
+            "local": "المدينة",
+            "en": "Al-Midaina",
+            "slug": "al-midaina-iqg02q04"
+          },
+          "code": {
+            "id": "IQG02Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q04N01",
+              "name": {
+                "local": "الهوير",
+                "en": "Al-Howweir",
+                "slug": "al-howweir-iqg02q04n01"
+              },
+              "code": {
+                "id": "IQG02Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q04N02",
+              "name": {
+                "local": "مركز المدينة",
+                "en": "Markaz Al-Midaina",
+                "slug": "markaz-al-midaina-iqg02q04n02"
+              },
+              "code": {
+                "id": "IQG02Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q04N03",
+              "name": {
+                "local": "طلحة",
+                "en": "Talha",
+                "slug": "talha-iqg02q04n03"
+              },
+              "code": {
+                "id": "IQG02Q04N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q05",
+          "name": {
+            "local": "القرنة",
+            "en": "Al-Qurna",
+            "slug": "al-qurna-iqg02q05"
+          },
+          "code": {
+            "id": "IQG02Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q05N01",
+              "name": {
+                "local": "الدير",
+                "en": "Al-Dair",
+                "slug": "al-dair-iqg02q05n01"
+              },
+              "code": {
+                "id": "IQG02Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q05N02",
+              "name": {
+                "local": "الثغر",
+                "en": "Al-Thagar",
+                "slug": "al-thagar-iqg02q05n02"
+              },
+              "code": {
+                "id": "IQG02Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q05N03",
+              "name": {
+                "local": "مركز القرنة",
+                "en": "Markaz Al-Qurna",
+                "slug": "markaz-al-qurna-iqg02q05n03"
+              },
+              "code": {
+                "id": "IQG02Q05N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q06",
+          "name": {
+            "local": "الزبير",
+            "en": "Al-Zubair",
+            "slug": "al-zubair-iqg02q06"
+          },
+          "code": {
+            "id": "IQG02Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q06N01",
+              "name": {
+                "local": "مركز الزبير",
+                "en": "Markaz Al-Zubair",
+                "slug": "markaz-al-zubair-iqg02q06n01"
+              },
+              "code": {
+                "id": "IQG02Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q06N02",
+              "name": {
+                "local": "سفوان",
+                "en": "Safwan",
+                "slug": "safwan-iqg02q06n02"
+              },
+              "code": {
+                "id": "IQG02Q06N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q06N03",
+              "name": {
+                "local": "ام قصر",
+                "en": "Um Qasr",
+                "slug": "um-qasr-iqg02q06n03"
+              },
+              "code": {
+                "id": "IQG02Q06N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG02Q07",
+          "name": {
+            "local": "شط العرب",
+            "en": "Shat Al-Arab",
+            "slug": "shat-al-arab-iqg02q07"
+          },
+          "code": {
+            "id": "IQG02Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG02Q07N01",
+              "name": {
+                "local": "النشوة",
+                "en": "Al-Nashwa",
+                "slug": "al-nashwa-iqg02q07n01"
+              },
+              "code": {
+                "id": "IQG02Q07N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q07N02",
+              "name": {
+                "local": "مركز شط العرب",
+                "en": "Markaz Shat Al-Arab",
+                "slug": "markaz-shat-al-arab-iqg02q07n02"
+              },
+              "code": {
+                "id": "IQG02Q07N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG02Q07N03",
+              "name": {
+                "local": "عتبة",
+                "en": "Outba",
+                "slug": "outba-iqg02q07n03"
+              },
+              "code": {
+                "id": "IQG02Q07N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG03",
+      "name": {
+        "local": "المثنى",
+        "en": "Al-Muthanna",
+        "slug": "al-muthanna-iqg03"
+      },
+      "code": {
+        "id": "IQG03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG03Q01",
+          "name": {
+            "local": "الخضر",
+            "en": "Al-Khidhir",
+            "slug": "al-khidhir-iqg03q01"
+          },
+          "code": {
+            "id": "IQG03Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG03Q01N01",
+              "name": {
+                "local": "مركز الخضر",
+                "en": "Markaz Al-Khidhir",
+                "slug": "markaz-al-khidhir-iqg03q01n01"
+              },
+              "code": {
+                "id": "IQG03Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG03Q02",
+          "name": {
+            "local": "الرميثة",
+            "en": "Al-Rumaitha",
+            "slug": "al-rumaitha-iqg03q02"
+          },
+          "code": {
+            "id": "IQG03Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG03Q02N01",
+              "name": {
+                "local": "الهلال",
+                "en": "Al-Hilal",
+                "slug": "al-hilal-iqg03q02n01"
+              },
+              "code": {
+                "id": "IQG03Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG03Q02N02",
+              "name": {
+                "local": "المجد",
+                "en": "Al-Majd",
+                "slug": "al-majd-iqg03q02n02"
+              },
+              "code": {
+                "id": "IQG03Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG03Q02N03",
+              "name": {
+                "local": "النجمي",
+                "en": "Al-Najmi",
+                "slug": "al-najmi-iqg03q02n03"
+              },
+              "code": {
+                "id": "IQG03Q02N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG03Q02N04",
+              "name": {
+                "local": "الوركاء",
+                "en": "Al-Warka",
+                "slug": "al-warka-iqg03q02n04"
+              },
+              "code": {
+                "id": "IQG03Q02N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG03Q02N05",
+              "name": {
+                "local": "مركز الرميثة",
+                "en": "Markaz Al-Rumaitha",
+                "slug": "markaz-al-rumaitha-iqg03q02n05"
+              },
+              "code": {
+                "id": "IQG03Q02N05",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG03Q03",
+          "name": {
+            "local": "السلمان",
+            "en": "Al-Salman",
+            "slug": "al-salman-iqg03q03"
+          },
+          "code": {
+            "id": "IQG03Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG03Q03N01",
+              "name": {
+                "local": "مركز السلمان",
+                "en": "Markaz Al-Salman",
+                "slug": "markaz-al-salman-iqg03q03n01"
+              },
+              "code": {
+                "id": "IQG03Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG03Q04",
+          "name": {
+            "local": "السماوة",
+            "en": "Al-Samawa",
+            "slug": "al-samawa-iqg03q04"
+          },
+          "code": {
+            "id": "IQG03Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG03Q04N01",
+              "name": {
+                "local": "السوير",
+                "en": "Al-Sowair",
+                "slug": "al-sowair-iqg03q04n01"
+              },
+              "code": {
+                "id": "IQG03Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG04",
+      "name": {
+        "local": "النجف",
+        "en": "Al-Najaf",
+        "slug": "al-najaf-iqg04"
+      },
+      "code": {
+        "id": "IQG04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG04Q01",
+          "name": {
+            "local": "الكوفة",
+            "en": "Al-Kufa",
+            "slug": "al-kufa-iqg04q01"
+          },
+          "code": {
+            "id": "IQG04Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG04Q01N01",
+              "name": {
+                "local": "الحرية",
+                "en": "Al-Huriya",
+                "slug": "al-huriya-iqg04q01n01"
+              },
+              "code": {
+                "id": "IQG04Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG04Q01N02",
+              "name": {
+                "local": "مركز الكوفة",
+                "en": "Markaz Al-Kufa",
+                "slug": "markaz-al-kufa-iqg04q01n02"
+              },
+              "code": {
+                "id": "IQG04Q01N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG04Q02",
+          "name": {
+            "local": "المناذرة",
+            "en": "Al-Manathera",
+            "slug": "al-manathera-iqg04q02"
+          },
+          "code": {
+            "id": "IQG04Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG04Q02N01",
+              "name": {
+                "local": "الحيرة",
+                "en": "Al-Heera",
+                "slug": "al-heera-iqg04q02n01"
+              },
+              "code": {
+                "id": "IQG04Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG04Q03",
+          "name": {
+            "local": "النجف",
+            "en": "Al-Najaf",
+            "slug": "al-najaf-iqg04q03"
+          },
+          "code": {
+            "id": "IQG04Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG04Q03N01",
+              "name": {
+                "local": "الحيدرية",
+                "en": "Al-Haydariya",
+                "slug": "al-haydariya-iqg04q03n01"
+              },
+              "code": {
+                "id": "IQG04Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG04Q03N02",
+              "name": {
+                "local": "الشبكة",
+                "en": "Al-Shabaka",
+                "slug": "al-shabaka-iqg04q03n02"
+              },
+              "code": {
+                "id": "IQG04Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG04Q03N03",
+              "name": {
+                "local": "مركز النجف",
+                "en": "Markaz Al-Najaf",
+                "slug": "markaz-al-najaf-iqg04q03n03"
+              },
+              "code": {
+                "id": "IQG04Q03N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG05",
+      "name": {
+        "local": "القادسية",
+        "en": "Al-Qadissiya",
+        "slug": "al-qadissiya-iqg05"
+      },
+      "code": {
+        "id": "IQG05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG05Q01",
+          "name": {
+            "local": "عفك",
+            "en": "Afaq",
+            "slug": "afaq-iqg05q01"
+          },
+          "code": {
+            "id": "IQG05Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG05Q01N01",
+              "name": {
+                "local": "البدير",
+                "en": "Al-Bdair",
+                "slug": "al-bdair-iqg05q01n01"
+              },
+              "code": {
+                "id": "IQG05Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q01N02",
+              "name": {
+                "local": "الفوار",
+                "en": "Al-Fawwar",
+                "slug": "al-fawwar-iqg05q01n02"
+              },
+              "code": {
+                "id": "IQG05Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q01N03",
+              "name": {
+                "local": "مركز عفك",
+                "en": "Markaz Afaq",
+                "slug": "markaz-afaq-iqg05q01n03"
+              },
+              "code": {
+                "id": "IQG05Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q01N04",
+              "name": {
+                "local": "سومر",
+                "en": "Sumer",
+                "slug": "sumer-iqg05q01n04"
+              },
+              "code": {
+                "id": "IQG05Q01N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG05Q02",
+          "name": {
+            "local": "الديوانية",
+            "en": "Al-Diwaniya",
+            "slug": "al-diwaniya-iqg05q02"
+          },
+          "code": {
+            "id": "IQG05Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG05Q02N01",
+              "name": {
+                "local": "الدغارة",
+                "en": "Al-Daghara",
+                "slug": "al-daghara-iqg05q02n01"
+              },
+              "code": {
+                "id": "IQG05Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q02N02",
+              "name": {
+                "local": "السنية",
+                "en": "Al-Saniya",
+                "slug": "al-saniya-iqg05q02n02"
+              },
+              "code": {
+                "id": "IQG05Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q02N03",
+              "name": {
+                "local": "الشافعية",
+                "en": "Al-Shafeia",
+                "slug": "al-shafeia-iqg05q02n03"
+              },
+              "code": {
+                "id": "IQG05Q02N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q02N04",
+              "name": {
+                "local": "مركز الديوانية",
+                "en": "Markaz Al-Diwaniya",
+                "slug": "markaz-al-diwaniya-iqg05q02n04"
+              },
+              "code": {
+                "id": "IQG05Q02N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG05Q03",
+          "name": {
+            "local": "الحمزة",
+            "en": "Al-Hamza",
+            "slug": "al-hamza-iqg05q03"
+          },
+          "code": {
+            "id": "IQG05Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG05Q03N01",
+              "name": {
+                "local": "السدير",
+                "en": "Al-Sadeer",
+                "slug": "al-sadeer-iqg05q03n01"
+              },
+              "code": {
+                "id": "IQG05Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q03N02",
+              "name": {
+                "local": "الشنافية",
+                "en": "Al-Shinafiya",
+                "slug": "al-shinafiya-iqg05q03n02"
+              },
+              "code": {
+                "id": "IQG05Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q03N03",
+              "name": {
+                "local": "مركز الحمزة",
+                "en": "Markaz Al-Hamza",
+                "slug": "markaz-al-hamza-iqg05q03n03"
+              },
+              "code": {
+                "id": "IQG05Q03N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG05Q04",
+          "name": {
+            "local": "الشامية",
+            "en": "Al-Shamiya",
+            "slug": "al-shamiya-iqg05q04"
+          },
+          "code": {
+            "id": "IQG05Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG05Q04N01",
+              "name": {
+                "local": "المهناوية",
+                "en": "Al-Mihanawiya",
+                "slug": "al-mihanawiya-iqg05q04n01"
+              },
+              "code": {
+                "id": "IQG05Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG05Q04N02",
+              "name": {
+                "local": "غماس",
+                "en": "Ghammas",
+                "slug": "ghammas-iqg05q04n02"
+              },
+              "code": {
+                "id": "IQG05Q04N02",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG06",
+      "name": {
+        "local": "السليمانية",
+        "en": "Al-Sulaymaniyah",
+        "slug": "al-sulaymaniyah-iqg06"
+      },
+      "code": {
+        "id": "IQG06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG06Q01",
+          "name": {
+            "local": "السليمانية",
+            "en": "Al-Sulaymaniyah",
+            "slug": "al-sulaymaniyah-iqg06q01"
+          },
+          "code": {
+            "id": "IQG06Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q01N01",
+              "name": {
+                "local": "بازيان",
+                "en": "Bazian",
+                "slug": "bazian-iqg06q01n01"
+              },
+              "code": {
+                "id": "IQG06Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q01N02",
+              "name": {
+                "local": "قره داغ",
+                "en": "Qaradagh",
+                "slug": "qaradagh-iqg06q01n02"
+              },
+              "code": {
+                "id": "IQG06Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q01N03",
+              "name": {
+                "local": "سرجنار",
+                "en": "Sarchnar",
+                "slug": "sarchnar-iqg06q01n03"
+              },
+              "code": {
+                "id": "IQG06Q01N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q02",
+          "name": {
+            "local": "جمجمال",
+            "en": "Chamchamal",
+            "slug": "chamchamal-iqg06q02"
+          },
+          "code": {
+            "id": "IQG06Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q02N01",
+              "name": {
+                "local": "ئاغجة لةر",
+                "en": "Agjalare",
+                "slug": "agjalare-iqg06q02n01"
+              },
+              "code": {
+                "id": "IQG06Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q02N04",
+              "name": {
+                "local": "سنكاو",
+                "en": "Cenkaw",
+                "slug": "cenkaw-iqg06q02n04"
+              },
+              "code": {
+                "id": "IQG06Q02N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q02N03",
+              "name": {
+                "local": "قادر كرم",
+                "en": "Kadr Karam",
+                "slug": "kadr-karam-iqg06q02n03"
+              },
+              "code": {
+                "id": "IQG06Q02N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q02N02",
+              "name": {
+                "local": "مركز جمجمال",
+                "en": "Markaz Chamchamal",
+                "slug": "markaz-chamchamal-iqg06q02n02"
+              },
+              "code": {
+                "id": "IQG06Q02N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q03",
+          "name": {
+            "local": "دربندخان",
+            "en": "Derbendikhan",
+            "slug": "derbendikhan-iqg06q03"
+          },
+          "code": {
+            "id": "IQG06Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q03N01",
+              "name": {
+                "local": "مركز دربندخان",
+                "en": "Markaz Derbendikhan",
+                "slug": "markaz-derbendikhan-iqg06q03n01"
+              },
+              "code": {
+                "id": "IQG06Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q04",
+          "name": {
+            "local": "دوكان",
+            "en": "Dokan",
+            "slug": "dokan-iqg06q04"
+          },
+          "code": {
+            "id": "IQG06Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q04N01",
+              "name": {
+                "local": "جنارين",
+                "en": "Gnareen",
+                "slug": "gnareen-iqg06q04n01"
+              },
+              "code": {
+                "id": "IQG06Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q04N02",
+              "name": {
+                "local": "سورداش",
+                "en": "Sourdash",
+                "slug": "sourdash-iqg06q04n02"
+              },
+              "code": {
+                "id": "IQG06Q04N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q05",
+          "name": {
+            "local": "حلبجة",
+            "en": "Halabcha",
+            "slug": "halabcha-iqg06q05"
+          },
+          "code": {
+            "id": "IQG06Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q05N01",
+              "name": {
+                "local": "بيارة",
+                "en": "Beyara",
+                "slug": "beyara-iqg06q05n01"
+              },
+              "code": {
+                "id": "IQG06Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q05N02",
+              "name": {
+                "local": "خورمال",
+                "en": "Khourmal",
+                "slug": "khourmal-iqg06q05n02"
+              },
+              "code": {
+                "id": "IQG06Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q05N03",
+              "name": {
+                "local": "مركز حلبجة",
+                "en": "Markaz Halabja",
+                "slug": "markaz-halabja-iqg06q05n03"
+              },
+              "code": {
+                "id": "IQG06Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q05N04",
+              "name": {
+                "local": "شهرزور",
+                "en": "Shahrazur",
+                "slug": "shahrazur-iqg06q05n04"
+              },
+              "code": {
+                "id": "IQG06Q05N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q06",
+          "name": {
+            "local": "كلار",
+            "en": "Kalar",
+            "slug": "kalar-iqg06q06"
+          },
+          "code": {
+            "id": "IQG06Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q06N02",
+              "name": {
+                "local": "بيباز",
+                "en": "Bebaz",
+                "slug": "bebaz-iqg06q06n02"
+              },
+              "code": {
+                "id": "IQG06Q06N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q06N01",
+              "name": {
+                "local": "مركز كلار",
+                "en": "Markaz Kalar",
+                "slug": "markaz-kalar-iqg06q06n01"
+              },
+              "code": {
+                "id": "IQG06Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q06N03",
+              "name": {
+                "local": "تيلاكو",
+                "en": "Tilako",
+                "slug": "tilako-iqg06q06n03"
+              },
+              "code": {
+                "id": "IQG06Q06N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q07",
+          "name": {
+            "local": "بنجوين",
+            "en": "Panjwin",
+            "slug": "panjwin-iqg06q07"
+          },
+          "code": {
+            "id": "IQG06Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q07N01",
+              "name": {
+                "local": "كرمك",
+                "en": "Karmak",
+                "slug": "karmak-iqg06q07n01"
+              },
+              "code": {
+                "id": "IQG06Q07N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q07N02",
+              "name": {
+                "local": "مركز بنجوين",
+                "en": "Markaz Panjwin",
+                "slug": "markaz-panjwin-iqg06q07n02"
+              },
+              "code": {
+                "id": "IQG06Q07N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q08",
+          "name": {
+            "local": "بشدر",
+            "en": "Pshdar",
+            "slug": "pshdar-iqg06q08"
+          },
+          "code": {
+            "id": "IQG06Q08",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q08N01",
+              "name": {
+                "local": "هيرو",
+                "en": "Hero",
+                "slug": "hero-iqg06q08n01"
+              },
+              "code": {
+                "id": "IQG06Q08N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q08N03",
+              "name": {
+                "local": "مركز بشدر",
+                "en": "Markaz Pshdar",
+                "slug": "markaz-pshdar-iqg06q08n03"
+              },
+              "code": {
+                "id": "IQG06Q08N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q08N02",
+              "name": {
+                "local": "ناودشت",
+                "en": "Nawdasht",
+                "slug": "nawdasht-iqg06q08n02"
+              },
+              "code": {
+                "id": "IQG06Q08N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q09",
+          "name": {
+            "local": "رانية",
+            "en": "Rania",
+            "slug": "rania-iqg06q09"
+          },
+          "code": {
+            "id": "IQG06Q09",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q09N03",
+              "name": {
+                "local": "بتوانه",
+                "en": "Bitwana",
+                "slug": "bitwana-iqg06q09n03"
+              },
+              "code": {
+                "id": "IQG06Q09N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q09N02",
+              "name": {
+                "local": "مركز رانية",
+                "en": "Markaz Rania",
+                "slug": "markaz-rania-iqg06q09n02"
+              },
+              "code": {
+                "id": "IQG06Q09N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q09N01",
+              "name": {
+                "local": "ميركه",
+                "en": "Mirka",
+                "slug": "mirka-iqg06q09n01"
+              },
+              "code": {
+                "id": "IQG06Q09N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG06Q10",
+          "name": {
+            "local": "شهربازار",
+            "en": "Sharbazher",
+            "slug": "sharbazher-iqg06q10"
+          },
+          "code": {
+            "id": "IQG06Q10",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG06Q10N02",
+              "name": {
+                "local": "مركز شهربازار",
+                "en": "Markaz Sharbazher",
+                "slug": "markaz-sharbazher-iqg06q10n02"
+              },
+              "code": {
+                "id": "IQG06Q10N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q10N04",
+              "name": {
+                "local": "ماوت",
+                "en": "Mawat",
+                "slug": "mawat-iqg06q10n04"
+              },
+              "code": {
+                "id": "IQG06Q10N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q10N01",
+              "name": {
+                "local": "سروجك",
+                "en": "Saruchik",
+                "slug": "saruchik-iqg06q10n01"
+              },
+              "code": {
+                "id": "IQG06Q10N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG06Q10N03",
+              "name": {
+                "local": "سويل",
+                "en": "Siwail",
+                "slug": "siwail-iqg06q10n03"
+              },
+              "code": {
+                "id": "IQG06Q10N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG07",
+      "name": {
+        "local": "بابل",
+        "en": "Babil",
+        "slug": "babil-iqg07"
+      },
+      "code": {
+        "id": "IQG07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG07Q01",
+          "name": {
+            "local": "الهاشمية",
+            "en": "Al-Hashimiya",
+            "slug": "al-hashimiya-iqg07q01"
+          },
+          "code": {
+            "id": "IQG07Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG07Q01N03",
+              "name": {
+                "local": "المدحتية",
+                "en": "Al-Madhatiya",
+                "slug": "al-madhatiya-iqg07q01n03"
+              },
+              "code": {
+                "id": "IQG07Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q01N01",
+              "name": {
+                "local": "القاسم",
+                "en": "Al-Qasim",
+                "slug": "al-qasim-iqg07q01n01"
+              },
+              "code": {
+                "id": "IQG07Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q01N02",
+              "name": {
+                "local": "الشوملي",
+                "en": "Al-Shomaly",
+                "slug": "al-shomaly-iqg07q01n02"
+              },
+              "code": {
+                "id": "IQG07Q01N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG07Q02",
+          "name": {
+            "local": "الحلة",
+            "en": "Al-Hilla",
+            "slug": "al-hilla-iqg07q02"
+          },
+          "code": {
+            "id": "IQG07Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG07Q02N02",
+              "name": {
+                "local": "ابي غرق",
+                "en": "Abi Gharaq",
+                "slug": "abi-gharaq-iqg07q02n02"
+              },
+              "code": {
+                "id": "IQG07Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q02N01",
+              "name": {
+                "local": "الكفل",
+                "en": "Al-Kifil",
+                "slug": "al-kifil-iqg07q02n01"
+              },
+              "code": {
+                "id": "IQG07Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q02N03",
+              "name": {
+                "local": "مركز الحلة",
+                "en": "Markaz Al-Hilla",
+                "slug": "markaz-al-hilla-iqg07q02n03"
+              },
+              "code": {
+                "id": "IQG07Q02N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG07Q03",
+          "name": {
+            "local": "المحاويل",
+            "en": "Al-Mahaweel",
+            "slug": "al-mahaweel-iqg07q03"
+          },
+          "code": {
+            "id": "IQG07Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG07Q03N02",
+              "name": {
+                "local": "الامام",
+                "en": "Al-Emam",
+                "slug": "al-emam-iqg07q03n02"
+              },
+              "code": {
+                "id": "IQG07Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q03N03",
+              "name": {
+                "local": "المشروع",
+                "en": "Al-Mashroo",
+                "slug": "al-mashroo-iqg07q03n03"
+              },
+              "code": {
+                "id": "IQG07Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q03N01",
+              "name": {
+                "local": "مركز المحاويل",
+                "en": "Markaz Al-Mahawil",
+                "slug": "markaz-al-mahawil-iqg07q03n01"
+              },
+              "code": {
+                "id": "IQG07Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG07Q04",
+          "name": {
+            "local": "المسيب",
+            "en": "Al-Mussyab",
+            "slug": "al-mussyab-iqg07q04"
+          },
+          "code": {
+            "id": "IQG07Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG07Q04N02",
+              "name": {
+                "local": "الاسكندرية",
+                "en": "Al-Iskandaria",
+                "slug": "al-iskandaria-iqg07q04n02"
+              },
+              "code": {
+                "id": "IQG07Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG07Q04N01",
+              "name": {
+                "local": "جرف الصخر",
+                "en": "Jurf Al-Sakhar",
+                "slug": "jurf-al-sakhar-iqg07q04n01"
+              },
+              "code": {
+                "id": "IQG07Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG08",
+      "name": {
+        "local": "بغداد",
+        "en": "Baghdad",
+        "slug": "baghdad-iqg08"
+      },
+      "code": {
+        "id": "IQG08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG08Q01",
+          "name": {
+            "local": "الاعظمية",
+            "en": "Al-Adhamiya",
+            "slug": "al-adhamiya-iqg08q01"
+          },
+          "code": {
+            "id": "IQG08Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q01N02",
+              "name": {
+                "local": "الفحامة",
+                "en": "Al-Fahama",
+                "slug": "al-fahama-iqg08q01n02"
+              },
+              "code": {
+                "id": "IQG08Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q01N03",
+              "name": {
+                "local": "الراشدية",
+                "en": "Al-Rashdia",
+                "slug": "al-rashdia-iqg08q01n03"
+              },
+              "code": {
+                "id": "IQG08Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q01N01",
+              "name": {
+                "local": "مركز الاعظمية",
+                "en": "Markaz Al-Adhamiya",
+                "slug": "markaz-al-adhamiya-iqg08q01n01"
+              },
+              "code": {
+                "id": "IQG08Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q02",
+          "name": {
+            "local": "الكاظمية",
+            "en": "Al-Kadhmiyah",
+            "slug": "al-kadhmiyah-iqg08q02"
+          },
+          "code": {
+            "id": "IQG08Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q02N02",
+              "name": {
+                "local": "ابي غريب",
+                "en": "Abu Ghraib",
+                "slug": "abu-ghraib-iqg08q02n02"
+              },
+              "code": {
+                "id": "IQG08Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q02N05",
+              "name": {
+                "local": "التاجي",
+                "en": "Al-Taji",
+                "slug": "al-taji-iqg08q02n05"
+              },
+              "code": {
+                "id": "IQG08Q02N05",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q02N04",
+              "name": {
+                "local": "الطارمية",
+                "en": "Al-Tarmiya",
+                "slug": "al-tarmiya-iqg08q02n04"
+              },
+              "code": {
+                "id": "IQG08Q02N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q02N01",
+              "name": {
+                "local": "مركز الكاظمية",
+                "en": "Markaz Al-Kadhimiya",
+                "slug": "markaz-al-kadhimiya-iqg08q02n01"
+              },
+              "code": {
+                "id": "IQG08Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q02N03",
+              "name": {
+                "local": "ذات السلاسل",
+                "en": "That al Salasil",
+                "slug": "that-al-salasil-iqg08q02n03"
+              },
+              "code": {
+                "id": "IQG08Q02N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q03",
+          "name": {
+            "local": "الكرخ",
+            "en": "Al-Karkh",
+            "slug": "al-karkh-iqg08q03"
+          },
+          "code": {
+            "id": "IQG08Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q03N01",
+              "name": {
+                "local": "المأمون",
+                "en": "Al-Mamoon",
+                "slug": "al-mamoon-iqg08q03n01"
+              },
+              "code": {
+                "id": "IQG08Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q03N03",
+              "name": {
+                "local": "المنصور",
+                "en": "Al-Mansour",
+                "slug": "al-mansour-iqg08q03n03"
+              },
+              "code": {
+                "id": "IQG08Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q03N02",
+              "name": {
+                "local": "مركز الكرخ",
+                "en": "Markaz Al-Karkh",
+                "slug": "markaz-al-karkh-iqg08q03n02"
+              },
+              "code": {
+                "id": "IQG08Q03N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q04",
+          "name": {
+            "local": "المدائن",
+            "en": "Al-Mada'in",
+            "slug": "al-madain-iqg08q04"
+          },
+          "code": {
+            "id": "IQG08Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q04N02",
+              "name": {
+                "local": "الجسر",
+                "en": "Al-Jisr",
+                "slug": "al-jisr-iqg08q04n02"
+              },
+              "code": {
+                "id": "IQG08Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q04N03",
+              "name": {
+                "local": "الوحدة",
+                "en": "Al-Wihda",
+                "slug": "al-wihda-iqg08q04n03"
+              },
+              "code": {
+                "id": "IQG08Q04N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q04N01",
+              "name": {
+                "local": "مركز المدائن",
+                "en": "Markaz Al-Mada'in",
+                "slug": "markaz-al-madain-iqg08q04n01"
+              },
+              "code": {
+                "id": "IQG08Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q05",
+          "name": {
+            "local": "المحمودية",
+            "en": "Al-Mahmoudiya",
+            "slug": "al-mahmoudiya-iqg08q05"
+          },
+          "code": {
+            "id": "IQG08Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q05N03",
+              "name": {
+                "local": "اللطيفية",
+                "en": "Al-Latifya",
+                "slug": "al-latifya-iqg08q05n03"
+              },
+              "code": {
+                "id": "IQG08Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q05N02",
+              "name": {
+                "local": "الرشيد",
+                "en": "Al-Rasheed",
+                "slug": "al-rasheed-iqg08q05n02"
+              },
+              "code": {
+                "id": "IQG08Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q05N04",
+              "name": {
+                "local": "اليوسفية",
+                "en": "Al-Yousifya",
+                "slug": "al-yousifya-iqg08q05n04"
+              },
+              "code": {
+                "id": "IQG08Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q05N01",
+              "name": {
+                "local": "مركز المحمودية",
+                "en": "Markaz Al-Mahmoudiya",
+                "slug": "markaz-al-mahmoudiya-iqg08q05n01"
+              },
+              "code": {
+                "id": "IQG08Q05N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q06",
+          "name": {
+            "local": "الرصافة",
+            "en": "Al-Risafa",
+            "slug": "al-risafa-iqg08q06"
+          },
+          "code": {
+            "id": "IQG08Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q06N01",
+              "name": {
+                "local": "الكرادة الشرقية",
+                "en": "Al-Karrada Al-Sharqia",
+                "slug": "al-karrada-al-sharqia-iqg08q06n01"
+              },
+              "code": {
+                "id": "IQG08Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG08Q06N02",
+              "name": {
+                "local": "بغداد الجديدة",
+                "en": "Baghdad Al-Jedeeda",
+                "slug": "baghdad-al-jedeeda-iqg08q06n02"
+              },
+              "code": {
+                "id": "IQG08Q06N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG08Q07",
+          "name": {
+            "local": "الثورة",
+            "en": "Al-Thawra",
+            "slug": "al-thawra-iqg08q07"
+          },
+          "code": {
+            "id": "IQG08Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG08Q07N01",
+              "name": {
+                "local": "مركز الثورة",
+                "en": "Markaz Al-Thawra",
+                "slug": "markaz-al-thawra-iqg08q07n01"
+              },
+              "code": {
+                "id": "IQG08Q07N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG10",
+      "name": {
+        "local": "ديالى",
+        "en": "Diyala",
+        "slug": "diyala-iqg10"
+      },
+      "code": {
+        "id": "IQG10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG10Q01",
+          "name": {
+            "local": "الخالص",
+            "en": "Al-Khalis",
+            "slug": "al-khalis-iqg10q01"
+          },
+          "code": {
+            "id": "IQG10Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q01N01",
+              "name": {
+                "local": "العظيم",
+                "en": "Al-Atheem",
+                "slug": "al-atheem-iqg10q01n01"
+              },
+              "code": {
+                "id": "IQG10Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q01N02",
+              "name": {
+                "local": "المنصورية",
+                "en": "Al-Mansouriyah",
+                "slug": "al-mansouriyah-iqg10q01n02"
+              },
+              "code": {
+                "id": "IQG10Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q01N03",
+              "name": {
+                "local": "هبهب",
+                "en": "Hibhib",
+                "slug": "hibhib-iqg10q01n03"
+              },
+              "code": {
+                "id": "IQG10Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q01N04",
+              "name": {
+                "local": "مركز الخالص",
+                "en": "Markaz Al-Khalis",
+                "slug": "markaz-al-khalis-iqg10q01n04"
+              },
+              "code": {
+                "id": "IQG10Q01N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q01N05",
+              "name": {
+                "local": "قلعة انصاب",
+                "en": "Qalaa't Ansab",
+                "slug": "qalaat-ansab-iqg10q01n05"
+              },
+              "code": {
+                "id": "IQG10Q01N05",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG10Q02",
+          "name": {
+            "local": "المقدادية",
+            "en": "Al-Muqdadiya",
+            "slug": "al-muqdadiya-iqg10q02"
+          },
+          "code": {
+            "id": "IQG10Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q02N01",
+              "name": {
+                "local": "الوجيهية",
+                "en": "Al-Wajihia",
+                "slug": "al-wajihia-iqg10q02n01"
+              },
+              "code": {
+                "id": "IQG10Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q02N02",
+              "name": {
+                "local": "مركز المقدادية",
+                "en": "Markaz Al-Muqdadiya",
+                "slug": "markaz-al-muqdadiya-iqg10q02n02"
+              },
+              "code": {
+                "id": "IQG10Q02N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG10Q03",
+          "name": {
+            "local": "مندلي",
+            "en": "Baladruz",
+            "slug": "baladruz-iqg10q03"
+          },
+          "code": {
+            "id": "IQG10Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q03N01",
+              "name": {
+                "local": "مندلي",
+                "en": "Mandali",
+                "slug": "mandali-iqg10q03n01"
+              },
+              "code": {
+                "id": "IQG10Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q03N02",
+              "name": {
+                "local": "مركز بلدروز",
+                "en": "Markaz Baladruz",
+                "slug": "markaz-baladruz-iqg10q03n02"
+              },
+              "code": {
+                "id": "IQG10Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q03N03",
+              "name": {
+                "local": "قزانية",
+                "en": "Qazanya",
+                "slug": "qazanya-iqg10q03n03"
+              },
+              "code": {
+                "id": "IQG10Q03N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG10Q04",
+          "name": {
+            "local": "بعقوبة",
+            "en": "Baquba",
+            "slug": "baquba-iqg10q04"
+          },
+          "code": {
+            "id": "IQG10Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q04N02",
+              "name": {
+                "local": "بني سعد",
+                "en": "Beni Saad",
+                "slug": "beni-saad-iqg10q04n02"
+              },
+              "code": {
+                "id": "IQG10Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q04N01",
+              "name": {
+                "local": "بهرز",
+                "en": "Buhriz",
+                "slug": "buhriz-iqg10q04n01"
+              },
+              "code": {
+                "id": "IQG10Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q04N03",
+              "name": {
+                "local": "كنعان",
+                "en": "Kanan",
+                "slug": "kanan-iqg10q04n03"
+              },
+              "code": {
+                "id": "IQG10Q04N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG10Q05",
+          "name": {
+            "local": "خانقين",
+            "en": "Khanaqin",
+            "slug": "khanaqin-iqg10q05"
+          },
+          "code": {
+            "id": "IQG10Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q05N01",
+              "name": {
+                "local": "السعدية",
+                "en": "Al-Saadiya",
+                "slug": "al-saadiya-iqg10q05n01"
+              },
+              "code": {
+                "id": "IQG10Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q05N04",
+              "name": {
+                "local": "جلولاء",
+                "en": "Jalawla",
+                "slug": "jalawla-iqg10q05n04"
+              },
+              "code": {
+                "id": "IQG10Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q05N02",
+              "name": {
+                "local": "مركز خانقين",
+                "en": "Markaz Khanaqin",
+                "slug": "markaz-khanaqin-iqg10q05n02"
+              },
+              "code": {
+                "id": "IQG10Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q05N03",
+              "name": {
+                "local": "ميدان",
+                "en": "Midan",
+                "slug": "midan-iqg10q05n03"
+              },
+              "code": {
+                "id": "IQG10Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q05N05",
+              "name": {
+                "local": "قرة تو",
+                "en": "Qaratu",
+                "slug": "qaratu-iqg10q05n05"
+              },
+              "code": {
+                "id": "IQG10Q05N05",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG10Q06",
+          "name": {
+            "local": "كفري",
+            "en": "Kifri",
+            "slug": "kifri-iqg10q06"
+          },
+          "code": {
+            "id": "IQG10Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG10Q06N01",
+              "name": {
+                "local": "جبارة",
+                "en": "Jabarra",
+                "slug": "jabarra-iqg10q06n01"
+              },
+              "code": {
+                "id": "IQG10Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q06N02",
+              "name": {
+                "local": "مركز كفري",
+                "en": "Markaz Kifri",
+                "slug": "markaz-kifri-iqg10q06n02"
+              },
+              "code": {
+                "id": "IQG10Q06N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG10Q06N03",
+              "name": {
+                "local": "قرة تبة",
+                "en": "Qara Tabe",
+                "slug": "qara-tabe-iqg10q06n03"
+              },
+              "code": {
+                "id": "IQG10Q06N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG09",
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09"
+      },
+      "code": {
+        "id": "IQG09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG09Q01",
+          "name": {
+            "local": "العمادية",
+            "en": "Al-Amadiya",
+            "slug": "al-amadiya-iqg09q01"
+          },
+          "code": {
+            "id": "IQG09Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG09Q01N01",
+              "name": {
+                "local": "برواري بالا",
+                "en": "Barwari Bala",
+                "slug": "barwari-bala-iqg09q01n01"
+              },
+              "code": {
+                "id": "IQG09Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q01N02",
+              "name": {
+                "local": "مركز العمادية",
+                "en": "Markaz Al-Amadiya",
+                "slug": "markaz-al-amadiya-iqg09q01n02"
+              },
+              "code": {
+                "id": "IQG09Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q01N03",
+              "name": {
+                "local": "نروة ريكان",
+                "en": "Nerwa Rekan",
+                "slug": "nerwa-rekan-iqg09q01n03"
+              },
+              "code": {
+                "id": "IQG09Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q01N04",
+              "name": {
+                "local": "سرسنك",
+                "en": "Sarsank",
+                "slug": "sarsank-iqg09q01n04"
+              },
+              "code": {
+                "id": "IQG09Q01N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG09Q02",
+          "name": {
+            "local": "دهوك",
+            "en": "Duhok",
+            "slug": "duhok-iqg09q02"
+          },
+          "code": {
+            "id": "IQG09Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG09Q02N01",
+              "name": {
+                "local": "الدوسكي",
+                "en": "Al-Duski",
+                "slug": "al-duski-iqg09q02n01"
+              },
+              "code": {
+                "id": "IQG09Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q02N02",
+              "name": {
+                "local": "مركز دهوك",
+                "en": "Markaz Duhok",
+                "slug": "markaz-duhok-iqg09q02n02"
+              },
+              "code": {
+                "id": "IQG09Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q02N03",
+              "name": {
+                "local": "زاويتة",
+                "en": "Zawita",
+                "slug": "zawita-iqg09q02n03"
+              },
+              "code": {
+                "id": "IQG09Q02N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG09Q03",
+          "name": {
+            "local": "سميل",
+            "en": "Sumail",
+            "slug": "sumail-iqg09q03"
+          },
+          "code": {
+            "id": "IQG09Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG09Q03N01",
+              "name": {
+                "local": "باتيل",
+                "en": "Bateel",
+                "slug": "bateel-iqg09q03n01"
+              },
+              "code": {
+                "id": "IQG09Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q03N02",
+              "name": {
+                "local": "فايدة",
+                "en": "Fayde",
+                "slug": "fayde-iqg09q03n02"
+              },
+              "code": {
+                "id": "IQG09Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q03N03",
+              "name": {
+                "local": "مركز سميل",
+                "en": "Markaz Sumail",
+                "slug": "markaz-sumail-iqg09q03n03"
+              },
+              "code": {
+                "id": "IQG09Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q03N04",
+              "name": {
+                "local": "سندي",
+                "en": "Sindi",
+                "slug": "sindi-iqg09q03n04"
+              },
+              "code": {
+                "id": "IQG09Q03N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG09Q04",
+          "name": {
+            "local": "زاخو",
+            "en": "Zakho",
+            "slug": "zakho-iqg09q04"
+          },
+          "code": {
+            "id": "IQG09Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG09Q04N02",
+              "name": {
+                "local": "باتيفا",
+                "en": "Batifa",
+                "slug": "batifa-iqg09q04n02"
+              },
+              "code": {
+                "id": "IQG09Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q04N03",
+              "name": {
+                "local": "دركار",
+                "en": "Dercar",
+                "slug": "dercar-iqg09q04n03"
+              },
+              "code": {
+                "id": "IQG09Q04N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG09Q04N01",
+              "name": {
+                "local": "مركز زاخو",
+                "en": "Markaz Zakho",
+                "slug": "markaz-zakho-iqg09q04n01"
+              },
+              "code": {
+                "id": "IQG09Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG11",
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      },
+      "code": {
+        "id": "IQG11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG11Q01",
+          "name": {
+            "local": "الزيبار",
+            "en": "Al-Zibar",
+            "slug": "al-zibar-iqg11q01"
+          },
+          "code": {
+            "id": "IQG11Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q01N01",
+              "name": {
+                "local": "بارزان",
+                "en": "Barzan",
+                "slug": "barzan-iqg11q01n01"
+              },
+              "code": {
+                "id": "IQG11Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q01N02",
+              "name": {
+                "local": "مزوري بالا",
+                "en": "Mazouri Bala",
+                "slug": "mazouri-bala-iqg11q01n02"
+              },
+              "code": {
+                "id": "IQG11Q01N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG11Q02",
+          "name": {
+            "local": "اربيل",
+            "en": "Erbil",
+            "slug": "erbil-iqg11q02"
+          },
+          "code": {
+            "id": "IQG11Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q02N02",
+              "name": {
+                "local": "مركز اربيل",
+                "en": "Markaz Erbil",
+                "slug": "markaz-erbil-iqg11q02n02"
+              },
+              "code": {
+                "id": "IQG11Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q02N01",
+              "name": {
+                "local": "قوش تبه",
+                "en": "Qushtappa",
+                "slug": "qushtappa-iqg11q02n01"
+              },
+              "code": {
+                "id": "IQG11Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG11Q03",
+          "name": {
+            "local": "كويسنجق",
+            "en": "Koysinjaq",
+            "slug": "koysinjaq-iqg11q03"
+          },
+          "code": {
+            "id": "IQG11Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q03N03",
+              "name": {
+                "local": "مركز كويسنجق",
+                "en": "Markaz Koysinjaq",
+                "slug": "markaz-koysinjaq-iqg11q03n03"
+              },
+              "code": {
+                "id": "IQG11Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q03N02",
+              "name": {
+                "local": "سورش",
+                "en": "Shorsh",
+                "slug": "shorsh-iqg11q03n02"
+              },
+              "code": {
+                "id": "IQG11Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q03N01",
+              "name": {
+                "local": "طق طق",
+                "en": "Taq Taq",
+                "slug": "taq-taq-iqg11q03n01"
+              },
+              "code": {
+                "id": "IQG11Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG11Q04",
+          "name": {
+            "local": "مخمور",
+            "en": "Makhmour",
+            "slug": "makhmour-iqg11q04"
+          },
+          "code": {
+            "id": "IQG11Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q04N03",
+              "name": {
+                "local": "ديبكة",
+                "en": "Dibaga",
+                "slug": "dibaga-iqg11q04n03"
+              },
+              "code": {
+                "id": "IQG11Q04N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q04N04",
+              "name": {
+                "local": "الكوير",
+                "en": "Gwyer",
+                "slug": "gwyer-iqg11q04n04"
+              },
+              "code": {
+                "id": "IQG11Q04N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q04N02",
+              "name": {
+                "local": "مركز مخمور",
+                "en": "Markaz Makhmour",
+                "slug": "markaz-makhmour-iqg11q04n02"
+              },
+              "code": {
+                "id": "IQG11Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q04N01",
+              "name": {
+                "local": "القرج",
+                "en": "Qaraj",
+                "slug": "qaraj-iqg11q04n01"
+              },
+              "code": {
+                "id": "IQG11Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG11Q05",
+          "name": {
+            "local": "راوندوز",
+            "en": "Rawanduz",
+            "slug": "rawanduz-iqg11q05"
+          },
+          "code": {
+            "id": "IQG11Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q05N03",
+              "name": {
+                "local": "بالك",
+                "en": "Balak",
+                "slug": "balak-iqg11q05n03"
+              },
+              "code": {
+                "id": "IQG11Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N06",
+              "name": {
+                "local": "برادوست",
+                "en": "Bradost",
+                "slug": "bradost-iqg11q05n06"
+              },
+              "code": {
+                "id": "IQG11Q05N06",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N02",
+              "name": {
+                "local": "ديانا",
+                "en": "Diana",
+                "slug": "diana-iqg11q05n02"
+              },
+              "code": {
+                "id": "IQG11Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N07",
+              "name": {
+                "local": "الحج عمران",
+                "en": "Haji Omaran",
+                "slug": "haji-omaran-iqg11q05n07"
+              },
+              "code": {
+                "id": "IQG11Q05N07",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N04",
+              "name": {
+                "local": "خليفان",
+                "en": "Khailfan",
+                "slug": "khailfan-iqg11q05n04"
+              },
+              "code": {
+                "id": "IQG11Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N01",
+              "name": {
+                "local": "مركز راوندوز",
+                "en": "Markaz Rawanduz",
+                "slug": "markaz-rawanduz-iqg11q05n01"
+              },
+              "code": {
+                "id": "IQG11Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q05N05",
+              "name": {
+                "local": "ميركة سور",
+                "en": "Mergasur",
+                "slug": "mergasur-iqg11q05n05"
+              },
+              "code": {
+                "id": "IQG11Q05N05",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG11Q06",
+          "name": {
+            "local": "شقلاوة",
+            "en": "Shaqlawa",
+            "slug": "shaqlawa-iqg11q06"
+          },
+          "code": {
+            "id": "IQG11Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG11Q06N03",
+              "name": {
+                "local": "ديرة حرير",
+                "en": "Harir",
+                "slug": "harir-iqg11q06n03"
+              },
+              "code": {
+                "id": "IQG11Q06N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q06N01",
+              "name": {
+                "local": "خوشناو",
+                "en": "Khoshnaw",
+                "slug": "khoshnaw-iqg11q06n01"
+              },
+              "code": {
+                "id": "IQG11Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG11Q06N02",
+              "name": {
+                "local": "صلاح الدين",
+                "en": "Salah Al-Din",
+                "slug": "salah-al-din-iqg11q06n02"
+              },
+              "code": {
+                "id": "IQG11Q06N02",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG12",
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbala",
+        "slug": "kerbala-iqg12"
+      },
+      "code": {
+        "id": "IQG12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG12Q01",
+          "name": {
+            "local": "عين التمر",
+            "en": "Ain Al-Tamur",
+            "slug": "ain-al-tamur-iqg12q01"
+          },
+          "code": {
+            "id": "IQG12Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG12Q01N01",
+              "name": {
+                "local": "مركز عين التمر",
+                "en": "Markaz Ain Al-Tamur",
+                "slug": "markaz-ain-al-tamur-iqg12q01n01"
+              },
+              "code": {
+                "id": "IQG12Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG12Q02",
+          "name": {
+            "local": "الهندية",
+            "en": "Al-Hindiya",
+            "slug": "al-hindiya-iqg12q02"
+          },
+          "code": {
+            "id": "IQG12Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG12Q02N01",
+              "name": {
+                "local": "الجدول الغربي",
+                "en": "Al-Jadwal Al-Ghrabi",
+                "slug": "al-jadwal-al-ghrabi-iqg12q02n01"
+              },
+              "code": {
+                "id": "IQG12Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG12Q02N02",
+              "name": {
+                "local": "مركز الهندية",
+                "en": "Markaz Al-Hindiya",
+                "slug": "markaz-al-hindiya-iqg12q02n02"
+              },
+              "code": {
+                "id": "IQG12Q02N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG12Q03",
+          "name": {
+            "local": "كربلاء",
+            "en": "Kerbela",
+            "slug": "kerbela-iqg12q03"
+          },
+          "code": {
+            "id": "IQG12Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG12Q03N02",
+              "name": {
+                "local": "الحسينية",
+                "en": "Al-Hassainya",
+                "slug": "al-hassainya-iqg12q03n02"
+              },
+              "code": {
+                "id": "IQG12Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG12Q03N01",
+              "name": {
+                "local": "مركز كربلاء",
+                "en": "Markaz Kerbela",
+                "slug": "markaz-kerbela-iqg12q03n01"
+              },
+              "code": {
+                "id": "IQG12Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG13",
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      },
+      "code": {
+        "id": "IQG13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG13Q01",
+          "name": {
+            "local": "الحويجة",
+            "en": "Al-Hawiga",
+            "slug": "al-hawiga-iqg13q01"
+          },
+          "code": {
+            "id": "IQG13Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG13Q01N04",
+              "name": {
+                "local": "العباسية",
+                "en": "Al-Abbasi",
+                "slug": "al-abbasi-iqg13q01n04"
+              },
+              "code": {
+                "id": "IQG13Q01N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q01N03",
+              "name": {
+                "local": "الرياض",
+                "en": "Al-Riyadh",
+                "slug": "al-riyadh-iqg13q01n03"
+              },
+              "code": {
+                "id": "IQG13Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q01N02",
+              "name": {
+                "local": "الزاب",
+                "en": "Al-Zab",
+                "slug": "al-zab-iqg13q01n02"
+              },
+              "code": {
+                "id": "IQG13Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q01N01",
+              "name": {
+                "local": "مركز الحويجة",
+                "en": "Markaz Al-Hawiga",
+                "slug": "markaz-al-hawiga-iqg13q01n01"
+              },
+              "code": {
+                "id": "IQG13Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG13Q02",
+          "name": {
+            "local": "داقوق",
+            "en": "Daquq",
+            "slug": "daquq-iqg13q02"
+          },
+          "code": {
+            "id": "IQG13Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG13Q02N01",
+              "name": {
+                "local": "الرشاد",
+                "en": "Al-Rashad",
+                "slug": "al-rashad-iqg13q02n01"
+              },
+              "code": {
+                "id": "IQG13Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q02N02",
+              "name": {
+                "local": "مركز داقوق",
+                "en": "Markaz Daquq",
+                "slug": "markaz-daquq-iqg13q02n02"
+              },
+              "code": {
+                "id": "IQG13Q02N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG13Q03",
+          "name": {
+            "local": "دبس",
+            "en": "Dibis",
+            "slug": "dibis-iqg13q03"
+          },
+          "code": {
+            "id": "IQG13Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG13Q03N03",
+              "name": {
+                "local": "التون كوبري",
+                "en": "Altun Qupri",
+                "slug": "altun-qupri-iqg13q03n03"
+              },
+              "code": {
+                "id": "IQG13Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q03N02",
+              "name": {
+                "local": "مركز الدبس",
+                "en": "Markaz Dibis",
+                "slug": "markaz-dibis-iqg13q03n02"
+              },
+              "code": {
+                "id": "IQG13Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q03N01",
+              "name": {
+                "local": "سركران",
+                "en": "Sarkran",
+                "slug": "sarkran-iqg13q03n01"
+              },
+              "code": {
+                "id": "IQG13Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG13Q04",
+          "name": {
+            "local": "كركوك",
+            "en": "Kirkuk",
+            "slug": "kirkuk-iqg13q04"
+          },
+          "code": {
+            "id": "IQG13Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG13Q04N03",
+              "name": {
+                "local": "الملتقى",
+                "en": "Al-Multaka",
+                "slug": "al-multaka-iqg13q04n03"
+              },
+              "code": {
+                "id": "IQG13Q04N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N02",
+              "name": {
+                "local": "ليلان",
+                "en": "Lilan",
+                "slug": "lilan-iqg13q04n02"
+              },
+              "code": {
+                "id": "IQG13Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N06",
+              "name": {
+                "local": "مركز كركوك",
+                "en": "Markaz Kirkuk",
+                "slug": "markaz-kirkuk-iqg13q04n06"
+              },
+              "code": {
+                "id": "IQG13Q04N06",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N07",
+              "name": {
+                "local": "قرة هنجير",
+                "en": "Qura Hanjeer",
+                "slug": "qura-hanjeer-iqg13q04n07"
+              },
+              "code": {
+                "id": "IQG13Q04N07",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N05",
+              "name": {
+                "local": "شوان",
+                "en": "Shwan",
+                "slug": "shwan-iqg13q04n05"
+              },
+              "code": {
+                "id": "IQG13Q04N05",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N01",
+              "name": {
+                "local": "تازة خورماتو",
+                "en": "Taza Khormato",
+                "slug": "taza-khormato-iqg13q04n01"
+              },
+              "code": {
+                "id": "IQG13Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG13Q04N04",
+              "name": {
+                "local": "يايجي",
+                "en": "Yaijy",
+                "slug": "yaijy-iqg13q04n04"
+              },
+              "code": {
+                "id": "IQG13Q04N04",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG14",
+      "name": {
+        "local": "ميسان",
+        "en": "Maysan",
+        "slug": "maysan-iqg14"
+      },
+      "code": {
+        "id": "IQG14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG14Q01",
+          "name": {
+            "local": "العمارة",
+            "en": "Al-Amara",
+            "slug": "al-amara-iqg14q01"
+          },
+          "code": {
+            "id": "IQG14Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q01N02",
+              "name": {
+                "local": "الطيب",
+                "en": "Al-Teeb",
+                "slug": "al-teeb-iqg14q01n02"
+              },
+              "code": {
+                "id": "IQG14Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q01N01",
+              "name": {
+                "local": "كميت",
+                "en": "Kumait",
+                "slug": "kumait-iqg14q01n01"
+              },
+              "code": {
+                "id": "IQG14Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG14Q03",
+          "name": {
+            "local": "الكحلاء",
+            "en": "Al-Kahla",
+            "slug": "al-kahla-iqg14q03"
+          },
+          "code": {
+            "id": "IQG14Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q03N02",
+              "name": {
+                "local": "المشرح",
+                "en": "Al-Msharah",
+                "slug": "al-msharah-iqg14q03n02"
+              },
+              "code": {
+                "id": "IQG14Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q03N01",
+              "name": {
+                "local": "بني هاشم",
+                "en": "Beni Hasheem",
+                "slug": "beni-hasheem-iqg14q03n01"
+              },
+              "code": {
+                "id": "IQG14Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q03N03",
+              "name": {
+                "local": "مركز الكحلاء",
+                "en": "Markaz Al-Kahla",
+                "slug": "markaz-al-kahla-iqg14q03n03"
+              },
+              "code": {
+                "id": "IQG14Q03N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG14Q04",
+          "name": {
+            "local": "الميمونة",
+            "en": "Al-Maimouna",
+            "slug": "al-maimouna-iqg14q04"
+          },
+          "code": {
+            "id": "IQG14Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q04N01",
+              "name": {
+                "local": "السلام",
+                "en": "Al-Salam",
+                "slug": "al-salam-iqg14q04n01"
+              },
+              "code": {
+                "id": "IQG14Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q04N02",
+              "name": {
+                "local": "مركز الميمونة",
+                "en": "Markaz Al-Maimouna",
+                "slug": "markaz-al-maimouna-iqg14q04n02"
+              },
+              "code": {
+                "id": "IQG14Q04N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG14Q05",
+          "name": {
+            "local": "المجر الكبير",
+            "en": "Al-Mejar Al-Kabir",
+            "slug": "al-mejar-al-kabir-iqg14q05"
+          },
+          "code": {
+            "id": "IQG14Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q05N02",
+              "name": {
+                "local": "العدل",
+                "en": "Al-Adel",
+                "slug": "al-adel-iqg14q05n02"
+              },
+              "code": {
+                "id": "IQG14Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q05N01",
+              "name": {
+                "local": "العزير",
+                "en": "Al-Aziz",
+                "slug": "al-aziz-iqg14q05n01"
+              },
+              "code": {
+                "id": "IQG14Q05N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG14Q02",
+          "name": {
+            "local": "علي الغربي",
+            "en": "Ali Al-Gharbi",
+            "slug": "ali-al-gharbi-iqg14q02"
+          },
+          "code": {
+            "id": "IQG14Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q02N02",
+              "name": {
+                "local": "علي الشرقي",
+                "en": "Ali Al-Sharki",
+                "slug": "ali-al-sharki-iqg14q02n02"
+              },
+              "code": {
+                "id": "IQG14Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG14Q02N01",
+              "name": {
+                "local": "مركز علي الغربي",
+                "en": "Markaz Ali Al-Gharbi",
+                "slug": "markaz-ali-al-gharbi-iqg14q02n01"
+              },
+              "code": {
+                "id": "IQG14Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG14Q06",
+          "name": {
+            "local": "قلعة صالح",
+            "en": "Qalat Saleh",
+            "slug": "qalat-saleh-iqg14q06"
+          },
+          "code": {
+            "id": "IQG14Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG14Q06N01",
+              "name": {
+                "local": "مركز قلعة صالح",
+                "en": "Markaz Qalat Saleh",
+                "slug": "markaz-qalat-saleh-iqg14q06n01"
+              },
+              "code": {
+                "id": "IQG14Q06N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG15",
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      },
+      "code": {
+        "id": "IQG15",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG15Q02",
+          "name": {
+            "local": "البعاج",
+            "en": "Al-Baaj",
+            "slug": "al-baaj-iqg15q02"
+          },
+          "code": {
+            "id": "IQG15Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q02N02",
+              "name": {
+                "local": "القحطانية",
+                "en": "Al-Qahtanya",
+                "slug": "al-qahtanya-iqg15q02n02"
+              },
+              "code": {
+                "id": "IQG15Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q02N01",
+              "name": {
+                "local": "مركز البعاج",
+                "en": "Markaz Al-Baaj",
+                "slug": "markaz-al-baaj-iqg15q02n01"
+              },
+              "code": {
+                "id": "IQG15Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q03",
+          "name": {
+            "local": "الحمدانية",
+            "en": "Al-Hamdaniya",
+            "slug": "al-hamdaniya-iqg15q03"
+          },
+          "code": {
+            "id": "IQG15Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q03N02",
+              "name": {
+                "local": "برطلة",
+                "en": "Bartilla",
+                "slug": "bartilla-iqg15q03n02"
+              },
+              "code": {
+                "id": "IQG15Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q03N03",
+              "name": {
+                "local": "مركز الحمدانية",
+                "en": "Markaz Al-Hamdaniya",
+                "slug": "markaz-al-hamdaniya-iqg15q03n03"
+              },
+              "code": {
+                "id": "IQG15Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q03N01",
+              "name": {
+                "local": "نمرود",
+                "en": "Namroud",
+                "slug": "namroud-iqg15q03n01"
+              },
+              "code": {
+                "id": "IQG15Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q04",
+          "name": {
+            "local": "الحضر",
+            "en": "Al-Hatra",
+            "slug": "al-hatra-iqg15q04"
+          },
+          "code": {
+            "id": "IQG15Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q04N01",
+              "name": {
+                "local": "مركز الحضر",
+                "en": "Markaz Hatra",
+                "slug": "markaz-hatra-iqg15q04n01"
+              },
+              "code": {
+                "id": "IQG15Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q05",
+          "name": {
+            "local": "الموصل",
+            "en": "Al-Mosul",
+            "slug": "al-mosul-iqg15q05"
+          },
+          "code": {
+            "id": "IQG15Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q05N04",
+              "name": {
+                "local": "المحمداث",
+                "en": "Al-Muhamadath",
+                "slug": "al-muhamadath-iqg15q05n04"
+              },
+              "code": {
+                "id": "IQG15Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q05N01",
+              "name": {
+                "local": "القيارة",
+                "en": "Al-Qayarra",
+                "slug": "al-qayarra-iqg15q05n01"
+              },
+              "code": {
+                "id": "IQG15Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q05N03",
+              "name": {
+                "local": "بعشيقة",
+                "en": "Bashiqa",
+                "slug": "bashiqa-iqg15q05n03"
+              },
+              "code": {
+                "id": "IQG15Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q05N02",
+              "name": {
+                "local": "حمام العليل",
+                "en": "Hammam Al-Alil",
+                "slug": "hammam-al-alil-iqg15q05n02"
+              },
+              "code": {
+                "id": "IQG15Q05N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q06",
+          "name": {
+            "local": "الشيخان",
+            "en": "Al-Shikhan",
+            "slug": "al-shikhan-iqg15q06"
+          },
+          "code": {
+            "id": "IQG15Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q06N03",
+              "name": {
+                "local": "ئةتريش",
+                "en": "Atreesh",
+                "slug": "atreesh-iqg15q06n03"
+              },
+              "code": {
+                "id": "IQG15Q06N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q06N01",
+              "name": {
+                "local": "مركز الشيخان",
+                "en": "Markaz Al-Shikhan",
+                "slug": "markaz-al-shikhan-iqg15q06n01"
+              },
+              "code": {
+                "id": "IQG15Q06N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q06N02",
+              "name": {
+                "local": "قسروك",
+                "en": "Qasruk",
+                "slug": "qasruk-iqg15q06n02"
+              },
+              "code": {
+                "id": "IQG15Q06N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q01",
+          "name": {
+            "local": "عقرة",
+            "en": "Aqra",
+            "slug": "aqra-iqg15q01"
+          },
+          "code": {
+            "id": "IQG15Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q01N01",
+              "name": {
+                "local": "بردرش",
+                "en": "Bardarash",
+                "slug": "bardarash-iqg15q01n01"
+              },
+              "code": {
+                "id": "IQG15Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q01N02",
+              "name": {
+                "local": "بجيل",
+                "en": "Begeel",
+                "slug": "begeel-iqg15q01n02"
+              },
+              "code": {
+                "id": "IQG15Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q01N04",
+              "name": {
+                "local": "دينارتة",
+                "en": "Dinarta",
+                "slug": "dinarta-iqg15q01n04"
+              },
+              "code": {
+                "id": "IQG15Q01N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q01N03",
+              "name": {
+                "local": "كردسين",
+                "en": "Kurdsein",
+                "slug": "kurdsein-iqg15q01n03"
+              },
+              "code": {
+                "id": "IQG15Q01N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q01N05",
+              "name": {
+                "local": "مركز عقرة",
+                "en": "Markaz Aqra",
+                "slug": "markaz-aqra-iqg15q01n05"
+              },
+              "code": {
+                "id": "IQG15Q01N05",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q07",
+          "name": {
+            "local": "سنجار",
+            "en": "Sinjar",
+            "slug": "sinjar-iqg15q07"
+          },
+          "code": {
+            "id": "IQG15Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q07N01",
+              "name": {
+                "local": "القيروان",
+                "en": "Al-Qairawan",
+                "slug": "al-qairawan-iqg15q07n01"
+              },
+              "code": {
+                "id": "IQG15Q07N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q07N02",
+              "name": {
+                "local": "الشمال",
+                "en": "Al-Shamal",
+                "slug": "al-shamal-iqg15q07n02"
+              },
+              "code": {
+                "id": "IQG15Q07N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q07N03",
+              "name": {
+                "local": "مركز سنجار",
+                "en": "Markaz Sinjar",
+                "slug": "markaz-sinjar-iqg15q07n03"
+              },
+              "code": {
+                "id": "IQG15Q07N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q08",
+          "name": {
+            "local": "تلعفر",
+            "en": "Telafar",
+            "slug": "telafar-iqg15q08"
+          },
+          "code": {
+            "id": "IQG15Q08",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q08N02",
+              "name": {
+                "local": "العياضية",
+                "en": "Al-Ayadiya",
+                "slug": "al-ayadiya-iqg15q08n02"
+              },
+              "code": {
+                "id": "IQG15Q08N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q08N01",
+              "name": {
+                "local": "مركز تلعفر",
+                "en": "Markaz Telafar",
+                "slug": "markaz-telafar-iqg15q08n01"
+              },
+              "code": {
+                "id": "IQG15Q08N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q08N04",
+              "name": {
+                "local": "ربيعة",
+                "en": "Rabia",
+                "slug": "rabia-iqg15q08n04"
+              },
+              "code": {
+                "id": "IQG15Q08N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q08N03",
+              "name": {
+                "local": "زمار",
+                "en": "Zummar",
+                "slug": "zummar-iqg15q08n03"
+              },
+              "code": {
+                "id": "IQG15Q08N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG15Q09",
+          "name": {
+            "local": "تلكيف",
+            "en": "Tilkaef",
+            "slug": "tilkaef-iqg15q09"
+          },
+          "code": {
+            "id": "IQG15Q09",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG15Q09N02",
+              "name": {
+                "local": "القوش",
+                "en": "Al-Qosh",
+                "slug": "al-qosh-iqg15q09n02"
+              },
+              "code": {
+                "id": "IQG15Q09N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q09N01",
+              "name": {
+                "local": "مركز تلكيف",
+                "en": "Markaz Tilkaef",
+                "slug": "markaz-tilkaef-iqg15q09n01"
+              },
+              "code": {
+                "id": "IQG15Q09N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG15Q09N03",
+              "name": {
+                "local": "وانة",
+                "en": "Wana",
+                "slug": "wana-iqg15q09n03"
+              },
+              "code": {
+                "id": "IQG15Q09N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG16",
+      "name": {
+        "local": "صلاح الدين",
+        "en": "Salah Al-Din",
+        "slug": "salah-al-din-iqg16"
+      },
+      "code": {
+        "id": "IQG16",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG16Q01",
+          "name": {
+            "local": "الدور",
+            "en": "Al-Daur",
+            "slug": "al-daur-iqg16q01"
+          },
+          "code": {
+            "id": "IQG16Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q01N02",
+              "name": {
+                "local": "ابو دلف",
+                "en": "Abu Dalf",
+                "slug": "abu-dalf-iqg16q01n02"
+              },
+              "code": {
+                "id": "IQG16Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q01N01",
+              "name": {
+                "local": "حمرين",
+                "en": "Hamreen",
+                "slug": "hamreen-iqg16q01n01"
+              },
+              "code": {
+                "id": "IQG16Q01N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q02",
+          "name": {
+            "local": "الشرقاط",
+            "en": "Al-Shirqat",
+            "slug": "al-shirqat-iqg16q02"
+          },
+          "code": {
+            "id": "IQG16Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q02N01",
+              "name": {
+                "local": "مركز الشرقاط",
+                "en": "Markaz Al-Shirqat",
+                "slug": "markaz-al-shirqat-iqg16q02n01"
+              },
+              "code": {
+                "id": "IQG16Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q04",
+          "name": {
+            "local": "بلد",
+            "en": "Balad",
+            "slug": "balad-iqg16q04"
+          },
+          "code": {
+            "id": "IQG16Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q04N04",
+              "name": {
+                "local": "الدجيل",
+                "en": "Al-Dujeel",
+                "slug": "al-dujeel-iqg16q04n04"
+              },
+              "code": {
+                "id": "IQG16Q04N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q04N03",
+              "name": {
+                "local": "الضلوعية",
+                "en": "Al-Duloeyah",
+                "slug": "al-duloeyah-iqg16q04n03"
+              },
+              "code": {
+                "id": "IQG16Q04N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q04N02",
+              "name": {
+                "local": "الاسحاقي",
+                "en": "Al-Esshaqi",
+                "slug": "al-esshaqi-iqg16q04n02"
+              },
+              "code": {
+                "id": "IQG16Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q04N01",
+              "name": {
+                "local": "يثرب",
+                "en": "Yathreb",
+                "slug": "yathreb-iqg16q04n01"
+              },
+              "code": {
+                "id": "IQG16Q04N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q03",
+          "name": {
+            "local": "بيجي",
+            "en": "Beygee",
+            "slug": "beygee-iqg16q03"
+          },
+          "code": {
+            "id": "IQG16Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q03N02",
+              "name": {
+                "local": "الصينية",
+                "en": "Al-Synia",
+                "slug": "al-synia-iqg16q03n02"
+              },
+              "code": {
+                "id": "IQG16Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q03N03",
+              "name": {
+                "local": "مكحول",
+                "en": "Makkhoul",
+                "slug": "makkhoul-iqg16q03n03"
+              },
+              "code": {
+                "id": "IQG16Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q03N01",
+              "name": {
+                "local": "مركز بيجي",
+                "en": "Markaz Beygee",
+                "slug": "markaz-beygee-iqg16q03n01"
+              },
+              "code": {
+                "id": "IQG16Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q05",
+          "name": {
+            "local": "سامراء",
+            "en": "Samarra",
+            "slug": "samarra-iqg16q05"
+          },
+          "code": {
+            "id": "IQG16Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q05N01",
+              "name": {
+                "local": "المعتصم",
+                "en": "Al-Muotasim",
+                "slug": "al-muotasim-iqg16q05n01"
+              },
+              "code": {
+                "id": "IQG16Q05N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q05N02",
+              "name": {
+                "local": "الثرثار",
+                "en": "Al-Tharthar",
+                "slug": "al-tharthar-iqg16q05n02"
+              },
+              "code": {
+                "id": "IQG16Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q05N04",
+              "name": {
+                "local": "دجلة",
+                "en": "Dijla",
+                "slug": "dijla-iqg16q05n04"
+              },
+              "code": {
+                "id": "IQG16Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q05N03",
+              "name": {
+                "local": "مركز سامراء",
+                "en": "Markaz Samarra",
+                "slug": "markaz-samarra-iqg16q05n03"
+              },
+              "code": {
+                "id": "IQG16Q05N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q06",
+          "name": {
+            "local": "تكريت",
+            "en": "Tikrit",
+            "slug": "tikrit-iqg16q06"
+          },
+          "code": {
+            "id": "IQG16Q06",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q06N02",
+              "name": {
+                "local": "العلم",
+                "en": "Al-Alam",
+                "slug": "al-alam-iqg16q06n02"
+              },
+              "code": {
+                "id": "IQG16Q06N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q06N01",
+              "name": {
+                "local": "ام القرى",
+                "en": "Um Al-Qura",
+                "slug": "um-al-qura-iqg16q06n01"
+              },
+              "code": {
+                "id": "IQG16Q06N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG16Q07",
+          "name": {
+            "local": "طوز خورماتو",
+            "en": "Tooz Khurmato",
+            "slug": "tooz-khurmato-iqg16q07"
+          },
+          "code": {
+            "id": "IQG16Q07",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG16Q07N01",
+              "name": {
+                "local": "آمرلي",
+                "en": "Ameraly",
+                "slug": "ameraly-iqg16q07n01"
+              },
+              "code": {
+                "id": "IQG16Q07N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q07N02",
+              "name": {
+                "local": "مركز طوز خورماتو",
+                "en": "Markaz Tooz Khurmato",
+                "slug": "markaz-tooz-khurmato-iqg16q07n02"
+              },
+              "code": {
+                "id": "IQG16Q07N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG16Q07N03",
+              "name": {
+                "local": "سليمان بيك",
+                "en": "Sulaiman Baig",
+                "slug": "sulaiman-baig-iqg16q07n03"
+              },
+              "code": {
+                "id": "IQG16Q07N03",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG17",
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      },
+      "code": {
+        "id": "IQG17",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG17Q01",
+          "name": {
+            "local": "الجبايش",
+            "en": "Al-Chibayish",
+            "slug": "al-chibayish-iqg17q01"
+          },
+          "code": {
+            "id": "IQG17Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG17Q01N01",
+              "name": {
+                "local": "الفهود",
+                "en": "Al-Fuhood",
+                "slug": "al-fuhood-iqg17q01n01"
+              },
+              "code": {
+                "id": "IQG17Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q01N02",
+              "name": {
+                "local": "الحمار",
+                "en": "Al-Hammar",
+                "slug": "al-hammar-iqg17q01n02"
+              },
+              "code": {
+                "id": "IQG17Q01N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q01N03",
+              "name": {
+                "local": "مركز الجبايش",
+                "en": "Markaz Al-Chibayish",
+                "slug": "markaz-al-chibayish-iqg17q01n03"
+              },
+              "code": {
+                "id": "IQG17Q01N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG17Q04",
+          "name": {
+            "local": "الناصرية",
+            "en": "Al-Nasiriya",
+            "slug": "al-nasiriya-iqg17q04"
+          },
+          "code": {
+            "id": "IQG17Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG17Q04N01",
+              "name": {
+                "local": "البطحاء",
+                "en": "Al-Battha'a",
+                "slug": "al-batthaa-iqg17q04n01"
+              },
+              "code": {
+                "id": "IQG17Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q04N04",
+              "name": {
+                "local": "الاصلاح",
+                "en": "Al-Islah",
+                "slug": "al-islah-iqg17q04n04"
+              },
+              "code": {
+                "id": "IQG17Q04N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q04N02",
+              "name": {
+                "local": "مركزالناصرية",
+                "en": "Markaz Al-Nasiriya",
+                "slug": "markaz-al-nasiriya-iqg17q04n02"
+              },
+              "code": {
+                "id": "IQG17Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q04N03",
+              "name": {
+                "local": "سيد خليل",
+                "en": "Said Dekhil",
+                "slug": "said-dekhil-iqg17q04n03"
+              },
+              "code": {
+                "id": "IQG17Q04N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG17Q02",
+          "name": {
+            "local": "الرفاعي",
+            "en": "Al-Rifai",
+            "slug": "al-rifai-iqg17q02"
+          },
+          "code": {
+            "id": "IQG17Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG17Q02N01",
+              "name": {
+                "local": "الفجر",
+                "en": "Al-Fajer",
+                "slug": "al-fajer-iqg17q02n01"
+              },
+              "code": {
+                "id": "IQG17Q02N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q02N02",
+              "name": {
+                "local": "النصر",
+                "en": "Al-Nasr",
+                "slug": "al-nasr-iqg17q02n02"
+              },
+              "code": {
+                "id": "IQG17Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q02N03",
+              "name": {
+                "local": "مركز الرفاعي",
+                "en": "Markaz Al-Rifai",
+                "slug": "markaz-al-rifai-iqg17q02n03"
+              },
+              "code": {
+                "id": "IQG17Q02N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q02N04",
+              "name": {
+                "local": "قلعة السكر",
+                "en": "Qalat Siker",
+                "slug": "qalat-siker-iqg17q02n04"
+              },
+              "code": {
+                "id": "IQG17Q02N04",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG17Q03",
+          "name": {
+            "local": "الشطرة",
+            "en": "Al-Shatra",
+            "slug": "al-shatra-iqg17q03"
+          },
+          "code": {
+            "id": "IQG17Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG17Q03N03",
+              "name": {
+                "local": "الدواية",
+                "en": "Al-Dawaya",
+                "slug": "al-dawaya-iqg17q03n03"
+              },
+              "code": {
+                "id": "IQG17Q03N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q03N02",
+              "name": {
+                "local": "القراف",
+                "en": "Al-Gharraf",
+                "slug": "al-gharraf-iqg17q03n02"
+              },
+              "code": {
+                "id": "IQG17Q03N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q03N01",
+              "name": {
+                "local": "مركز الشطرة",
+                "en": "Markaz Al-Shatra",
+                "slug": "markaz-al-shatra-iqg17q03n01"
+              },
+              "code": {
+                "id": "IQG17Q03N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG17Q05",
+          "name": {
+            "local": "سوق الشيوخ",
+            "en": "Suq Al-Shoyokh",
+            "slug": "suq-al-shoyokh-iqg17q05"
+          },
+          "code": {
+            "id": "IQG17Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG17Q05N04",
+              "name": {
+                "local": "عكيكة",
+                "en": "Akaika",
+                "slug": "akaika-iqg17q05n04"
+              },
+              "code": {
+                "id": "IQG17Q05N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q05N03",
+              "name": {
+                "local": "الفضلية",
+                "en": "Al-Fadhliya",
+                "slug": "al-fadhliya-iqg17q05n03"
+              },
+              "code": {
+                "id": "IQG17Q05N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q05N02",
+              "name": {
+                "local": "الطار",
+                "en": "Al-Tar",
+                "slug": "al-tar-iqg17q05n02"
+              },
+              "code": {
+                "id": "IQG17Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG17Q05N01",
+              "name": {
+                "local": "كرمة بني سعد",
+                "en": "Garmat Beni Said",
+                "slug": "garmat-beni-said-iqg17q05n01"
+              },
+              "code": {
+                "id": "IQG17Q05N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IQG18",
+      "name": {
+        "local": "واسط",
+        "en": "Wassit",
+        "slug": "wassit-iqg18"
+      },
+      "code": {
+        "id": "IQG18",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "IQG18Q01",
+          "name": {
+            "local": "الحي",
+            "en": "Al-Hai",
+            "slug": "al-hai-iqg18q01"
+          },
+          "code": {
+            "id": "IQG18Q01",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG18Q01N01",
+              "name": {
+                "local": "البشائر",
+                "en": "Al-Bashaer",
+                "slug": "al-bashaer-iqg18q01n01"
+              },
+              "code": {
+                "id": "IQG18Q01N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q01N02",
+              "name": {
+                "local": "الموفقية",
+                "en": "Al-Mowafaqiya",
+                "slug": "al-mowafaqiya-iqg18q01n02"
+              },
+              "code": {
+                "id": "IQG18Q01N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG18Q02",
+          "name": {
+            "local": "الكوت",
+            "en": "Al-Kut",
+            "slug": "al-kut-iqg18q02"
+          },
+          "code": {
+            "id": "IQG18Q02",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG18Q02N03",
+              "name": {
+                "local": "مركز الكوت",
+                "en": "Markaz Al-Kut",
+                "slug": "markaz-al-kut-iqg18q02n03"
+              },
+              "code": {
+                "id": "IQG18Q02N03",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q02N02",
+              "name": {
+                "local": "شيخ سعد",
+                "en": "Shaekh Saad",
+                "slug": "shaekh-saad-iqg18q02n02"
+              },
+              "code": {
+                "id": "IQG18Q02N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q02N01",
+              "name": {
+                "local": "واسط",
+                "en": "Wasit",
+                "slug": "wasit-iqg18q02n01"
+              },
+              "code": {
+                "id": "IQG18Q02N01",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG18Q03",
+          "name": {
+            "local": "النعمانية",
+            "en": "Al-Namaniya",
+            "slug": "al-namaniya-iqg18q03"
+          },
+          "code": {
+            "id": "IQG18Q03",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG18Q03N01",
+              "name": {
+                "local": "الاحرار",
+                "en": "Al-Ahrar",
+                "slug": "al-ahrar-iqg18q03n01"
+              },
+              "code": {
+                "id": "IQG18Q03N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q03N02",
+              "name": {
+                "local": "مركز النعمانية",
+                "en": "Markaz Al-Noamaniya",
+                "slug": "markaz-al-noamaniya-iqg18q03n02"
+              },
+              "code": {
+                "id": "IQG18Q03N02",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG18Q04",
+          "name": {
+            "local": "الصويرة",
+            "en": "Al-Suwaira",
+            "slug": "al-suwaira-iqg18q04"
+          },
+          "code": {
+            "id": "IQG18Q04",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG18Q04N05",
+              "name": {
+                "local": "العزيزية",
+                "en": "Al-Aziziya",
+                "slug": "al-aziziya-iqg18q04n05"
+              },
+              "code": {
+                "id": "IQG18Q04N05",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q04N04",
+              "name": {
+                "local": "الحفرية",
+                "en": "Al-Hafriya",
+                "slug": "al-hafriya-iqg18q04n04"
+              },
+              "code": {
+                "id": "IQG18Q04N04",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q04N02",
+              "name": {
+                "local": "الشحيمية",
+                "en": "Al-Shehamiya",
+                "slug": "al-shehamiya-iqg18q04n02"
+              },
+              "code": {
+                "id": "IQG18Q04N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q04N01",
+              "name": {
+                "local": "الزبيدية",
+                "en": "Al-Zubaidiya",
+                "slug": "al-zubaidiya-iqg18q04n01"
+              },
+              "code": {
+                "id": "IQG18Q04N01",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q04N03",
+              "name": {
+                "local": "مركز الصويرة",
+                "en": "Markaz Al-Suwaira",
+                "slug": "markaz-al-suwaira-iqg18q04n03"
+              },
+              "code": {
+                "id": "IQG18Q04N03",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "IQG18Q05",
+          "name": {
+            "local": "بدرة",
+            "en": "Badra",
+            "slug": "badra-iqg18q05"
+          },
+          "code": {
+            "id": "IQG18Q05",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "IQG18Q05N02",
+              "name": {
+                "local": "جصان",
+                "en": "Jassan",
+                "slug": "jassan-iqg18q05n02"
+              },
+              "code": {
+                "id": "IQG18Q05N02",
+                "iso": null
+              }
+            },
+            {
+              "id": "IQG18Q05N01",
+              "name": {
+                "local": "مركز بدرة",
+                "en": "Markaz Badra",
+                "slug": "markaz-badra-iqg18q05n01"
+              },
+              "code": {
+                "id": "IQG18Q05N01",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

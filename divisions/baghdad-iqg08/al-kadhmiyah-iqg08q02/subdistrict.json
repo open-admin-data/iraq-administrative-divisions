@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG08Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ابي غريب",
+      "en": "Abu Ghraib",
+      "slug": "abu-ghraib-iqg08q02n02"
+    },
+    "code": {
+      "id": "IQG08Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q02",
+      "level": 2,
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q02",
+        "level": 2,
+        "name": {
+          "local": "الكاظمية",
+          "en": "Al-Kadhmiyah",
+          "slug": "al-kadhmiyah-iqg08q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.299",
+      "lon": "44.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q02N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "التاجي",
+      "en": "Al-Taji",
+      "slug": "al-taji-iqg08q02n05"
+    },
+    "code": {
+      "id": "IQG08Q02N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q02",
+      "level": 2,
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q02",
+        "level": 2,
+        "name": {
+          "local": "الكاظمية",
+          "en": "Al-Kadhmiyah",
+          "slug": "al-kadhmiyah-iqg08q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.516",
+      "lon": "44.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q02N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الطارمية",
+      "en": "Al-Tarmiya",
+      "slug": "al-tarmiya-iqg08q02n04"
+    },
+    "code": {
+      "id": "IQG08Q02N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q02",
+      "level": 2,
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q02",
+        "level": 2,
+        "name": {
+          "local": "الكاظمية",
+          "en": "Al-Kadhmiyah",
+          "slug": "al-kadhmiyah-iqg08q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.649",
+      "lon": "44.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الكاظمية",
+      "en": "Markaz Al-Kadhimiya",
+      "slug": "markaz-al-kadhimiya-iqg08q02n01"
+    },
+    "code": {
+      "id": "IQG08Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q02",
+      "level": 2,
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q02",
+        "level": 2,
+        "name": {
+          "local": "الكاظمية",
+          "en": "Al-Kadhmiyah",
+          "slug": "al-kadhmiyah-iqg08q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.363",
+      "lon": "44.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ذات السلاسل",
+      "en": "That al Salasil",
+      "slug": "that-al-salasil-iqg08q02n03"
+    },
+    "code": {
+      "id": "IQG08Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q02",
+      "level": 2,
+      "name": {
+        "local": "الكاظمية",
+        "en": "Al-Kadhmiyah",
+        "slug": "al-kadhmiyah-iqg08q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q02",
+        "level": 2,
+        "name": {
+          "local": "الكاظمية",
+          "en": "Al-Kadhmiyah",
+          "slug": "al-kadhmiyah-iqg08q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.419",
+      "lon": "44.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

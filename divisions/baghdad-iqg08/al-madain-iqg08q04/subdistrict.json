@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG08Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجسر",
+      "en": "Al-Jisr",
+      "slug": "al-jisr-iqg08q04n02"
+    },
+    "code": {
+      "id": "IQG08Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q04",
+      "level": 2,
+      "name": {
+        "local": "المدائن",
+        "en": "Al-Mada'in",
+        "slug": "al-madain-iqg08q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q04",
+        "level": 2,
+        "name": {
+          "local": "المدائن",
+          "en": "Al-Mada'in",
+          "slug": "al-madain-iqg08q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.292",
+      "lon": "44.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q04N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الوحدة",
+      "en": "Al-Wihda",
+      "slug": "al-wihda-iqg08q04n03"
+    },
+    "code": {
+      "id": "IQG08Q04N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q04",
+      "level": 2,
+      "name": {
+        "local": "المدائن",
+        "en": "Al-Mada'in",
+        "slug": "al-madain-iqg08q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q04",
+        "level": 2,
+        "name": {
+          "local": "المدائن",
+          "en": "Al-Mada'in",
+          "slug": "al-madain-iqg08q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.259",
+      "lon": "44.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المدائن",
+      "en": "Markaz Al-Mada'in",
+      "slug": "markaz-al-madain-iqg08q04n01"
+    },
+    "code": {
+      "id": "IQG08Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q04",
+      "level": 2,
+      "name": {
+        "local": "المدائن",
+        "en": "Al-Mada'in",
+        "slug": "al-madain-iqg08q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q04",
+        "level": 2,
+        "name": {
+          "local": "المدائن",
+          "en": "Al-Mada'in",
+          "slug": "al-madain-iqg08q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.094",
+      "lon": "44.639"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

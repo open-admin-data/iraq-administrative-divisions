@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q06",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "حديثة",
+    "en": "Haditha",
+    "slug": "haditha-iqg01q06"
+  },
+  "code": {
+    "id": "IQG01Q06",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.237",
+    "lon": "42.408"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Iraq Administrative Divisions Dataset"
+version: "2026.06"
+date-released: "2026-06-02"
+url: "https://github.com/open-admin-data/iraq-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/iraq-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - iraq
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Iraq's administrative hierarchy:
+  18 governorates, 101 districts, 294 sub-districts.
+  Bilingual with coordinates and postal codes where available.

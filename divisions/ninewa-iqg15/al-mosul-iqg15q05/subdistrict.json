@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG15Q05N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المحمداث",
+      "en": "Al-Muhamadath",
+      "slug": "al-muhamadath-iqg15q05n04"
+    },
+    "code": {
+      "id": "IQG15Q05N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q05",
+      "level": 2,
+      "name": {
+        "local": "الموصل",
+        "en": "Al-Mosul",
+        "slug": "al-mosul-iqg15q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q05",
+        "level": 2,
+        "name": {
+          "local": "الموصل",
+          "en": "Al-Mosul",
+          "slug": "al-mosul-iqg15q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.263",
+      "lon": "42.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q05N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القيارة",
+      "en": "Al-Qayarra",
+      "slug": "al-qayarra-iqg15q05n01"
+    },
+    "code": {
+      "id": "IQG15Q05N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q05",
+      "level": 2,
+      "name": {
+        "local": "الموصل",
+        "en": "Al-Mosul",
+        "slug": "al-mosul-iqg15q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q05",
+        "level": 2,
+        "name": {
+          "local": "الموصل",
+          "en": "Al-Mosul",
+          "slug": "al-mosul-iqg15q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.85",
+      "lon": "43.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q05N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بعشيقة",
+      "en": "Bashiqa",
+      "slug": "bashiqa-iqg15q05n03"
+    },
+    "code": {
+      "id": "IQG15Q05N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q05",
+      "level": 2,
+      "name": {
+        "local": "الموصل",
+        "en": "Al-Mosul",
+        "slug": "al-mosul-iqg15q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q05",
+        "level": 2,
+        "name": {
+          "local": "الموصل",
+          "en": "Al-Mosul",
+          "slug": "al-mosul-iqg15q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.455",
+      "lon": "43.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q05N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حمام العليل",
+      "en": "Hammam Al-Alil",
+      "slug": "hammam-al-alil-iqg15q05n02"
+    },
+    "code": {
+      "id": "IQG15Q05N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q05",
+      "level": 2,
+      "name": {
+        "local": "الموصل",
+        "en": "Al-Mosul",
+        "slug": "al-mosul-iqg15q05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q05",
+        "level": 2,
+        "name": {
+          "local": "الموصل",
+          "en": "Al-Mosul",
+          "slug": "al-mosul-iqg15q05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.142",
+      "lon": "43.093"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

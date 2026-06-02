@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+IQG16Q01,الدور,Al-Daur,al-daur-iqg16q01,IQG16Q01,2,34.56,44.208
+IQG16Q02,الشرقاط,Al-Shirqat,al-shirqat-iqg16q02,IQG16Q02,1,35.474,43.176
+IQG16Q04,بلد,Balad,balad-iqg16q04,IQG16Q04,4,33.936,43.84
+IQG16Q03,بيجي,Beygee,beygee-iqg16q03,IQG16Q03,3,34.887,43.037
+IQG16Q05,سامراء,Samarra,samarra-iqg16q05,IQG16Q05,4,34.333,43.377
+IQG16Q06,تكريت,Tikrit,tikrit-iqg16q06,IQG16Q06,2,34.763,43.855
+IQG16Q07,طوز خورماتو,Tooz Khurmato,tooz-khurmato-iqg16q07,IQG16Q07,3,34.825,44.659

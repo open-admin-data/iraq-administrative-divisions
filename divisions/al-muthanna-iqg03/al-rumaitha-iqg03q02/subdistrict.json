@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IQG03Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الهلال",
+      "en": "Al-Hilal",
+      "slug": "al-hilal-iqg03q02n01"
+    },
+    "code": {
+      "id": "IQG03Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q02",
+      "level": 2,
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q02",
+        "level": 2,
+        "name": {
+          "local": "الرميثة",
+          "en": "Al-Rumaitha",
+          "slug": "al-rumaitha-iqg03q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.386",
+      "lon": "45.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG03Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المجد",
+      "en": "Al-Majd",
+      "slug": "al-majd-iqg03q02n02"
+    },
+    "code": {
+      "id": "IQG03Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q02",
+      "level": 2,
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q02",
+        "level": 2,
+        "name": {
+          "local": "الرميثة",
+          "en": "Al-Rumaitha",
+          "slug": "al-rumaitha-iqg03q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.335",
+      "lon": "45.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG03Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "النجمي",
+      "en": "Al-Najmi",
+      "slug": "al-najmi-iqg03q02n03"
+    },
+    "code": {
+      "id": "IQG03Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q02",
+      "level": 2,
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q02",
+        "level": 2,
+        "name": {
+          "local": "الرميثة",
+          "en": "Al-Rumaitha",
+          "slug": "al-rumaitha-iqg03q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.638",
+      "lon": "45.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG03Q02N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الوركاء",
+      "en": "Al-Warka",
+      "slug": "al-warka-iqg03q02n04"
+    },
+    "code": {
+      "id": "IQG03Q02N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q02",
+      "level": 2,
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q02",
+        "level": 2,
+        "name": {
+          "local": "الرميثة",
+          "en": "Al-Rumaitha",
+          "slug": "al-rumaitha-iqg03q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.503",
+      "lon": "45.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG03Q02N05",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرميثة",
+      "en": "Markaz Al-Rumaitha",
+      "slug": "markaz-al-rumaitha-iqg03q02n05"
+    },
+    "code": {
+      "id": "IQG03Q02N05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q02",
+      "level": 2,
+      "name": {
+        "local": "الرميثة",
+        "en": "Al-Rumaitha",
+        "slug": "al-rumaitha-iqg03q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q02",
+        "level": 2,
+        "name": {
+          "local": "الرميثة",
+          "en": "Al-Rumaitha",
+          "slug": "al-rumaitha-iqg03q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.54",
+      "lon": "45.145"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

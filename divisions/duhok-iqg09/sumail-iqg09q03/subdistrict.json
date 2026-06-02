@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG09Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "باتيل",
+      "en": "Bateel",
+      "slug": "bateel-iqg09q03n01"
+    },
+    "code": {
+      "id": "IQG09Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q03",
+      "level": 2,
+      "name": {
+        "local": "سميل",
+        "en": "Sumail",
+        "slug": "sumail-iqg09q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q03",
+        "level": 2,
+        "name": {
+          "local": "سميل",
+          "en": "Sumail",
+          "slug": "sumail-iqg09q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.971",
+      "lon": "42.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "فايدة",
+      "en": "Fayde",
+      "slug": "fayde-iqg09q03n02"
+    },
+    "code": {
+      "id": "IQG09Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q03",
+      "level": 2,
+      "name": {
+        "local": "سميل",
+        "en": "Sumail",
+        "slug": "sumail-iqg09q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q03",
+        "level": 2,
+        "name": {
+          "local": "سميل",
+          "en": "Sumail",
+          "slug": "sumail-iqg09q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.744",
+      "lon": "42.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز سميل",
+      "en": "Markaz Sumail",
+      "slug": "markaz-sumail-iqg09q03n03"
+    },
+    "code": {
+      "id": "IQG09Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q03",
+      "level": 2,
+      "name": {
+        "local": "سميل",
+        "en": "Sumail",
+        "slug": "sumail-iqg09q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q03",
+        "level": 2,
+        "name": {
+          "local": "سميل",
+          "en": "Sumail",
+          "slug": "sumail-iqg09q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.913",
+      "lon": "42.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q03N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سندي",
+      "en": "Sindi",
+      "slug": "sindi-iqg09q03n04"
+    },
+    "code": {
+      "id": "IQG09Q03N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q03",
+      "level": 2,
+      "name": {
+        "local": "سميل",
+        "en": "Sumail",
+        "slug": "sumail-iqg09q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q03",
+        "level": 2,
+        "name": {
+          "local": "سميل",
+          "en": "Sumail",
+          "slug": "sumail-iqg09q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.778",
+      "lon": "42.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,85 @@
+# Duhok — Iraq Administrative Divisions
+
+> 4 districts, 14 sub-districts
+> Code: IQG09
+> Coordinates: 37.046, 43.138
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### العمادية (Al-Amadiya)
+
+Code: IQG09Q01, Coordinates: 37.091, 43.579
+Sub-districts: 4
+
+#### برواري بالا (Barwari Bala)
+
+Code: IQG09Q01N01, Coordinates: 37.24, 43.367
+
+#### مركز العمادية (Markaz Al-Amadiya)
+
+Code: IQG09Q01N02, Coordinates: 37.059, 43.627
+
+#### نروة ريكان (Nerwa Rekan)
+
+Code: IQG09Q01N03, Coordinates: 37.173, 43.848
+
+#### سرسنك (Sarsank)
+
+Code: IQG09Q01N04, Coordinates: 36.995, 43.412
+
+### دهوك (Duhok)
+
+Code: IQG09Q02, Coordinates: 36.943, 43.105
+Sub-districts: 3
+
+#### الدوسكي (Al-Duski)
+
+Code: IQG09Q02N01, Coordinates: 37.02, 43.037
+
+#### مركز دهوك (Markaz Duhok)
+
+Code: IQG09Q02N02, Coordinates: 36.854, 42.975
+
+#### زاويتة (Zawita)
+
+Code: IQG09Q02N03, Coordinates: 36.9, 43.133
+
+### سميل (Sumail)
+
+Code: IQG09Q03, Coordinates: 36.913, 42.727
+Sub-districts: 4
+
+#### باتيل (Bateel)
+
+Code: IQG09Q03N01, Coordinates: 36.971, 42.65
+
+#### فايدة (Fayde)
+
+Code: IQG09Q03N02, Coordinates: 36.744, 42.942
+
+#### مركز سميل (Markaz Sumail)
+
+Code: IQG09Q03N03, Coordinates: 36.913, 42.807
+
+#### سندي (Sindi)
+
+Code: IQG09Q03N04, Coordinates: 36.778, 42.949
+
+### زاخو (Zakho)
+
+Code: IQG09Q04, Coordinates: 37.202, 42.904
+Sub-districts: 3
+
+#### باتيفا (Batifa)
+
+Code: IQG09Q04N02, Coordinates: 37.227, 43.057
+
+#### دركار (Dercar)
+
+Code: IQG09Q04N03, Coordinates: 37.227, 42.793
+
+#### مركز زاخو (Markaz Zakho)
+
+Code: IQG09Q04N01, Coordinates: 37.106, 42.703
+

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG05Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البدير",
+      "en": "Al-Bdair",
+      "slug": "al-bdair-iqg05q01n01"
+    },
+    "code": {
+      "id": "IQG05Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q01",
+      "level": 2,
+      "name": {
+        "local": "عفك",
+        "en": "Afaq",
+        "slug": "afaq-iqg05q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q01",
+        "level": 2,
+        "name": {
+          "local": "عفك",
+          "en": "Afaq",
+          "slug": "afaq-iqg05q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.881",
+      "lon": "45.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفوار",
+      "en": "Al-Fawwar",
+      "slug": "al-fawwar-iqg05q01n02"
+    },
+    "code": {
+      "id": "IQG05Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q01",
+      "level": 2,
+      "name": {
+        "local": "عفك",
+        "en": "Afaq",
+        "slug": "afaq-iqg05q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q01",
+        "level": 2,
+        "name": {
+          "local": "عفك",
+          "en": "Afaq",
+          "slug": "afaq-iqg05q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.189",
+      "lon": "45.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عفك",
+      "en": "Markaz Afaq",
+      "slug": "markaz-afaq-iqg05q01n03"
+    },
+    "code": {
+      "id": "IQG05Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q01",
+      "level": 2,
+      "name": {
+        "local": "عفك",
+        "en": "Afaq",
+        "slug": "afaq-iqg05q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q01",
+        "level": 2,
+        "name": {
+          "local": "عفك",
+          "en": "Afaq",
+          "slug": "afaq-iqg05q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.049",
+      "lon": "45.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q01N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سومر",
+      "en": "Sumer",
+      "slug": "sumer-iqg05q01n04"
+    },
+    "code": {
+      "id": "IQG05Q01N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q01",
+      "level": 2,
+      "name": {
+        "local": "عفك",
+        "en": "Afaq",
+        "slug": "afaq-iqg05q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q01",
+        "level": 2,
+        "name": {
+          "local": "عفك",
+          "en": "Afaq",
+          "slug": "afaq-iqg05q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.224",
+      "lon": "45.075"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

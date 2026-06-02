@@ -1,0 +1,47 @@
+{
+  "id": "IQG11Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "اربيل",
+    "en": "Erbil",
+    "slug": "erbil-iqg11q02"
+  },
+  "code": {
+    "id": "IQG11Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG11",
+    "level": 1,
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.091",
+    "lon": "43.994"
+  },
+  "metadata": {},
+  "source": {}
+}

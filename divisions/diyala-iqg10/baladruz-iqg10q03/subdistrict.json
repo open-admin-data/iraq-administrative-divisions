@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG10Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مندلي",
+      "en": "Mandali",
+      "slug": "mandali-iqg10q03n01"
+    },
+    "code": {
+      "id": "IQG10Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q03",
+      "level": 2,
+      "name": {
+        "local": "مندلي",
+        "en": "Baladruz",
+        "slug": "baladruz-iqg10q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q03",
+        "level": 2,
+        "name": {
+          "local": "مندلي",
+          "en": "Baladruz",
+          "slug": "baladruz-iqg10q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.691",
+      "lon": "45.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بلدروز",
+      "en": "Markaz Baladruz",
+      "slug": "markaz-baladruz-iqg10q03n02"
+    },
+    "code": {
+      "id": "IQG10Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q03",
+      "level": 2,
+      "name": {
+        "local": "مندلي",
+        "en": "Baladruz",
+        "slug": "baladruz-iqg10q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q03",
+        "level": 2,
+        "name": {
+          "local": "مندلي",
+          "en": "Baladruz",
+          "slug": "baladruz-iqg10q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.552",
+      "lon": "45.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG10Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قزانية",
+      "en": "Qazanya",
+      "slug": "qazanya-iqg10q03n03"
+    },
+    "code": {
+      "id": "IQG10Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG10Q03",
+      "level": 2,
+      "name": {
+        "local": "مندلي",
+        "en": "Baladruz",
+        "slug": "baladruz-iqg10q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG10",
+        "level": 1,
+        "name": {
+          "local": "ديالى",
+          "en": "Diyala",
+          "slug": "diyala-iqg10"
+        }
+      },
+      {
+        "id": "IQG10Q03",
+        "level": 2,
+        "name": {
+          "local": "مندلي",
+          "en": "Baladruz",
+          "slug": "baladruz-iqg10q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.393",
+      "lon": "45.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

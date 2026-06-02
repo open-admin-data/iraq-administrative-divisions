@@ -1,0 +1,47 @@
+{
+  "id": "IQG17Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرفاعي",
+    "en": "Al-Rifai",
+    "slug": "al-rifai-iqg17q02"
+  },
+  "code": {
+    "id": "IQG17Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG17",
+    "level": 1,
+    "name": {
+      "local": "ذي قار",
+      "en": "Thi Qar",
+      "slug": "thi-qar-iqg17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.671",
+    "lon": "46.125"
+  },
+  "metadata": {},
+  "source": {}
+}

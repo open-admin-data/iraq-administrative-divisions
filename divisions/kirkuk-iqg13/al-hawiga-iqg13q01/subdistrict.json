@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG13Q01N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العباسية",
+      "en": "Al-Abbasi",
+      "slug": "al-abbasi-iqg13q01n04"
+    },
+    "code": {
+      "id": "IQG13Q01N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q01",
+      "level": 2,
+      "name": {
+        "local": "الحويجة",
+        "en": "Al-Hawiga",
+        "slug": "al-hawiga-iqg13q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q01",
+        "level": 2,
+        "name": {
+          "local": "الحويجة",
+          "en": "Al-Hawiga",
+          "slug": "al-hawiga-iqg13q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.236",
+      "lon": "43.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرياض",
+      "en": "Al-Riyadh",
+      "slug": "al-riyadh-iqg13q01n03"
+    },
+    "code": {
+      "id": "IQG13Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q01",
+      "level": 2,
+      "name": {
+        "local": "الحويجة",
+        "en": "Al-Hawiga",
+        "slug": "al-hawiga-iqg13q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q01",
+        "level": 2,
+        "name": {
+          "local": "الحويجة",
+          "en": "Al-Hawiga",
+          "slug": "al-hawiga-iqg13q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.199",
+      "lon": "43.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الزاب",
+      "en": "Al-Zab",
+      "slug": "al-zab-iqg13q01n02"
+    },
+    "code": {
+      "id": "IQG13Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q01",
+      "level": 2,
+      "name": {
+        "local": "الحويجة",
+        "en": "Al-Hawiga",
+        "slug": "al-hawiga-iqg13q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q01",
+        "level": 2,
+        "name": {
+          "local": "الحويجة",
+          "en": "Al-Hawiga",
+          "slug": "al-hawiga-iqg13q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.405",
+      "lon": "43.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG13Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الحويجة",
+      "en": "Markaz Al-Hawiga",
+      "slug": "markaz-al-hawiga-iqg13q01n01"
+    },
+    "code": {
+      "id": "IQG13Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG13Q01",
+      "level": 2,
+      "name": {
+        "local": "الحويجة",
+        "en": "Al-Hawiga",
+        "slug": "al-hawiga-iqg13q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG13",
+        "level": 1,
+        "name": {
+          "local": "كركوك",
+          "en": "Kirkuk",
+          "slug": "kirkuk-iqg13"
+        }
+      },
+      {
+        "id": "IQG13Q01",
+        "level": 2,
+        "name": {
+          "local": "الحويجة",
+          "en": "Al-Hawiga",
+          "slug": "al-hawiga-iqg13q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.374",
+      "lon": "43.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

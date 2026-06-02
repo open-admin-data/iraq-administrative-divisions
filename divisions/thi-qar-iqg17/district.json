@@ -1,0 +1,237 @@
+[
+  {
+    "id": "IQG17Q01",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الجبايش",
+      "en": "Al-Chibayish",
+      "slug": "al-chibayish-iqg17q01"
+    },
+    "code": {
+      "id": "IQG17Q01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.858",
+      "lon": "46.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q04",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الناصرية",
+      "en": "Al-Nasiriya",
+      "slug": "al-nasiriya-iqg17q04"
+    },
+    "code": {
+      "id": "IQG17Q04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.122",
+      "lon": "46.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q02",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرفاعي",
+      "en": "Al-Rifai",
+      "slug": "al-rifai-iqg17q02"
+    },
+    "code": {
+      "id": "IQG17Q02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "46.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q03",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشطرة",
+      "en": "Al-Shatra",
+      "slug": "al-shatra-iqg17q03"
+    },
+    "code": {
+      "id": "IQG17Q03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.41",
+      "lon": "46.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG17Q05",
+    "level": 2,
+    "level_name": {
+      "local": "قضاء",
+      "en": "District"
+    },
+    "name": {
+      "local": "سوق الشيوخ",
+      "en": "Suq Al-Shoyokh",
+      "slug": "suq-al-shoyokh-iqg17q05"
+    },
+    "code": {
+      "id": "IQG17Q05",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG17",
+      "level": 1,
+      "name": {
+        "local": "ذي قار",
+        "en": "Thi Qar",
+        "slug": "thi-qar-iqg17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG17",
+        "level": 1,
+        "name": {
+          "local": "ذي قار",
+          "en": "Thi Qar",
+          "slug": "thi-qar-iqg17"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.812",
+      "lon": "46.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

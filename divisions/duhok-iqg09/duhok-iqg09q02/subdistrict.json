@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG09Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الدوسكي",
+      "en": "Al-Duski",
+      "slug": "al-duski-iqg09q02n01"
+    },
+    "code": {
+      "id": "IQG09Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q02",
+      "level": 2,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q02",
+        "level": 2,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.02",
+      "lon": "43.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز دهوك",
+      "en": "Markaz Duhok",
+      "slug": "markaz-duhok-iqg09q02n02"
+    },
+    "code": {
+      "id": "IQG09Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q02",
+      "level": 2,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q02",
+        "level": 2,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.854",
+      "lon": "42.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG09Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "زاويتة",
+      "en": "Zawita",
+      "slug": "zawita-iqg09q02n03"
+    },
+    "code": {
+      "id": "IQG09Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG09Q02",
+      "level": 2,
+      "name": {
+        "local": "دهوك",
+        "en": "Duhok",
+        "slug": "duhok-iqg09q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG09",
+        "level": 1,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09"
+        }
+      },
+      {
+        "id": "IQG09Q02",
+        "level": 2,
+        "name": {
+          "local": "دهوك",
+          "en": "Duhok",
+          "slug": "duhok-iqg09q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.9",
+      "lon": "43.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

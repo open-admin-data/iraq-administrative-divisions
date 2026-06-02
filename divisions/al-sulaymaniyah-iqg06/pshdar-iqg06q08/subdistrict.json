@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG06Q08N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "هيرو",
+      "en": "Hero",
+      "slug": "hero-iqg06q08n01"
+    },
+    "code": {
+      "id": "IQG06Q08N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q08",
+      "level": 2,
+      "name": {
+        "local": "بشدر",
+        "en": "Pshdar",
+        "slug": "pshdar-iqg06q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q08",
+        "level": 2,
+        "name": {
+          "local": "بشدر",
+          "en": "Pshdar",
+          "slug": "pshdar-iqg06q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.089",
+      "lon": "45.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q08N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بشدر",
+      "en": "Markaz Pshdar",
+      "slug": "markaz-pshdar-iqg06q08n03"
+    },
+    "code": {
+      "id": "IQG06Q08N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q08",
+      "level": 2,
+      "name": {
+        "local": "بشدر",
+        "en": "Pshdar",
+        "slug": "pshdar-iqg06q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q08",
+        "level": 2,
+        "name": {
+          "local": "بشدر",
+          "en": "Pshdar",
+          "slug": "pshdar-iqg06q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.2",
+      "lon": "45.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q08N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ناودشت",
+      "en": "Nawdasht",
+      "slug": "nawdasht-iqg06q08n02"
+    },
+    "code": {
+      "id": "IQG06Q08N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q08",
+      "level": 2,
+      "name": {
+        "local": "بشدر",
+        "en": "Pshdar",
+        "slug": "pshdar-iqg06q08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q08",
+        "level": 2,
+        "name": {
+          "local": "بشدر",
+          "en": "Pshdar",
+          "slug": "pshdar-iqg06q08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.348",
+      "lon": "45.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

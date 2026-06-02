@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG16Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الصينية",
+      "en": "Al-Synia",
+      "slug": "al-synia-iqg16q03n02"
+    },
+    "code": {
+      "id": "IQG16Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q03",
+      "level": 2,
+      "name": {
+        "local": "بيجي",
+        "en": "Beygee",
+        "slug": "beygee-iqg16q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q03",
+        "level": 2,
+        "name": {
+          "local": "بيجي",
+          "en": "Beygee",
+          "slug": "beygee-iqg16q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.773",
+      "lon": "43.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مكحول",
+      "en": "Makkhoul",
+      "slug": "makkhoul-iqg16q03n03"
+    },
+    "code": {
+      "id": "IQG16Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q03",
+      "level": 2,
+      "name": {
+        "local": "بيجي",
+        "en": "Beygee",
+        "slug": "beygee-iqg16q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q03",
+        "level": 2,
+        "name": {
+          "local": "بيجي",
+          "en": "Beygee",
+          "slug": "beygee-iqg16q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.201",
+      "lon": "43.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG16Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بيجي",
+      "en": "Markaz Beygee",
+      "slug": "markaz-beygee-iqg16q03n01"
+    },
+    "code": {
+      "id": "IQG16Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q03",
+      "level": 2,
+      "name": {
+        "local": "بيجي",
+        "en": "Beygee",
+        "slug": "beygee-iqg16q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q03",
+        "level": 2,
+        "name": {
+          "local": "بيجي",
+          "en": "Beygee",
+          "slug": "beygee-iqg16q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "43.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

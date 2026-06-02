@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG11Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز اربيل",
+      "en": "Markaz Erbil",
+      "slug": "markaz-erbil-iqg11q02n02"
+    },
+    "code": {
+      "id": "IQG11Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q02",
+      "level": 2,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q02",
+        "level": 2,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.212",
+      "lon": "43.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG11Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قوش تبه",
+      "en": "Qushtappa",
+      "slug": "qushtappa-iqg11q02n01"
+    },
+    "code": {
+      "id": "IQG11Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG11Q02",
+      "level": 2,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG11",
+        "level": 1,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11"
+        }
+      },
+      {
+        "id": "IQG11Q02",
+        "level": 2,
+        "name": {
+          "local": "اربيل",
+          "en": "Erbil",
+          "slug": "erbil-iqg11q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.951",
+      "lon": "44.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

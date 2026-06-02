@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG14Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز قلعة صالح",
+      "en": "Markaz Qalat Saleh",
+      "slug": "markaz-qalat-saleh-iqg14q06n01"
+    },
+    "code": {
+      "id": "IQG14Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q06",
+      "level": 2,
+      "name": {
+        "local": "قلعة صالح",
+        "en": "Qalat Saleh",
+        "slug": "qalat-saleh-iqg14q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q06",
+        "level": 2,
+        "name": {
+          "local": "قلعة صالح",
+          "en": "Qalat Saleh",
+          "slug": "qalat-saleh-iqg14q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.479",
+      "lon": "47.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

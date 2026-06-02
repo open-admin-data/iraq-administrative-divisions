@@ -1,0 +1,47 @@
+{
+  "id": "IQG03Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "السماوة",
+    "en": "Al-Samawa",
+    "slug": "al-samawa-iqg03q04"
+  },
+  "code": {
+    "id": "IQG03Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG03",
+    "level": 1,
+    "name": {
+      "local": "المثنى",
+      "en": "Al-Muthanna",
+      "slug": "al-muthanna-iqg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG03",
+      "level": 1,
+      "name": {
+        "local": "المثنى",
+        "en": "Al-Muthanna",
+        "slug": "al-muthanna-iqg03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.217",
+    "lon": "45.301"
+  },
+  "metadata": {},
+  "source": {}
+}

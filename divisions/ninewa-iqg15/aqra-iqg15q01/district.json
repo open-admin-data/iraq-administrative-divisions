@@ -1,0 +1,47 @@
+{
+  "id": "IQG15Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "عقرة",
+    "en": "Aqra",
+    "slug": "aqra-iqg15q01"
+  },
+  "code": {
+    "id": "IQG15Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG15",
+    "level": 1,
+    "name": {
+      "local": "نينوى",
+      "en": "Ninewa",
+      "slug": "ninewa-iqg15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG15",
+      "level": 1,
+      "name": {
+        "local": "نينوى",
+        "en": "Ninewa",
+        "slug": "ninewa-iqg15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.667",
+    "lon": "43.946"
+  },
+  "metadata": {},
+  "source": {}
+}

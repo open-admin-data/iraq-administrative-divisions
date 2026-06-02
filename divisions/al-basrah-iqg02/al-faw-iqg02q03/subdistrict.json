@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG02Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البحار",
+      "en": "Al-Bahhar",
+      "slug": "al-bahhar-iqg02q03n01"
+    },
+    "code": {
+      "id": "IQG02Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q03",
+      "level": 2,
+      "name": {
+        "local": "الفاو",
+        "en": "Al-Faw",
+        "slug": "al-faw-iqg02q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q03",
+        "level": 2,
+        "name": {
+          "local": "الفاو",
+          "en": "Al-Faw",
+          "slug": "al-faw-iqg02q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.116",
+      "lon": "48.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG02Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الفاو",
+      "en": "Markaz Al-Faw",
+      "slug": "markaz-al-faw-iqg02q03n02"
+    },
+    "code": {
+      "id": "IQG02Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG02Q03",
+      "level": 2,
+      "name": {
+        "local": "الفاو",
+        "en": "Al-Faw",
+        "slug": "al-faw-iqg02q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG02",
+        "level": 1,
+        "name": {
+          "local": "البصرة",
+          "en": "Al-Basrah",
+          "slug": "al-basrah-iqg02"
+        }
+      },
+      {
+        "id": "IQG02Q03",
+        "level": 2,
+        "name": {
+          "local": "الفاو",
+          "en": "Al-Faw",
+          "slug": "al-faw-iqg02q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.915",
+      "lon": "48.468"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

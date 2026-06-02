@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG03Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز السلمان",
+      "en": "Markaz Al-Salman",
+      "slug": "markaz-al-salman-iqg03q03n01"
+    },
+    "code": {
+      "id": "IQG03Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG03Q03",
+      "level": 2,
+      "name": {
+        "local": "السلمان",
+        "en": "Al-Salman",
+        "slug": "al-salman-iqg03q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG03",
+        "level": 1,
+        "name": {
+          "local": "المثنى",
+          "en": "Al-Muthanna",
+          "slug": "al-muthanna-iqg03"
+        }
+      },
+      {
+        "id": "IQG03Q03",
+        "level": 2,
+        "name": {
+          "local": "السلمان",
+          "en": "Al-Salman",
+          "slug": "al-salman-iqg03q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.251",
+      "lon": "45.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

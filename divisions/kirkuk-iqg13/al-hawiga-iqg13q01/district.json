@@ -1,0 +1,47 @@
+{
+  "id": "IQG13Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحويجة",
+    "en": "Al-Hawiga",
+    "slug": "al-hawiga-iqg13q01"
+  },
+  "code": {
+    "id": "IQG13Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG13",
+    "level": 1,
+    "name": {
+      "local": "كركوك",
+      "en": "Kirkuk",
+      "slug": "kirkuk-iqg13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG13",
+      "level": 1,
+      "name": {
+        "local": "كركوك",
+        "en": "Kirkuk",
+        "slug": "kirkuk-iqg13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.264",
+    "lon": "43.788"
+  },
+  "metadata": {},
+  "source": {}
+}

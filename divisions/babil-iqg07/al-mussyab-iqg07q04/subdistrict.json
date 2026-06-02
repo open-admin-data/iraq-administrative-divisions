@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG07Q04N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الاسكندرية",
+      "en": "Al-Iskandaria",
+      "slug": "al-iskandaria-iqg07q04n02"
+    },
+    "code": {
+      "id": "IQG07Q04N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q04",
+      "level": 2,
+      "name": {
+        "local": "المسيب",
+        "en": "Al-Mussyab",
+        "slug": "al-mussyab-iqg07q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q04",
+        "level": 2,
+        "name": {
+          "local": "المسيب",
+          "en": "Al-Mussyab",
+          "slug": "al-mussyab-iqg07q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.855",
+      "lon": "44.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG07Q04N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جرف الصخر",
+      "en": "Jurf Al-Sakhar",
+      "slug": "jurf-al-sakhar-iqg07q04n01"
+    },
+    "code": {
+      "id": "IQG07Q04N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG07Q04",
+      "level": 2,
+      "name": {
+        "local": "المسيب",
+        "en": "Al-Mussyab",
+        "slug": "al-mussyab-iqg07q04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG07",
+        "level": 1,
+        "name": {
+          "local": "بابل",
+          "en": "Babil",
+          "slug": "babil-iqg07"
+        }
+      },
+      {
+        "id": "IQG07Q04",
+        "level": 2,
+        "name": {
+          "local": "المسيب",
+          "en": "Al-Mussyab",
+          "slug": "al-mussyab-iqg07q04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.804",
+      "lon": "44.205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

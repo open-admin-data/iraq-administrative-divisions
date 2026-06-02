@@ -1,0 +1,34 @@
+{
+  "id": "IQG11",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "اربيل",
+    "en": "Erbil",
+    "slug": "erbil-iqg11"
+  },
+  "code": {
+    "id": "IQG11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "subdistrict": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.379",
+    "lon": "44.21"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/erbil-iqg11/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

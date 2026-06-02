@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG04Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحرية",
+      "en": "Al-Huriya",
+      "slug": "al-huriya-iqg04q01n01"
+    },
+    "code": {
+      "id": "IQG04Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q01",
+      "level": 2,
+      "name": {
+        "local": "الكوفة",
+        "en": "Al-Kufa",
+        "slug": "al-kufa-iqg04q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q01",
+        "level": 2,
+        "name": {
+          "local": "الكوفة",
+          "en": "Al-Kufa",
+          "slug": "al-kufa-iqg04q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.076",
+      "lon": "44.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG04Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الكوفة",
+      "en": "Markaz Al-Kufa",
+      "slug": "markaz-al-kufa-iqg04q01n02"
+    },
+    "code": {
+      "id": "IQG04Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG04Q01",
+      "level": 2,
+      "name": {
+        "local": "الكوفة",
+        "en": "Al-Kufa",
+        "slug": "al-kufa-iqg04q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG04",
+        "level": 1,
+        "name": {
+          "local": "النجف",
+          "en": "Al-Najaf",
+          "slug": "al-najaf-iqg04"
+        }
+      },
+      {
+        "id": "IQG04Q01",
+        "level": 2,
+        "name": {
+          "local": "الكوفة",
+          "en": "Al-Kufa",
+          "slug": "al-kufa-iqg04q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.016",
+      "lon": "44.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

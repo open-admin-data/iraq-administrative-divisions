@@ -1,0 +1,48 @@
+# Al-Najaf — Iraq Administrative Divisions
+
+> 3 districts, 6 sub-districts
+> Code: IQG04
+> Coordinates: 31.101, 43.364
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الكوفة (Al-Kufa)
+
+Code: IQG04Q01, Coordinates: 32.07, 44.449
+Sub-districts: 2
+
+#### الحرية (Al-Huriya)
+
+Code: IQG04Q01N01, Coordinates: 32.076, 44.478
+
+#### مركز الكوفة (Markaz Al-Kufa)
+
+Code: IQG04Q01N02, Coordinates: 32.016, 44.414
+
+### المناذرة (Al-Manathera)
+
+Code: IQG04Q02, Coordinates: 31.774, 44.472
+Sub-districts: 1
+
+#### الحيرة (Al-Heera)
+
+Code: IQG04Q02N01, Coordinates: 31.774, 44.472
+
+### النجف (Al-Najaf)
+
+Code: IQG04Q03, Coordinates: 31.101, 43.364
+Sub-districts: 3
+
+#### الحيدرية (Al-Haydariya)
+
+Code: IQG04Q03N01, Coordinates: 32.191, 44.068
+
+#### الشبكة (Al-Shabaka)
+
+Code: IQG04Q03N02, Coordinates: 31.007, 43.414
+
+#### مركز النجف (Markaz Al-Najaf)
+
+Code: IQG04Q03N03, Coordinates: 31.915, 44.195
+

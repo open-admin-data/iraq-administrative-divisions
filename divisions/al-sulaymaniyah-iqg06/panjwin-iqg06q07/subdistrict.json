@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG06Q07N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كرمك",
+      "en": "Karmak",
+      "slug": "karmak-iqg06q07n01"
+    },
+    "code": {
+      "id": "IQG06Q07N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q07",
+      "level": 2,
+      "name": {
+        "local": "بنجوين",
+        "en": "Panjwin",
+        "slug": "panjwin-iqg06q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q07",
+        "level": 2,
+        "name": {
+          "local": "بنجوين",
+          "en": "Panjwin",
+          "slug": "panjwin-iqg06q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.766",
+      "lon": "46.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG06Q07N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بنجوين",
+      "en": "Markaz Panjwin",
+      "slug": "markaz-panjwin-iqg06q07n02"
+    },
+    "code": {
+      "id": "IQG06Q07N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG06Q07",
+      "level": 2,
+      "name": {
+        "local": "بنجوين",
+        "en": "Panjwin",
+        "slug": "panjwin-iqg06q07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG06",
+        "level": 1,
+        "name": {
+          "local": "السليمانية",
+          "en": "Al-Sulaymaniyah",
+          "slug": "al-sulaymaniyah-iqg06"
+        }
+      },
+      {
+        "id": "IQG06Q07",
+        "level": 2,
+        "name": {
+          "local": "بنجوين",
+          "en": "Panjwin",
+          "slug": "panjwin-iqg06q07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.563",
+      "lon": "45.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

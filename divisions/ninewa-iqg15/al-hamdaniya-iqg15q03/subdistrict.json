@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG15Q03N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "برطلة",
+      "en": "Bartilla",
+      "slug": "bartilla-iqg15q03n02"
+    },
+    "code": {
+      "id": "IQG15Q03N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمدانية",
+        "en": "Al-Hamdaniya",
+        "slug": "al-hamdaniya-iqg15q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمدانية",
+          "en": "Al-Hamdaniya",
+          "slug": "al-hamdaniya-iqg15q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.328",
+      "lon": "43.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q03N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الحمدانية",
+      "en": "Markaz Al-Hamdaniya",
+      "slug": "markaz-al-hamdaniya-iqg15q03n03"
+    },
+    "code": {
+      "id": "IQG15Q03N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمدانية",
+        "en": "Al-Hamdaniya",
+        "slug": "al-hamdaniya-iqg15q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمدانية",
+          "en": "Al-Hamdaniya",
+          "slug": "al-hamdaniya-iqg15q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.28",
+      "lon": "43.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q03N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "نمرود",
+      "en": "Namroud",
+      "slug": "namroud-iqg15q03n01"
+    },
+    "code": {
+      "id": "IQG15Q03N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q03",
+      "level": 2,
+      "name": {
+        "local": "الحمدانية",
+        "en": "Al-Hamdaniya",
+        "slug": "al-hamdaniya-iqg15q03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q03",
+        "level": 2,
+        "name": {
+          "local": "الحمدانية",
+          "en": "Al-Hamdaniya",
+          "slug": "al-hamdaniya-iqg15q03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.117",
+      "lon": "43.416"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

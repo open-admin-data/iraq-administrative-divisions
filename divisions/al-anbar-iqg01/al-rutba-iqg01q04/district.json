@@ -1,0 +1,47 @@
+{
+  "id": "IQG01Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرطبة",
+    "en": "Al-Rutba",
+    "slug": "al-rutba-iqg01q04"
+  },
+  "code": {
+    "id": "IQG01Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG01",
+    "level": 1,
+    "name": {
+      "local": "الانبار",
+      "en": "Al-Anbar",
+      "slug": "al-anbar-iqg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG01",
+      "level": 1,
+      "name": {
+        "local": "الانبار",
+        "en": "Al-Anbar",
+        "slug": "al-anbar-iqg01"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.559",
+    "lon": "41.158"
+  },
+  "metadata": {},
+  "source": {}
+}

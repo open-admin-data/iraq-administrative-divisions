@@ -1,0 +1,218 @@
+[
+  {
+    "id": "IQG05Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الدغارة",
+      "en": "Al-Daghara",
+      "slug": "al-daghara-iqg05q02n01"
+    },
+    "code": {
+      "id": "IQG05Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q02",
+      "level": 2,
+      "name": {
+        "local": "الديوانية",
+        "en": "Al-Diwaniya",
+        "slug": "al-diwaniya-iqg05q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q02",
+        "level": 2,
+        "name": {
+          "local": "الديوانية",
+          "en": "Al-Diwaniya",
+          "slug": "al-diwaniya-iqg05q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.149",
+      "lon": "44.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السنية",
+      "en": "Al-Saniya",
+      "slug": "al-saniya-iqg05q02n02"
+    },
+    "code": {
+      "id": "IQG05Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q02",
+      "level": 2,
+      "name": {
+        "local": "الديوانية",
+        "en": "Al-Diwaniya",
+        "slug": "al-diwaniya-iqg05q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q02",
+        "level": 2,
+        "name": {
+          "local": "الديوانية",
+          "en": "Al-Diwaniya",
+          "slug": "al-diwaniya-iqg05q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.038",
+      "lon": "44.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q02N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشافعية",
+      "en": "Al-Shafeia",
+      "slug": "al-shafeia-iqg05q02n03"
+    },
+    "code": {
+      "id": "IQG05Q02N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q02",
+      "level": 2,
+      "name": {
+        "local": "الديوانية",
+        "en": "Al-Diwaniya",
+        "slug": "al-diwaniya-iqg05q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q02",
+        "level": 2,
+        "name": {
+          "local": "الديوانية",
+          "en": "Al-Diwaniya",
+          "slug": "al-diwaniya-iqg05q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.895",
+      "lon": "44.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG05Q02N04",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الديوانية",
+      "en": "Markaz Al-Diwaniya",
+      "slug": "markaz-al-diwaniya-iqg05q02n04"
+    },
+    "code": {
+      "id": "IQG05Q02N04",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG05Q02",
+      "level": 2,
+      "name": {
+        "local": "الديوانية",
+        "en": "Al-Diwaniya",
+        "slug": "al-diwaniya-iqg05q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG05",
+        "level": 1,
+        "name": {
+          "local": "القادسية",
+          "en": "Al-Qadissiya",
+          "slug": "al-qadissiya-iqg05"
+        }
+      },
+      {
+        "id": "IQG05Q02",
+        "level": 2,
+        "name": {
+          "local": "الديوانية",
+          "en": "Al-Diwaniya",
+          "slug": "al-diwaniya-iqg05q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.974",
+      "lon": "45.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "IQG10",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ديالى",
+    "en": "Diyala",
+    "slug": "diyala-iqg10"
+  },
+  "code": {
+    "id": "IQG10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "subdistrict": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.071",
+    "lon": "44.896"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/diyala-iqg10/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

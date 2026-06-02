@@ -1,0 +1,47 @@
+{
+  "id": "IQG11Q04",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "مخمور",
+    "en": "Makhmour",
+    "slug": "makhmour-iqg11q04"
+  },
+  "code": {
+    "id": "IQG11Q04",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG11",
+    "level": 1,
+    "name": {
+      "local": "اربيل",
+      "en": "Erbil",
+      "slug": "erbil-iqg11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG11",
+      "level": 1,
+      "name": {
+        "local": "اربيل",
+        "en": "Erbil",
+        "slug": "erbil-iqg11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.823",
+    "lon": "43.652"
+  },
+  "metadata": {},
+  "source": {}
+}

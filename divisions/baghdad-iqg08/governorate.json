@@ -1,0 +1,34 @@
+{
+  "id": "IQG08",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "بغداد",
+    "en": "Baghdad",
+    "slug": "baghdad-iqg08"
+  },
+  "code": {
+    "id": "IQG08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "subdistrict": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.278",
+    "lon": "44.379"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/iq/governorates/baghdad-iqg08/",
+    "api": "https://openadmindata.org/api/iq/"
+  }
+}

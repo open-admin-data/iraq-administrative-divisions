@@ -1,0 +1,47 @@
+{
+  "id": "IQG02Q01",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "ابي الخصيب",
+    "en": "Abu Al-Khaseeb",
+    "slug": "abu-al-khaseeb-iqg02q01"
+  },
+  "code": {
+    "id": "IQG02Q01",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG02",
+    "level": 1,
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.336",
+    "lon": "47.993"
+  },
+  "metadata": {},
+  "source": {}
+}

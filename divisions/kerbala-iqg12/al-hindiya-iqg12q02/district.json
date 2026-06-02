@@ -1,0 +1,47 @@
+{
+  "id": "IQG12Q02",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "الهندية",
+    "en": "Al-Hindiya",
+    "slug": "al-hindiya-iqg12q02"
+  },
+  "code": {
+    "id": "IQG12Q02",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG12",
+    "level": 1,
+    "name": {
+      "local": "كربلاء",
+      "en": "Kerbala",
+      "slug": "kerbala-iqg12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG12",
+      "level": 1,
+      "name": {
+        "local": "كربلاء",
+        "en": "Kerbala",
+        "slug": "kerbala-iqg12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.465",
+    "lon": "44.207"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG08Q06N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الكرادة الشرقية",
+      "en": "Al-Karrada Al-Sharqia",
+      "slug": "al-karrada-al-sharqia-iqg08q06n01"
+    },
+    "code": {
+      "id": "IQG08Q06N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q06",
+      "level": 2,
+      "name": {
+        "local": "الرصافة",
+        "en": "Al-Risafa",
+        "slug": "al-risafa-iqg08q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q06",
+        "level": 2,
+        "name": {
+          "local": "الرصافة",
+          "en": "Al-Risafa",
+          "slug": "al-risafa-iqg08q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.286",
+      "lon": "44.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q06N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بغداد الجديدة",
+      "en": "Baghdad Al-Jedeeda",
+      "slug": "baghdad-al-jedeeda-iqg08q06n02"
+    },
+    "code": {
+      "id": "IQG08Q06N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q06",
+      "level": 2,
+      "name": {
+        "local": "الرصافة",
+        "en": "Al-Risafa",
+        "slug": "al-risafa-iqg08q06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q06",
+        "level": 2,
+        "name": {
+          "local": "الرصافة",
+          "en": "Al-Risafa",
+          "slug": "al-risafa-iqg08q06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.346",
+      "lon": "44.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

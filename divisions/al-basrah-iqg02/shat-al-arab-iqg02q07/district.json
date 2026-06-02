@@ -1,0 +1,47 @@
+{
+  "id": "IQG02Q07",
+  "level": 2,
+  "level_name": {
+    "local": "قضاء",
+    "en": "District"
+  },
+  "name": {
+    "local": "شط العرب",
+    "en": "Shat Al-Arab",
+    "slug": "shat-al-arab-iqg02q07"
+  },
+  "code": {
+    "id": "IQG02Q07",
+    "iso": null
+  },
+  "parent": {
+    "id": "IQG02",
+    "level": 1,
+    "name": {
+      "local": "البصرة",
+      "en": "Al-Basrah",
+      "slug": "al-basrah-iqg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IQG02",
+      "level": 1,
+      "name": {
+        "local": "البصرة",
+        "en": "Al-Basrah",
+        "slug": "al-basrah-iqg02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.723",
+    "lon": "47.892"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG14Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الطيب",
+      "en": "Al-Teeb",
+      "slug": "al-teeb-iqg14q01n02"
+    },
+    "code": {
+      "id": "IQG14Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q01",
+      "level": 2,
+      "name": {
+        "local": "العمارة",
+        "en": "Al-Amara",
+        "slug": "al-amara-iqg14q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q01",
+        "level": 2,
+        "name": {
+          "local": "العمارة",
+          "en": "Al-Amara",
+          "slug": "al-amara-iqg14q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.218",
+      "lon": "47.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG14Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كميت",
+      "en": "Kumait",
+      "slug": "kumait-iqg14q01n01"
+    },
+    "code": {
+      "id": "IQG14Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG14Q01",
+      "level": 2,
+      "name": {
+        "local": "العمارة",
+        "en": "Al-Amara",
+        "slug": "al-amara-iqg14q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG14",
+        "level": 1,
+        "name": {
+          "local": "ميسان",
+          "en": "Maysan",
+          "slug": "maysan-iqg14"
+        }
+      },
+      {
+        "id": "IQG14Q01",
+        "level": 2,
+        "name": {
+          "local": "العمارة",
+          "en": "Al-Amara",
+          "slug": "al-amara-iqg14q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.899",
+      "lon": "46.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

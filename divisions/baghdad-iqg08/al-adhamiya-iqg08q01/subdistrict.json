@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IQG08Q01N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفحامة",
+      "en": "Al-Fahama",
+      "slug": "al-fahama-iqg08q01n02"
+    },
+    "code": {
+      "id": "IQG08Q01N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q01",
+      "level": 2,
+      "name": {
+        "local": "الاعظمية",
+        "en": "Al-Adhamiya",
+        "slug": "al-adhamiya-iqg08q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q01",
+        "level": 2,
+        "name": {
+          "local": "الاعظمية",
+          "en": "Al-Adhamiya",
+          "slug": "al-adhamiya-iqg08q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.443",
+      "lon": "44.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q01N03",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الراشدية",
+      "en": "Al-Rashdia",
+      "slug": "al-rashdia-iqg08q01n03"
+    },
+    "code": {
+      "id": "IQG08Q01N03",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q01",
+      "level": 2,
+      "name": {
+        "local": "الاعظمية",
+        "en": "Al-Adhamiya",
+        "slug": "al-adhamiya-iqg08q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q01",
+        "level": 2,
+        "name": {
+          "local": "الاعظمية",
+          "en": "Al-Adhamiya",
+          "slug": "al-adhamiya-iqg08q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.548",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG08Q01N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الاعظمية",
+      "en": "Markaz Al-Adhamiya",
+      "slug": "markaz-al-adhamiya-iqg08q01n01"
+    },
+    "code": {
+      "id": "IQG08Q01N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG08Q01",
+      "level": 2,
+      "name": {
+        "local": "الاعظمية",
+        "en": "Al-Adhamiya",
+        "slug": "al-adhamiya-iqg08q01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG08",
+        "level": 1,
+        "name": {
+          "local": "بغداد",
+          "en": "Baghdad",
+          "slug": "baghdad-iqg08"
+        }
+      },
+      {
+        "id": "IQG08Q01",
+        "level": 2,
+        "name": {
+          "local": "الاعظمية",
+          "en": "Al-Adhamiya",
+          "slug": "al-adhamiya-iqg08q01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.376",
+      "lon": "44.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

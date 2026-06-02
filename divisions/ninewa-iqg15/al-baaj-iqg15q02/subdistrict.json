@@ -1,0 +1,110 @@
+[
+  {
+    "id": "IQG15Q02N02",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القحطانية",
+      "en": "Al-Qahtanya",
+      "slug": "al-qahtanya-iqg15q02n02"
+    },
+    "code": {
+      "id": "IQG15Q02N02",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q02",
+      "level": 2,
+      "name": {
+        "local": "البعاج",
+        "en": "Al-Baaj",
+        "slug": "al-baaj-iqg15q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q02",
+        "level": 2,
+        "name": {
+          "local": "البعاج",
+          "en": "Al-Baaj",
+          "slug": "al-baaj-iqg15q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.207",
+      "lon": "41.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IQG15Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز البعاج",
+      "en": "Markaz Al-Baaj",
+      "slug": "markaz-al-baaj-iqg15q02n01"
+    },
+    "code": {
+      "id": "IQG15Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG15Q02",
+      "level": 2,
+      "name": {
+        "local": "البعاج",
+        "en": "Al-Baaj",
+        "slug": "al-baaj-iqg15q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG15",
+        "level": 1,
+        "name": {
+          "local": "نينوى",
+          "en": "Ninewa",
+          "slug": "ninewa-iqg15"
+        }
+      },
+      {
+        "id": "IQG15Q02",
+        "level": 2,
+        "name": {
+          "local": "البعاج",
+          "en": "Al-Baaj",
+          "slug": "al-baaj-iqg15q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.625",
+      "lon": "41.695"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

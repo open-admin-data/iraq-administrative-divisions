@@ -1,0 +1,56 @@
+[
+  {
+    "id": "IQG16Q02N01",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الشرقاط",
+      "en": "Markaz Al-Shirqat",
+      "slug": "markaz-al-shirqat-iqg16q02n01"
+    },
+    "code": {
+      "id": "IQG16Q02N01",
+      "iso": null
+    },
+    "parent": {
+      "id": "IQG16Q02",
+      "level": 2,
+      "name": {
+        "local": "الشرقاط",
+        "en": "Al-Shirqat",
+        "slug": "al-shirqat-iqg16q02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IQG16",
+        "level": 1,
+        "name": {
+          "local": "صلاح الدين",
+          "en": "Salah Al-Din",
+          "slug": "salah-al-din-iqg16"
+        }
+      },
+      {
+        "id": "IQG16Q02",
+        "level": 2,
+        "name": {
+          "local": "الشرقاط",
+          "en": "Al-Shirqat",
+          "slug": "al-shirqat-iqg16q02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.474",
+      "lon": "43.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
