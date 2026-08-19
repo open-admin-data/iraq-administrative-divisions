@@ -3,7 +3,7 @@
 > 6 districts, 21 sub-districts
 > Code: IQG11
 > Coordinates: 36.379, 44.21
-> Last updated: 2026-06-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

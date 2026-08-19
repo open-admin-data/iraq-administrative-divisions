@@ -3,7 +3,7 @@
 > 7 districts, 19 sub-districts
 > Code: IQG16
 > Coordinates: 34.66, 43.634
-> Last updated: 2026-06-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

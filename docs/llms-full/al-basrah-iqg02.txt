@@ -3,7 +3,7 @@
 > 7 districts, 18 sub-districts
 > Code: IQG02
 > Coordinates: 30.208, 47.502
-> Last updated: 2026-06-02. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
