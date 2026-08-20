@@ -3,7 +3,7 @@
 > 3 districts, 5 sub-districts
 > Code: IQG12
 > Coordinates: 32.498, 43.8
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

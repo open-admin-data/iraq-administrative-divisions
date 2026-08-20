@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/iq](https://openadmindata.org/iq/) |
 | API | [openadmindata.org/api/iq](https://openadmindata.org/api/iq/) |
+| Flag | [PNG](https://onlygames.me/flags-png/iq/) · [SVG](https://onlygames.me/flags-svg/iq/) · [PDF](https://onlygames.me/flags-pdf/iq/) |
 | National Anthem | [🎵 Listen & Download Iraq National Anthem MP3](https://onlygames.me/national-anthems/iq/) |
 
 ## Browse by Governorate
